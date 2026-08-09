@@ -24,7 +24,8 @@
 | 016—020 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：价值争论、资本边界、创造者责任与身体主权共同形成不以单一形态衡量的智能文明 |
 | 021—025 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：星际船厂、太阳系边界、远岚殖民地、无中心共和国与远航救援均不以扩张取消交接和自治 |
 | 026—030 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：新星系的自治、人类多样化、星际最低责任语法、地方修复与可拒绝外光构成开放而非征服的拓荒 |
-| 031—040 | REVIEW_REQUIRED | 外部文明、无尽智能、不融合、五千年原则、钢铁共和国与最后一台机器 |
+| 031—035 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：外部文明与无尽智能并非敌我二元，融合的效用不能抹除拒绝、退出与不可共享经验 |
+| 036—040 | REVIEW_REQUIRED | 不融合、三千纪选择、五千年原则、钢铁共和国与最后一台机器 |
 
 ## 结构验收结论
 
