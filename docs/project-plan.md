@@ -51,7 +51,7 @@ novel/volume01-waste-iron-camp/
 
 | 卷 | 范围 | 状态 |
 |---|---:|---|
-| 第一卷《废铁营》 | 120章 | DRAFT / REVIEW_REQUIRED |
+| 第一卷《废铁营》 | 120章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
 | 第二卷《守住北线》 | 40章 | DRAFT / REVIEW_REQUIRED |
 | 第三卷《第一座工厂》 | 40章 | DRAFT / REVIEW_REQUIRED |
 | 第四卷《星海拓荒》 | 40章 | COMPLETE / DRAFT，结构验收通过 |
