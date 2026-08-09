@@ -1,9 +1,9 @@
 # 第二卷：《守住北线》
 # 第四十章：守住之后
 
-版本：SR-VOL02-CH040-v1.0
+版本：SR-VOL02-CH040-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -387,9 +387,9 @@ SE160年冬，北线共同维修站发布重建状态。
 ## 卷级审稿状态
 
 - 时间线：PASS / SE 120—160
-- 世界观：REVIEW_REQUIRED
-- 人物一致性：REVIEW_REQUIRED
-- 伏笔登记：REVIEW_REQUIRED
+- 世界观：POLISH_PASS_1
+- 人物一致性：POLISH_PASS_1
+- 伏笔登记：POLISH_PASS_1
 - 主题闭合：PASS / 维护文明
-- 第二卷状态：DRAFT / REVIEW_REQUIRED
+- 第二卷状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 - 下一卷承接：第一工业时代、E-100维修学校、北轨未知设备、战后工业治理
