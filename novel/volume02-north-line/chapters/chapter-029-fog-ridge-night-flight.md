@@ -1,9 +1,9 @@
 # 第二卷：《守住北线》
 # 第二十九章：雾岭夜航
 
-版本：SR-VOL02-CH029-v1.0
+版本：SR-VOL02-CH029-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -388,11 +388,11 @@
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 144—145
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 144—145 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
