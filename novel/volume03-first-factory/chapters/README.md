@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-035-creator-boundary.md。前三篇正文闭合，创造者边界草案已形成；下一生产任务：第036章《协议草案》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-040-first-industrial-era.md。第三卷四篇正文初稿全部闭合；下一生产任务：建立第四卷《星海拓荒》并开始正文生产。
