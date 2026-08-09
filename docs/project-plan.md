@@ -69,6 +69,12 @@ novel/volume01-waste-iron-camp/
 
 ## 阶段五：发布与百科化
 
-状态：`NEXT / REVIEW`
+状态：`IN_PROGRESS / LITERARY_REVIEW`
 
 计划包括版本发布、视觉资产整理、百科网站和跨媒体改编资料。
+
+### 当前精修批次
+
+- 第一卷开篇001—004已完成第一轮文学精修，保留为 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`
+- 第005章相对时间连续性债务 C-002 已修复，正文仍待第一轮文学精修
+- 下一批：第一卷005—020，完成第一篇“废铁里的火种”的语言精修与独立复审
