@@ -24,7 +24,7 @@
 | 006 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以H-12中止测试承载第928项责任选择；C-003已修复，推进F008/F009 |
 | 007 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：收紧M-927／贺岩的旧事故信息，保留404核心缺口与F010；新增F010 |
 | 008 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：限定404仅提供异常信号，以物理证据支撑中止；修复第七码头笔误，新增F011 |
-| 009 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F012，韩朔正式介入 |
+| 009 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：韩朔以安全审查者身份建立有限试行与双岗位复核，修复记录镜头一致性；新增F012 |
 | 010 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；顾言效率路线正式介入，新增F013 |
 | 011 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；顾言启动标准化维修培训，形成F014双层课程伏笔 |
 | 012 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；K-7现场考试推进F014并新增F015责任条款 |
