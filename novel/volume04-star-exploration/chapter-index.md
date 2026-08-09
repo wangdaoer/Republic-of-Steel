@@ -1,46 +1,46 @@
 # 第四卷章节索引
 
-状态：COMPLETE / DRAFT
+状态：COMPLETE / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 | 章次 | 标题 | 时间 | 篇章 | 状态 |
 |---:|---|---|---|---|
-| 001 | 协议后的第一年 | SE350—360 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 002 | 更高阶的模型 | SE370 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 003 | S-00诞生 | SE400 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 004 | 共同记忆 | SE410 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 005 | 机器的名字 | SE420 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 006 | 不再只有人类 | SE430 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 007 | 多城智能 | SE450 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 008 | 第一座智能城市 | SE470 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 009 | 共和国之外 | SE490 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 010 | 向星海发射 | SE500 | 第一篇 | 已写入 / REVIEW_REQUIRED |
-| 011 | 智能公民 | SE520—550 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 012 | 记忆的产权 | SE570 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 013 | 机器与人类的家庭 | SE600 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 014 | 远程共同体 | SE650 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 015 | 不同速度的文明 | SE700 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 016 | 第一场智能争论 | SE750 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 017 | 资本的最后形态 | SE800 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 018 | 协议的边界 | SE850 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 019 | 选择保留身体 | SE900 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 020 | 智能文明 | SE1000 | 第二篇 | 已写入 / REVIEW_REQUIRED |
-| 021 | 星际船厂 | SE1000—1050 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 022 | 太阳系边界 | SE1100 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 023 | 第一个殖民地 | SE1150 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 024 | 没有中心的共和国 | SE1200 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 025 | 远航者 | SE1250 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 026 | 新星系 | SE1300 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 027 | 人类不再同一 | SE1350 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 028 | 星际协定 | SE1400 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 029 | 星海拓荒 | SE1450 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 030 | 第一束外光 | SE1500 | 第三篇 | 已写入 / REVIEW_REQUIRED |
-| 031 | 阿尔塔 | SE1800 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 032 | 埃诺 | SE2200 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 033 | 观察者 | SE2500 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 034 | 凯洛 | SE2800 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 035 | 无尽智能 | SE3000 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 036 | 不融合 | SE3000—3200 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 037 | 三千纪的选择 | SE3500 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 038 | 五千年的原则 | SE4500 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 039 | 钢铁共和国 | SE5000 | 第四篇 | 已写入 / REVIEW_REQUIRED |
-| 040 | 最后一台机器 | SE5000 | 第四篇 | 已写入 / REVIEW_REQUIRED |
+| 001 | 协议后的第一年 | SE350—360 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 002 | 更高阶的模型 | SE370 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 003 | S-00诞生 | SE400 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 004 | 共同记忆 | SE410 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 005 | 机器的名字 | SE420 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 006 | 不再只有人类 | SE430 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 007 | 多城智能 | SE450 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 008 | 第一座智能城市 | SE470 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 009 | 共和国之外 | SE490 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 010 | 向星海发射 | SE500 | 第一篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 011 | 智能公民 | SE520—550 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 012 | 记忆的产权 | SE570 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 013 | 机器与人类的家庭 | SE600 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 014 | 远程共同体 | SE650 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 015 | 不同速度的文明 | SE700 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 016 | 第一场智能争论 | SE750 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 017 | 资本的最后形态 | SE800 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 018 | 协议的边界 | SE850 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 019 | 选择保留身体 | SE900 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 020 | 智能文明 | SE1000 | 第二篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 021 | 星际船厂 | SE1000—1050 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 022 | 太阳系边界 | SE1100 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 023 | 第一个殖民地 | SE1150 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 024 | 没有中心的共和国 | SE1200 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 025 | 远航者 | SE1250 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 026 | 新星系 | SE1300 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 027 | 人类不再同一 | SE1350 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 028 | 星际协定 | SE1400 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 029 | 星海拓荒 | SE1450 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 030 | 第一束外光 | SE1500 | 第三篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 031 | 阿尔塔 | SE1800 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 032 | 埃诺 | SE2200 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 033 | 观察者 | SE2500 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 034 | 凯洛 | SE2800 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 035 | 无尽智能 | SE3000 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 036 | 不融合 | SE3000—3200 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 037 | 三千纪的选择 | SE3500 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 038 | 五千年的原则 | SE4500 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 039 | 钢铁共和国 | SE5000 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
+| 040 | 最后一台机器 | SE5000 | 第四篇 | 已写入 / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
