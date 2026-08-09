@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-005-workers-not-parts.md。第一篇“战后重建”推进至工人恢复席；下一生产任务：第006章《供应链回到地方》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-010-who-owns-maintenance.md。第一篇“战后重建”正文初稿已闭合；下一生产任务：第011章《国家工厂》。
