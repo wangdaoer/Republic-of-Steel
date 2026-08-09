@@ -107,10 +107,11 @@ steel-republic-project/
 
 ## 当前状态
 
-- Version：`SR-V1.0`
-- 阶段：世界观数据库完成，GitHub/Codex 工程骨架初始化完成
-- 正文状态：第一卷正文尚未迁移到本工程库
-- GitHub远程仓库：尚未创建
+- Version：`SR-V1.2`
+- 阶段：第一卷正文持续生产；第一篇001—020、第二篇021—060、第三篇061—100已建立初稿
+- 正文状态：第一卷001—100已写入 GitHub；全部保持 `DRAFT / REVIEW_REQUIRED`
+- 当前生产点：第四篇101—120，目标是完成第一卷并回收废铁营、404与共同协议主线
+- GitHub远程仓库：[wangdaoer/Republic-of-Steel](https://github.com/wangdaoer/Republic-of-Steel)，默认分支 `main`
 
 ### Canon入口
 
