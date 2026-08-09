@@ -65,3 +65,23 @@
 - 第一篇“废铁里的火种”001—020：DRAFT / REVIEW_REQUIRED
 - 第二篇“拓荒者诞生”021—060：OUTLINE / 下一生产阶段
 - 全局Canon未被静默修改
+
+
+## 2026-08-09 — Volume 01 Mainline Continuation
+
+完成：
+
+- 第一卷第21—100章正文初稿
+- 第二篇SE 20—60：E-08、创造者协议讨论、自由制造、制造者联盟与拓荒者时代
+- 第三篇SE 61—94：跨区网络、S-R7资本化机甲、北线责任战争与共同责任共治框架
+- 第一卷第100章前的事故、保险、规则、退出、暂停、现场证据和公共修复线
+- 章节索引、人物状态、卷内时间线、伏笔表、审稿台账和章节目录同步
+- 根目录README、CHANGELOG与项目计划更新为远程生产状态
+
+当前状态：
+
+- 第一篇001—020：DRAFT / REVIEW_REQUIRED
+- 第二篇021—060：DRAFT / REVIEW_REQUIRED
+- 第三篇061—100：DRAFT / REVIEW_REQUIRED
+- 第四篇101—120：继续生产
+- GitHub远程仓库：wangdaoer/Republic-of-Steel，默认分支main
