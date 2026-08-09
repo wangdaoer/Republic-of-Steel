@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第八十五章：事故中的第二次决定
+# 第八十五章：事故中的第二次决定必须允许暂停、反证、修改与公开理由决定
 
-版本：SR-VOL01-CH085-v1.0
+版本：SR-VOL01-CH085-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -289,11 +289,11 @@ S-R7-088的替代执行器被拆下，换回经过测试的标准件。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 80
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 80 连续；C-001—C-003 已修复）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
