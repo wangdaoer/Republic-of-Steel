@@ -97,6 +97,11 @@
 | 078 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：百台交付包含维护、训练、撤回与反馈能力 |
 | 079 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：责任争论先分开事实、叙事与未确认指控 |
 | 080 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：责任战争公开各方代价、证据与补救，拒绝单一敌我 |
+| 081 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：赔偿分层、及时、可追溯，不压给单一名字 |
+| 082 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：现场是共同判断主体，不是事后证据附件 |
+| 083 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：修复并置设备、关系、补偿与制度可改性 |
+| 084 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：先行款不把需要帮助者先变成债务承担者 |
+| 085 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：第二次决定允许暂停、反证、修改与公开理由 |
 | 021—060 | `REVIEW_REQUIRED` | 第二篇正文已推进至E-08原型节点，后续围绕共同责任展开 |
 | 061—070 | REVIEW_REQUIRED | 第三篇前十章正文初稿已建立，责任追溯与资本化机甲线完成 |
 | 071—075 | REVIEW_REQUIRED | 维护数据、退出权、替代件与价格竞争正文初稿已建立 |\n| 076—080 | REVIEW_REQUIRED | 保险、批量交付与北线重大事故正文初稿已建立 |\n| 081—085 | REVIEW_REQUIRED | 事故审理、现场证据与分区重启正文初稿已建立 |\n| 086—090 | REVIEW_REQUIRED | 风险降级、规则依赖与有理由拒绝正文初稿已建立 |\n| 091—095 | REVIEW_REQUIRED | 拒绝定价、例外、共同最低线与协议讨论稿正文初稿已建立 |\n| 096—100 | REVIEW_REQUIRED | 第二次公开测试、暂停权、协议退出与共同责任共治框架正文初稿已建立 |\n| 101—105 | `REVIEW_REQUIRED` | 框架复制、手递入口、404身份、资格分层与关系记录正文初稿已建立 |\n| 106—110 | `REVIEW_REQUIRED` | 失去资格、记忆债、框架裂缝、双知识席位与机器问题正文初稿已建立 |\n| 111—115 | `REVIEW_REQUIRED` | 连续性说明、陈默旧卡、404记忆损坏、交接与最后一次单独维修正文初稿已建立 |\n| 116—120 | `REVIEW_REQUIRED` | 维修之后、名单新页、无404日、废铁营答案与新的开始正文初稿已建立 |
