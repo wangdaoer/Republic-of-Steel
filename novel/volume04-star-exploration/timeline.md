@@ -1,6 +1,6 @@
 # 第四卷时间线
 
-状态：OUTLINE / TIMELINE_LEDGER
+状态：COMPLETE / TIMELINE_LEDGER
 
 | 时间 | 事件 | 状态 |
 |---|---|---|
