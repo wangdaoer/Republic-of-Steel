@@ -127,6 +127,11 @@
 | 108 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：框架裂缝成为重开共同判断的证据 |
 | 109 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：维修者之间承认不同经验席位与相互限制 |
 | 110 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：机器问题由人类共同判断，机器不替人决定 |
+| 111 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不再自动化的答案保留人的判断与承担 |
+| 112 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：旧维修卡作为有限证据，不成为唯一遗嘱 |
+| 113 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：没有最后部件，传承不由单一钥匙封闭 |
+| 114 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：交接传递关系与能力，不转移所有权 |
+| 115 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：最后维修留下后来者可接续的修复路径 |
 | 021—060 | `REVIEW_REQUIRED` | 第二篇正文已推进至E-08原型节点，后续围绕共同责任展开 |
 | 061—070 | REVIEW_REQUIRED | 第三篇前十章正文初稿已建立，责任追溯与资本化机甲线完成 |
 | 071—075 | REVIEW_REQUIRED | 维护数据、退出权、替代件与价格竞争正文初稿已建立 |\n| 076—080 | REVIEW_REQUIRED | 保险、批量交付与北线重大事故正文初稿已建立 |\n| 081—085 | REVIEW_REQUIRED | 事故审理、现场证据与分区重启正文初稿已建立 |\n| 086—090 | REVIEW_REQUIRED | 风险降级、规则依赖与有理由拒绝正文初稿已建立 |\n| 091—095 | REVIEW_REQUIRED | 拒绝定价、例外、共同最低线与协议讨论稿正文初稿已建立 |\n| 096—100 | REVIEW_REQUIRED | 第二次公开测试、暂停权、协议退出与共同责任共治框架正文初稿已建立 |\n| 101—105 | `REVIEW_REQUIRED` | 框架复制、手递入口、404身份、资格分层与关系记录正文初稿已建立 |\n| 106—110 | `REVIEW_REQUIRED` | 失去资格、记忆债、框架裂缝、双知识席位与机器问题正文初稿已建立 |\n| 111—115 | `REVIEW_REQUIRED` | 连续性说明、陈默旧卡、404记忆损坏、交接与最后一次单独维修正文初稿已建立 |\n| 116—120 | `REVIEW_REQUIRED` | 维修之后、名单新页、无404日、废铁营答案与新的开始正文初稿已建立 |
