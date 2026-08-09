@@ -1,9 +1,9 @@
 # 第三卷：《第一工厂》
 # 第二十一章：第一台自动臂
 
-版本：SR-VOL03-CH021-v1.0
+版本：SR-VOL03-CH021-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -324,11 +324,11 @@ L-1在夜班继续搬运阀体。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / L-1非人格、有限授权
-- 时间线一致性：PASS / SE 221
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 221 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
