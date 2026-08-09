@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-035-support-system.md。前三篇正文初稿已闭合，第四篇“E-100”推进至七十二小时支持系统演练；下一生产任务：第036章《最后的重装》。
+已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-040-after-holding.md。第二卷四篇正文初稿全部闭合；下一生产任务：建立第三卷《第一工厂》并开始正文生产。
