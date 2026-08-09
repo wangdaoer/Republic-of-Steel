@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第六十章：拓荒者时代
+# 第六十章：拓荒者时代开启不等于问题结束；失败、退出与修复路径必须随扩张留下
 
-版本：SR-VOL01-CH060-v1.0
+版本：SR-VOL01-CH060-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -288,11 +288,11 @@ E-08网络继续运行。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 与全局Canon第三纪元SE 30—120一致
-- 时间线一致性：PASS / SE 60阶段节点
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 60；C-001—C-003 已修复）阶段节点
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 第二篇完
 
