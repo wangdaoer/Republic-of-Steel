@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第十六章：第一场智能争论
 
-版本：SR-VOL04-CH016-v1.0
+版本：SR-VOL04-CH016-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -317,11 +317,11 @@ M-9在其中看到间隔和缺席。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 智能争论不是计算胜负或模型内战
-- 时间线一致性：PASS / SE 750
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 750 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
