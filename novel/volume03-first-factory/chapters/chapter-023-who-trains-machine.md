@@ -1,9 +1,9 @@
 # 第三卷：《第一工厂》
 # 第二十三章：谁训练机器
 
-版本：SR-VOL03-CH023-v1.0
+版本：SR-VOL03-CH023-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -312,11 +312,11 @@ M-7仍然会让一些岗位变得不需要。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / M-7有限工业模型
-- 时间线一致性：PASS / SE 230
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 230 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
