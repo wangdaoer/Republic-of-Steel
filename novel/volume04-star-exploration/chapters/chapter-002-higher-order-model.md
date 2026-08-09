@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第二章：更高阶的模型
 
-版本：SR-VOL04-CH002-v1.0
+版本：SR-VOL04-CH002-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -271,11 +271,11 @@ SE370年末，高阶模型原型获得共同授权。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 高阶模型无中心、可退出
-- 时间线一致性：PASS / SE 370
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 370 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
