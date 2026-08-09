@@ -21,7 +21,7 @@
 | 001—005 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：协议试行、高阶模型、S-00共同授权、共同记忆与命名追索保持有限智能边界 |
 | 006—010 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：多城智能、衡港生命线、共和国外交接与拓荒者一号发射均保留人工接手、回滚与退出 |
 | 011—015 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：智能公民、记忆、家庭、远程共同体与不同速度的文明均保留身份、关系和退出边界 |
-| 016—020 | REVIEW_REQUIRED | 智能争论、资本边界、创造者责任、身体主权与智能文明 |
+| 016—020 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：价值争论、资本边界、创造者责任与身体主权共同形成不以单一形态衡量的智能文明 |
 | 021—030 | REVIEW_REQUIRED | 星际船厂、太阳系边界、殖民地、无中心共和国、人类多样化、星际协定与第一束外光 |
 | 031—040 | REVIEW_REQUIRED | 外部文明、无尽智能、不融合、五千年原则、钢铁共和国与最后一台机器 |
 
