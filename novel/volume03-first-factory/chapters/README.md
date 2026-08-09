@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-020-first-industrial-charter.md。第一篇与第二篇正文初稿已闭合，第一工业宪章已建立；下一生产任务：第021章《第一台自动臂》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-025-workers-exit-test.md。第三篇“自动化进入工厂”推进至工人退出测试；下一生产任务：第026章《人与机器的班次》。
