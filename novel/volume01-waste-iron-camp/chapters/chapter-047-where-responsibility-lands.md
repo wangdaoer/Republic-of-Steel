@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第四十七章：责任落在谁身上
+# 第四十七章：责任可以分层，但每一层都要留下可追问的依据落在谁身上
 
-版本：SR-VOL01-CH047-v1.0
+版本：SR-VOL01-CH047-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -241,11 +241,11 @@
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 47
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 47；C-001—C-003 已修复）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
