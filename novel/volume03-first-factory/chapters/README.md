@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-010-who-owns-maintenance.md。第一篇“战后重建”正文初稿已闭合；下一生产任务：第011章《国家工厂》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-015-line-vote.md。第一篇“战后重建”已闭合，第二篇“三权工业”推进至流水线共同投票；下一生产任务：第016章《速度的价格》。
