@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-025-workers-exit-test.md。第三篇“自动化进入工厂”推进至工人退出测试；下一生产任务：第026章《人与机器的班次》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-030-after-losing-jobs.md。第三篇“自动化进入工厂”正文初稿已闭合，SE280智能资本前置形成；下一生产任务：第031章《智能资本》。
