@@ -21,7 +21,7 @@
 | 021—025 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：雾岭制造、学校、档案与留守交接被明确为可迁移的文明节点 |
 | 026—030 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：留守责任、空工厂、移动档案、雾岭夜航与SE145撤离保持迁移与重建的关系链 |
 | 031—035 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：E-100从重建需要出发，接口、低压行走与支持系统风险并行显现 |
-| 036—040 | DRAFT / REVIEW_REQUIRED | 任务重装、失败前状态、E-100失败、北线结束与战后维修学校待卷内复核 |
+| 036—040 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：E-100因支持系统同时收紧而失败，北线以维修学校与公共维护重建闭合 |
 
 ## 审稿结论规则
 
