@@ -1,9 +1,9 @@
 # 第二卷：《守住北线》
 # 第一章：北轨的第一台机器
 
-版本：SR-VOL02-CH001-v1.0
+版本：SR-VOL02-CH001-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -254,11 +254,11 @@ N-UNCONFIRMED-01没有被列入。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 119—120
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 119 连续）—120
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
