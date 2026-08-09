@@ -2,7 +2,7 @@
 
 版本：`SR-VOL01-v1.0`
 
-状态：`OUTLINE / PRODUCTION_READY`
+状态：`DRAFT / PRODUCTION`
 
 ## 基本信息
 
@@ -44,3 +44,9 @@
 - [审稿台账](review.md)
 - [卷级写作规则](AGENTS.md)
 - [章节目录](chapters/README.md)
+
+## 当前进度
+
+- 第一篇 001—020：正文初稿已建立。
+- SE 5：废铁营完成有限登记。
+- 下一阶段：第二篇《拓荒者诞生》，从林川与民间制造线展开。
