@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第六十八章：不在场的决定
+# 第六十八章：不在场的决定者即使不在场，也应留下可被追问的理由与补救入口
 
-版本：SR-VOL01-CH068-v1.0
+版本：SR-VOL01-CH068-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -310,11 +310,11 @@ R-9在 SE 63 被修改过一次。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 68
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 68 连续；C-001—C-003 已修复）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
