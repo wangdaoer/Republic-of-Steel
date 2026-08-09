@@ -107,10 +107,14 @@ steel-republic-project/
 
 ## 当前状态
 
-- Version：`SR-V1.2`
-- 阶段：第一卷正文持续生产；第一篇001—020、第二篇021—060、第三篇061—100已建立初稿
-- 正文状态：第一卷001—100已写入 GitHub；全部保持 `DRAFT / REVIEW_REQUIRED`
-- 当前生产点：第四篇101—120，目标是完成第一卷并回收废铁营、404与共同协议主线
+- Version：`SR-V1.3`
+- 阶段：四卷正文初稿已全部完成，世界观与卷级台账已同步
+- 正文规模：240章（第一卷120章、第二卷40章、第三卷40章、第四卷40章）
+- 第一卷《废铁营》：001—120已写入，保持 `DRAFT / REVIEW_REQUIRED`
+- 第二卷《守住北线》：001—040已写入，保持 `DRAFT / REVIEW_REQUIRED`
+- 第三卷《第一座工厂》：001—040已写入，保持 `DRAFT / REVIEW_REQUIRED`
+- 第四卷《星海拓荒》：001—040已写入，结构验收通过，正文保持 `DRAFT`
+- 总体状态：`COMPLETE / DRAFT`；全书结构完成，逐章文学精修与复审仍可继续
 - GitHub远程仓库：[wangdaoer/Republic-of-Steel](https://github.com/wangdaoer/Republic-of-Steel)，默认分支 `main`
 
 ### Canon入口
@@ -130,6 +134,9 @@ steel-republic-project/
 - [人物一致性检查模板](prompts/character-check.md)
 - [世界观检查模板](prompts/lore-check.md)
 - [第一卷生产数据库](novel/volume01-waste-iron-camp/README.md)
+- [第二卷生产数据库](novel/volume02-north-line/README.md)
+- [第三卷生产数据库](novel/volume03-first-factory/README.md)
+- [第四卷生产数据库](novel/volume04-star-exploration/README.md)
 
 ## 状态约定
 
@@ -139,3 +146,4 @@ steel-republic-project/
 - `PROPOSAL`：候选方案
 - `TBD`：需要作者决策
 - `ACCEPTED`：正文已验收，可回写状态台账
+- `COMPLETE`：规划范围内的正文与结构资产已完成
