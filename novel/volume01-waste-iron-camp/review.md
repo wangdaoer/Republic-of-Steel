@@ -34,8 +34,8 @@
 | 016 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：128 项删除记录获得独立位置，推断不得进入责任表 |
 | 017 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：开放维修试行场建立，明确开放、边界与记录的共同条件 |
 | 018 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无404日验证独立维修，明确经验不得重新集中为单点依赖 |
-| 019 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F022，公共工具规则形成 |
-| 020 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；SE 5废铁营有限登记完成 |
+| 019 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公共工具确立可进入、可借用、可追溯的责任链 |
+| 020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：废铁营接受公开审查并完成 SE 5 有限登记 |
 | 015—020 | `REVIEW_REQUIRED` | 第一篇第一节点正文已建立，待独立审稿与字数润色 |
 | 021 | `DRAFT / REVIEW_REQUIRED` | 外出维修队离开废铁营，新增F023 |
 | 022 | `DRAFT / REVIEW_REQUIRED` | 不完整图纸与新设计分离，新增F024 |
