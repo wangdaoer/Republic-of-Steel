@@ -1,6 +1,6 @@
 # 第四卷人物与智能台账
 
-状态：OUTLINE / STATE_LEDGER
+状态：COMPLETE / STATE_LEDGER
 
 ## 周衡档案
 
