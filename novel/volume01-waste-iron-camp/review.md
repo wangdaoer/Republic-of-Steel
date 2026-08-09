@@ -33,7 +33,7 @@
 | 015 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：名单复核确立“证据边界”与未决状态，推进 F018/F019 |
 | 016 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：128 项删除记录获得独立位置，推断不得进入责任表 |
 | 017 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：开放维修试行场建立，明确开放、边界与记录的共同条件 |
-| 018 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F021，无404日验证独立维修 |
+| 018 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无404日验证独立维修，明确经验不得重新集中为单点依赖 |
 | 019 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F022，公共工具规则形成 |
 | 020 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；SE 5废铁营有限登记完成 |
 | 015—020 | `REVIEW_REQUIRED` | 第一篇第一节点正文已建立，待独立审稿与字数润色 |
