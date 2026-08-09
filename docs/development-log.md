@@ -104,3 +104,19 @@
 - 结构验收：PASS
 - 文学精修：REVIEW_REQUIRED
 - GitHub远程仓库：wangdaoer/Republic-of-Steel，默认分支main
+
+## 2026-08-09 — Volume 01 Literary Polish Pass 1
+
+完成：
+
+- 第一卷第001—004章完成第一轮文学精修并逐章写回审稿台账
+- 开篇链条重构为“404启动 → 被删除的维修脉络 → 工业测试 → B-17救援”
+- 补足第七码头的现场细节、周衡的责任代价与404的有限、可追溯安全判断
+- 修复第005章相对时间连续性债务 C-002，使其与第四章救援归档顺序一致
+- 全部改动直接同步至 GitHub 默认分支 main
+
+当前状态：
+
+- 第一卷001—004：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+- 第一卷005：DRAFT / CONTINUITY_FIX / REVIEW_REQUIRED
+- 下一批：005—020的第一轮文学精修，并在第一篇结束后执行独立回读
