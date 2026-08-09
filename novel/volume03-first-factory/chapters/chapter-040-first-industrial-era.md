@@ -1,9 +1,9 @@
 # 第三卷：《第一工厂》
 # 第四十章：第一工业时代
 
-版本：SR-VOL03-CH040-v1.0
+版本：SR-VOL03-CH040-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -385,9 +385,9 @@ SE350年末，七城工业档案厅为下一时代建立新目录。
 ## 卷级审稿状态
 
 - 时间线：PASS / SE160—350
-- 世界观：REVIEW_REQUIRED
-- 人物一致性：REVIEW_REQUIRED
-- 伏笔登记：REVIEW_REQUIRED
+- 世界观：POLISH_PASS_1
+- 人物一致性：POLISH_PASS_1
+- 伏笔登记：POLISH_PASS_1
 - 主题闭合：PASS / 工业的所有权与创造者责任
-- 第三卷状态：DRAFT / REVIEW_REQUIRED
+- 第三卷状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 - 下一卷承接：创造者协议、M-7N边界、北轨未知设备、更高阶智能与智能文明
