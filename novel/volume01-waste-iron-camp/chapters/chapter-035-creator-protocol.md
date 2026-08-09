@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第三十五章：创造者协议
+# 第三十五章：创造者协议：可被参与者质疑、修订和退出的共同承诺
 
-版本：SR-VOL01-CH035-v1.0
+版本：SR-VOL01-CH035-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -400,11 +400,11 @@ SE 30的广播从北方旧工业区发出。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
 - 时间线一致性：PASS / 拓荒者理念公开与全局Canon SE 30对齐
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 - Canon提示：本章协议为早期PROPOSAL，不得替代后世SE 350正式《创造者协议》
 
 ## 第二篇阶段节点
