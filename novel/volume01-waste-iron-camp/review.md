@@ -16,7 +16,7 @@
 
 | 范围 | 当前状态 | 说明 |
 |---|---|---|
-| 001 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；C-001已解决，仍需常规审稿 |
+| 001 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：补足第七码头现场、周衡选择的代价与404启动质感；C-001已解决，仍待终稿复审 |
 | 002 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；陈默材料已区分为隐藏档案线索；新增F005/F006 |
 | 003 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F007 |
 | 004 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F008 |
