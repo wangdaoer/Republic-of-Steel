@@ -107,14 +107,14 @@ steel-republic-project/
 
 ## 当前状态
 
-- Version：`SR-V1.3`
-- 阶段：四卷正文初稿已全部完成，世界观与卷级台账已同步
-- 正文规模：240章（第一卷120章、第二卷40章、第三卷40章、第四卷40章）
-- 第一卷《废铁营》：001—120已写入，保持 `DRAFT / REVIEW_REQUIRED`
-- 第二卷《守住北线》：001—040已写入，保持 `DRAFT / REVIEW_REQUIRED`
-- 第三卷《第一座工厂》：001—040已写入，保持 `DRAFT / REVIEW_REQUIRED`
-- 第四卷《星海拓荒》：001—040已写入，结构验收通过，正文保持 `DRAFT`
-- 总体状态：`COMPLETE / DRAFT`；全书结构完成，逐章文学精修与复审仍可继续
+- Version：`SR-V1.4`
+- 阶段：四卷正文与全部240章首轮文学精修已完成，Canon与卷级台账已同步。
+- 正文规模：240章（第一卷120章、第二卷40章、第三卷40章、第四卷40章）。
+- 第一卷《废铁营》：001—120，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
+- 第二卷《守住北线》：001—040，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
+- 第三卷《第一座工厂》：001—040，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
+- 第四卷《星海拓荒》：001—040，`COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
+- 总体状态：`COMPLETE / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`；全书结构验收通过，下一阶段为卷级独立回读、全书终稿复审与发布前校验。
 - GitHub远程仓库：[wangdaoer/Republic-of-Steel](https://github.com/wangdaoer/Republic-of-Steel)，默认分支 `main`
 
 ### Canon入口
