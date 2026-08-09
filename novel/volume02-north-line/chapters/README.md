@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-030-leaving-the-land.md。第一篇“断链开始”、第二篇“维修军团”和第三篇“雾岭撤离”正文初稿已闭合；下一生产任务：第031章《战后没有和平》。
+已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-035-support-system.md。前三篇正文初稿已闭合，第四篇“E-100”推进至七十二小时支持系统演练；下一生产任务：第036章《最后的重装》。
