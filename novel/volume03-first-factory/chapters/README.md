@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-030-after-losing-jobs.md。第三篇“自动化进入工厂”正文初稿已闭合，SE280智能资本前置形成；下一生产任务：第031章《智能资本》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-035-creator-boundary.md。前三篇正文闭合，创造者边界草案已形成；下一生产任务：第036章《协议草案》。
