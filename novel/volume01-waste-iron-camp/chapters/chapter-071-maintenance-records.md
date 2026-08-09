@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第七十一章：带不走的维护记录
+# 第七十一章：带不走的维护记录随系统流转，但不应成为对人永久追索或羞辱的工具
 
-版本：SR-VOL01-CH071-v1.0
+版本：SR-VOL01-CH071-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -307,11 +307,11 @@ S-R7第一次出现偏差时，星环系统把它标为“正常波动”，没�
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 71
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 71 连续；C-001—C-003 已修复）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
