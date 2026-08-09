@@ -31,7 +31,7 @@
 | 013 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12记录修订层推进F010/F011并新增F016 |
 | 014 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12-R2建立现场见证人角色，推进F009/F010并新增F017 |
 | 015 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：名单复核确立“证据边界”与未决状态，推进 F018/F019 |
-| 016 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F019，删除记录建立空白登记册 |
+| 016 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：128 项删除记录获得独立位置，推断不得进入责任表 |
 | 017 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；废弃工棚成为开放维修试行场 |
 | 018 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F021，无404日验证独立维修 |
 | 019 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F022，公共工具规则形成 |
