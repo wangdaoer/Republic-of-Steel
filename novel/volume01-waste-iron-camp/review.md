@@ -18,7 +18,7 @@
 |---|---|---|
 | 001 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：补足第七码头现场、周衡选择的代价与404启动质感；C-001已解决，仍待终稿复审 |
 | 002 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：将档案追查落为具体行动，强化404-Origin与陈默线索；陈默材料仍为隐藏档案线索，新增F005/F006 |
-| 003 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F007 |
+| 003 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以工业测试承载效率／价值冲突，强化现场判断与经验记录；新增F007 |
 | 004 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F008 |
 | 005 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F009，待独立审稿 |
 | 006 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；推进F008/F009，待独立审稿 |
