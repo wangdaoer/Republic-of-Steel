@@ -137,3 +137,10 @@
 - 第一卷001—010：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 - 第一卷011—020：DRAFT / REVIEW_REQUIRED，进入下一批精修
 - 连续性债务 C-001—C-003：已修复
+
+
+## 2026-08-09 — Volume 01 Literary Polish Pass 1 (001—020)
+
+- 第一卷第011—020章完成第一轮文学精修；第一篇“废铁里的火种”至此完成001—020全篇精修。
+- 本批串联双层课程、偏离责任、未决状态、空白登记册、开放维修场、无404日、公共工具与SE 5有限登记。
+- 第一卷001—020：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；下一步为第一篇独立回读与第二篇021—060精修。
