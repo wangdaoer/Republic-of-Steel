@@ -1,6 +1,6 @@
 # 第四卷审稿与验收台账
 
-状态：COMPLETE / STRUCTURAL_REVIEW
+状态：COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 卷级检查
 
@@ -25,7 +25,7 @@
 | 021—025 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：星际船厂、太阳系边界、远岚殖民地、无中心共和国与远航救援均不以扩张取消交接和自治 |
 | 026—030 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：新星系的自治、人类多样化、星际最低责任语法、地方修复与可拒绝外光构成开放而非征服的拓荒 |
 | 031—035 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：外部文明与无尽智能并非敌我二元，融合的效用不能抹除拒绝、退出与不可共享经验 |
-| 036—040 | REVIEW_REQUIRED | 不融合、三千纪选择、五千年原则、钢铁共和国与最后一台机器 |
+| 036—040 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：不融合、三千纪选择、五千年原则、钢铁共和国与最后一台机器把交接、退出、修复与停止交给下一双手 |
 
 ## 结构验收结论
 
@@ -34,7 +34,7 @@
 - 伏笔：PASS；V4-F001—V4-F012均完成回收或明确保留未知。
 - 章节交接：PASS；每章包含章节契约、正文、数据库更新、审稿状态和下一章预告。
 - 结局原则：PASS；钢铁共和国不是国家扩张，而是跨文明的可交接、可退出、可修复原则。
-- 文学精修：REVIEW_REQUIRED；当前交付为完整正文初稿，后续可继续做语言、重复意象和章节节奏精修。
+- 文学精修：POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；第一轮逐章精修已完成，卷级独立回读、重复意象与终稿节奏复核仍待执行。
 
 ## 已写章节审阅记录
 
