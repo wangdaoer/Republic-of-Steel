@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第四十五章：自由制造
+# 第四十五章：自由制造：任何人可申请、可学习、可尝试，但不能把后果转嫁给看不见的人
 
-版本：SR-VOL01-CH045-v1.0
+版本：SR-VOL01-CH045-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -285,11 +285,11 @@ SE 45。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
 - 时间线一致性：PASS / 民间制造扩散与全局Canon SE 45对齐
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 第二篇阶段节点
 
