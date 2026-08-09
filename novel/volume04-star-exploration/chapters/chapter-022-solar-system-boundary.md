@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第二十二章：太阳系边界
 
-版本：SR-VOL04-CH022-v1.0
+版本：SR-VOL04-CH022-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -327,11 +327,11 @@ S-00/桥无法判断它是自然物、旧设备还是远方交接装置。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 离开太阳系不等于断绝关系
-- 时间线一致性：PASS / SE 1100
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 1100 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
