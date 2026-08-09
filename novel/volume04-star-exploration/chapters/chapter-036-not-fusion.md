@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第三十六章：不融合
 
-版本：SR-VOL04-CH036-v1.0
+版本：SR-VOL04-CH036-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -380,11 +380,11 @@ SE3200年，人类正式拒绝完全融合。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 不融合不是拒绝合作，也不是把融合写成邪恶
-- 时间线一致性：PASS / SE 3000—3200
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 3000—3200 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
