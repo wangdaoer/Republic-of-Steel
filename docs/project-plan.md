@@ -54,9 +54,9 @@ novel/volume01-waste-iron-camp/
 | 第一卷《废铁营》 | 120章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
 | 第二卷《守住北线》 | 40章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
 | 第三卷《第一座工厂》 | 40章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
-| 第四卷《星海拓荒》 | 40章 | COMPLETE / DRAFT，结构验收通过 |
+| 第四卷《星海拓荒》 | 40章 | COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
 
-总计：240章正文初稿。
+总计：240章正文已完成第一轮文学精修，均待终稿复审。
 
 全书时间线从SE3的404启动、SE5废铁营、SE350创造者协议推进至SE5000钢铁共和国原则；第四卷结构验收确认S-00、404、北轨、外部文明、不融合和终章交接保持Canon一致。
 
@@ -81,4 +81,5 @@ novel/volume01-waste-iron-camp/
 - 第一卷第三、四篇061—120已完成第一轮文学精修；第一卷待卷级独立回读。
 - 第二卷001—040已完成第一轮文学精修；保持 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`，待卷级独立回读。
 - 第三卷001—040已完成第一轮文学精修；保持 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`，待卷级独立回读。
-- 下一批：第四卷《星海拓荒》001—040文学精修，重点复核S-00、智能公民、身体主权、外部文明与终章交接边界。
+- 第四卷001—040已完成第一轮文学精修；保持 `COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`，待卷级独立回读。
+- 下一批：执行四卷独立回读、全书终稿复审与发布前校验；不在该阶段前标记为 `ACCEPTED`。
