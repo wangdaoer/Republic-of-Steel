@@ -21,7 +21,7 @@
 | 003 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以工业测试承载效率／价值冲突，强化现场判断与经验记录；新增F007 |
 | 004 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：将B-17险情写为可追溯的人员撤离决策，避免人格化越界；新增F008 |
 | 005 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：压缩重复解释，强化927人名单、陈默申请、复印证据与第928项；C-002已修复，新增F009 |
-| 006 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；推进F008/F009，待独立审稿 |
+| 006 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以H-12中止测试承载第928项责任选择；C-003已修复，推进F008/F009 |
 | 007 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F010，待独立审稿 |
 | 008 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F011，待独立审稿 |
 | 009 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；新增F012，韩朔正式介入 |
