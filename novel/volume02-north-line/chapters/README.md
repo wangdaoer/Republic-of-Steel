@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-正文尚未写入；下一生产任务：第001章《北轨的第一台机器》。
+已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-005-night-without-network.md。下一生产任务：第006章《知识库着火》。
