@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-005-night-without-network.md。下一生产任务：第006章《知识库着火》。
+已建立初稿：chapter-001-north-rail-first-machine.md 至 chapter-010-migration-list.md。第一篇“断链开始”正文初稿已闭合；下一生产任务：第011章《维修军团》。
