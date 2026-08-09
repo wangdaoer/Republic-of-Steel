@@ -2,7 +2,7 @@
 
 版本：`SR-VOL01-v1.1`
 
-状态：`DRAFT / LITERARY_REVIEW`
+状态：`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`
 
 ## 基本信息
 
@@ -47,8 +47,8 @@
 
 ## 当前进度
 
-- 全卷001—120：正文初稿已完成，卷级状态仍为 DRAFT / REVIEW_REQUIRED。
+- 全卷001—120：第一轮文学精修已完成，卷级状态为 DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；待卷级独立回读。
 - 第一篇001—020：第一轮文学精修已完成，状态为 DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；下一步执行第一篇独立回读。
 - 第二篇021—060：第一轮文学精修已完成，状态为 DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；承接拓荒者诞生与规模化训练压力。
-- 第三、四篇061—120：下一批文学精修，进入规则、规模与废铁营答案的长期检验。
+- 四篇001—120：均已完成第一轮文学精修；下一步执行卷级独立回读，并转入第二卷《守住北线》。
 - 卷内锚点：SE 5废铁营有限登记、SE 60拓荒者时代公开、SE 94共同责任共治框架、SE 110北轨未知设备进入手递入口。
