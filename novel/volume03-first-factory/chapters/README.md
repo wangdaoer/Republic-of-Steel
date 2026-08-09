@@ -8,4 +8,4 @@
 
 已建立生产索引：chapter-index.md。
 
-已建立初稿：chapter-001-repair-school-factory.md 至 chapter-015-line-vote.md。第一篇“战后重建”已闭合，第二篇“三权工业”推进至流水线共同投票；下一生产任务：第016章《速度的价格》。
+已建立初稿：chapter-001-repair-school-factory.md 至 chapter-020-first-industrial-charter.md。第一篇与第二篇正文初稿已闭合，第一工业宪章已建立；下一生产任务：第021章《第一台自动臂》。
