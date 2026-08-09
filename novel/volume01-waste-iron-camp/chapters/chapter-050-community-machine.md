@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
-# 第五十章：共同体的机器
+# 第五十章：共同体不等于新的所有权中心，参与者仍保留离开与质疑的路径的机器
 
-版本：SR-VOL01-CH050-v1.0
+版本：SR-VOL01-CH050-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -339,11 +339,11 @@ C-01的外壳在夜里反射着废铁营的灯。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
-- 世界观一致性：REVIEW_REQUIRED
-- 时间线一致性：PASS / SE 50
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 人物一致性：POLISH_PASS_1
+- 世界观一致性：POLISH_PASS_1
+- 时间线一致性：PASS（SE 50；C-001—C-003 已修复）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
