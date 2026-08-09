@@ -1,6 +1,6 @@
 # 第四卷伏笔台账
 
-状态：OUTLINE / FORESHADOWING_LEDGER
+状态：COMPLETE / FORESHADOWING_LEDGER
 
 | 编号 | 内容 | 首次计划章节 | 预期回收 | 状态 |
 |---|---|---:|---|---|
