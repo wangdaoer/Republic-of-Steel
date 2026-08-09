@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第三十一章：阿尔塔
 
-版本：SR-VOL04-CH031-v1.0
+版本：SR-VOL04-CH031-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -316,11 +316,11 @@
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 阿尔塔不是导师或敌人，而是有历史代价的连续性文明
-- 时间线一致性：PASS / SE 1800
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 1800 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
