@@ -26,7 +26,7 @@
 | 008 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：限定404仅提供异常信号，以物理证据支撑中止；修复第七码头笔误，新增F011 |
 | 009 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：韩朔以安全审查者身份建立有限试行与双岗位复核，修复记录镜头一致性；新增F012 |
 | 010 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留P-12速度与安全优势，顾言提出供应链与一千台规模挑战；新增F013 |
-| 011 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；顾言启动标准化维修培训，形成F014双层课程伏笔 |
+| 011 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留标准化的安全边界，建立双层课程与偏离记录；形成F014 |
 | 012 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；K-7现场考试推进F014并新增F015责任条款 |
 | 013 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12记录修订层推进F010/F011并新增F016 |
 | 014 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12-R2建立现场见证人角色，推进F009/F010并新增F017 |
