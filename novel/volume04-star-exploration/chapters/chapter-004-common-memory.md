@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第四章：共同记忆
 
-版本：SR-VOL04-CH004-v1.0
+版本：SR-VOL04-CH004-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -271,11 +271,11 @@ S-00成为执行和审计者之一。
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / 共同记忆不等于全部共享
-- 时间线一致性：PASS / SE 410
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 410 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
