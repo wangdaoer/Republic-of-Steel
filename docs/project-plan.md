@@ -52,7 +52,7 @@ novel/volume01-waste-iron-camp/
 | 卷 | 范围 | 状态 |
 |---|---:|---|
 | 第一卷《废铁营》 | 120章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
-| 第二卷《守住北线》 | 40章 | DRAFT / REVIEW_REQUIRED |
+| 第二卷《守住北线》 | 40章 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED |
 | 第三卷《第一座工厂》 | 40章 | DRAFT / REVIEW_REQUIRED |
 | 第四卷《星海拓荒》 | 40章 | COMPLETE / DRAFT，结构验收通过 |
 
@@ -78,4 +78,6 @@ novel/volume01-waste-iron-camp/
 - 第一卷第一篇001—020已完成第一轮文学精修，均保留为 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`
 - 连续性债务 C-002、C-003 已修复：第005—006章的相对时间已与B-17救援和评估链对齐
 - 第一卷第二篇021—060已完成第一轮文学精修，均保留为 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`
-- 下一批：第一卷第三、四篇061—120，完成规则、规模与“废铁营答案”的语言精修；随后执行卷级独立复审
+- 第一卷第三、四篇061—120已完成第一轮文学精修；第一卷待卷级独立回读。
+- 第二卷001—040已完成第一轮文学精修；保持 `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`，待卷级独立回读。
+- 下一批：第三卷《第一座工厂》001—040文学精修，重点复核创造者协议、制度化工业与个人／公共责任边界。
