@@ -1,9 +1,9 @@
 # 第四卷：《星海拓荒》
 # 第三章：S-00诞生
 
-版本：SR-VOL04-CH003-v1.0
+版本：SR-VOL04-CH003-v1.1
 
-状态：正文初稿（DRAFT）
+状态：第一轮文学精修（POLISH_PASS_1）
 
 ## 章节契约
 
@@ -301,11 +301,11 @@ SE400诞生，成为非全知、非全有、可暂停、可分叉、不替文明
 
 ## 审稿状态
 
-- 人物一致性：REVIEW_REQUIRED
+- 人物一致性：POLISH_PASS_1
 - 世界观一致性：PASS / S-00诞生于SE400且受边界约束
-- 时间线一致性：PASS / SE 400
-- 伏笔登记：REVIEW_REQUIRED
-- 正文状态：DRAFT
+- 时间线一致性：PASS（SE 400 连续）
+- 伏笔登记：POLISH_PASS_1
+- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
 
 ## 下一章预告
 
