@@ -28,15 +28,15 @@
 | 010 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留P-12速度与安全优势，顾言提出供应链与一千台规模挑战；新增F013 |
 | 011 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留标准化的安全边界，建立双层课程与偏离记录；形成F014 |
 | 012 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：K-7 现场考试确立 F015 的登记、二次确认与公开结果条款 |
-| 013 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12记录修订层推进F010/F011并新增F016 |
-| 014 | `DRAFT / REVIEW_REQUIRED` | 正文初稿已建立；H-12-R2建立现场见证人角色，推进F009/F010并新增F017 |
+| 013 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不可覆盖修订层并列保存原件、证据、判断与未知项，新增 F016 |
+| 014 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：H-12-R2分层记录身份、证词与事故责任，新增 F017 |
 | 015 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：名单复核确立“证据边界”与未决状态，推进 F018/F019 |
 | 016 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：128 项删除记录获得独立位置，推断不得进入责任表 |
 | 017 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：开放维修试行场建立，明确开放、边界与记录的共同条件 |
 | 018 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无404日验证独立维修，明确经验不得重新集中为单点依赖 |
 | 019 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公共工具确立可进入、可借用、可追溯的责任链 |
 | 020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：废铁营接受公开审查并完成 SE 5 有限登记 |
-| 015—020 | `REVIEW_REQUIRED` | 第一篇第一节点正文已建立，待独立审稿与字数润色 |
+| 001—020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一篇“废铁里的火种”已完成逐章第一轮文学精修，待独立回读与终稿复审 |
 | 021 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：外出维修队使方法与责任链共同离开废铁营，新增 F023 |
 | 022 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不完整图纸的缺口不得伪造，新增 F024 |
 | 023 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：复制失败转化为学习、适配与复盘规则，新增 F025 |
