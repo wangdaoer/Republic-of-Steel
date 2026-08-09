@@ -17,7 +17,7 @@
 
 | 范围 | 当前状态 | 说明 |
 |---|---|---|
-| 001—005 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：北轨、生命网络、冬季最低标准与第一枚断点形成北线承接链 |\n| 006—010 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：知识库火灾、守库、跨区维修、断链战争与迁移名单承接北线生命网络 |\n| 011—015 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：维修军团、移动工厂、帝国规则对照与雾中补给建立维护而非征服的组织边界 |\n| 016—020 | DRAFT / REVIEW_REQUIRED | 死链与活链、北境学校、维修者的武器、第一条撤退线与SE135维修军团建立已建立 |
+| 001—005 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：北轨、生命网络、冬季最低标准与第一枚断点形成北线承接链 |\n| 006—010 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：知识库火灾、守库、跨区维修、断链战争与迁移名单承接北线生命网络 |\n| 011—015 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：维修军团、移动工厂、帝国规则对照与雾中补给建立维护而非征服的组织边界 |\n| 016—020 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：死链与活链、北境学校、维修者武器、撤退线与SE135维修军团建立共同维护边界 |
 | 011—020 | DRAFT / REVIEW_REQUIRED | 维修军团试行、移动工厂、雾中补给与正式成立已建立 |
 | 021—030 | DRAFT / REVIEW_REQUIRED | 雾岭工业城、分阶段撤离、留守、移动档案与SE145撤离已建立 |
 | 031—040 | DRAFT / REVIEW_REQUIRED | E-100启动、接口、支持演练、失败、北线结束与战后维修学校已建立 |
