@@ -16,124 +16,124 @@
 
 | 范围 | 当前状态 | 说明 |
 |---|---|---|
-| 001 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：补足第七码头现场、周衡选择的代价与404启动质感；C-001已解决，仍待终稿复审 |
-| 002 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：将档案追查落为具体行动，强化404-Origin与陈默线索；陈默材料仍为隐藏档案线索，新增F005/F006 |
-| 003 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以工业测试承载效率／价值冲突，强化现场判断与经验记录；新增F007 |
+| 001 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：以SE 1既有发现／SE 3首次启动对齐时间线，补强非标准检测、三日评估期限与731维修编号的因果代价，并限定自检供能；独立复审PASS，仍待作者验收 |
+| 002 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：维护卡原件留档、仅以查阅副本进入仓库；三日限期沿用第一章的同一倒计时，补入档案手续、冻结工时与低功耗核验；独立复审PASS，仍待作者验收 |
+| 003 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四小时效率失败、冷却线恢复与七日临时评估明确分开；731非标准评估留下待复核证据，补入冻结接口与压力曲线现场；独立复审PASS，仍待作者验收 |
 | 004 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：将B-17险情写为可追溯的人员撤离决策，避免人格化越界；新增F008 |
 | 005 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：压缩重复解释，强化927人名单、陈默申请、复印证据与第928项；C-002已修复，新增F009 |
 | 006 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以H-12中止测试承载第928项责任选择；C-003已修复，推进F008/F009 |
-| 007 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：收紧M-927／贺岩的旧事故信息，保留404核心缺口与F010；新增F010 |
+| 007 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：明确M-927为历史组织标识、第928项为周衡的临时责任；404仅读取旧维修指令片段，现场适用待第二次评估复核；独立复审PASS，仍待作者验收 |
 | 008 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：限定404仅提供异常信号，以物理证据支撑中止；修复第七码头笔误，新增F011 |
-| 009 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：韩朔以安全审查者身份建立有限试行与双岗位复核，修复记录镜头一致性；新增F012 |
-| 010 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留P-12速度与安全优势，顾言提出供应链与一千台规模挑战；新增F013 |
-| 011 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保留标准化的安全边界，建立双层课程与偏离记录；形成F014 |
-| 012 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：K-7 现场考试确立 F015 的登记、二次确认与公开结果条款 |
-| 013 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不可覆盖修订层并列保存原件、证据、判断与未知项，新增 F016 |
-| 014 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：H-12-R2分层记录身份、证词与事故责任，新增 F017 |
-| 015 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：名单复核确立“证据边界”与未决状态，推进 F018/F019 |
-| 016 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：128 项删除记录获得独立位置，推断不得进入责任表 |
-| 017 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：开放维修试行场建立，明确开放、边界与记录的共同条件 |
-| 018 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无404日验证独立维修，明确经验不得重新集中为单点依赖 |
-| 019 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公共工具确立可进入、可借用、可追溯的责任链 |
-| 020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：废铁营接受公开审查并完成 SE 5 有限登记 |
+| 009 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：有限试行补足证据缺口、自动失效与暂停条件；404仅为原始日志来源，韩朔暂不封禁并保留异议；独立复审PASS，仍待作者验收 |
+| 010 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：区分P-12标准额定5.2倍与旧接口实测约1.6倍；以五维比较保留速度、安全、现场维修与复核成本，F013仍未决；独立复审PASS，仍待作者验收 |
+| 011 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三日试行首日、零独立资格；P-12安全边界与404的有效性未知教学候选并存，F015仍留待第十二章；独立复审PASS，仍待作者验收 |
+| 012 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：K-7动作重新受既有有限试行的影像、原始日志、双席与到期条件约束；F015仅为任务级草案；独立复审PASS，仍待作者验收 |
+| 013 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：H-12-R1限定为本次修订层试行，分开原件、证据、当前判断与未知项；M-927与第928项不混同；独立复审PASS，仍待作者验收 |
+| 014 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：贺岩身份、M-927关联、历史在场与事故责任分开待核；R2临时字段受双岗位与到期条件约束；独立复审PASS，仍待作者验收 |
+| 015 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：128条仅为当前检索可见候选行；H-12-R2三日初筛不自动通知、索引或归责；M-412以独立同意陈述保留未决；独立复审PASS，仍待作者验收 |
+| 016 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：128项为候选记录位置、U键可变；只读克隆恢复受预算与校验约束，删除残片不推定行为者；独立复审PASS，仍待作者验收 |
+| 017 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4临时场地仅获首个低风险班次，原件与副本分流；泵修复降载运行、复查停机，未提前建立废铁营；独立复审PASS，仍待作者验收 |
+| 018 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4未命名工棚仅逐班复检；404缺席检验为下一班自动失效草案，阀组仅最低防冻运行；独立复审PASS，仍待作者验收 |
+| 019 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4一次低负载工具观察建立临时保管链，8分钟测试中止且不形成工具制度；独立复审PASS，仍待作者验收 |
+| 020 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE5为30运行日、可暂停且不自动续期的首次有限登记；责任分离与404数据边界经现场验证；独立复审PASS，仍待作者验收 |
 | 001—020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一篇“废铁里的火种”已完成逐章第一轮文学精修，待独立回读与终稿复审 |
-| 021 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：外出维修队使方法与责任链共同离开废铁营，新增 F023 |
-| 022 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不完整图纸的缺口不得伪造，新增 F024 |
-| 023 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：复制失败转化为学习、适配与复盘规则，新增 F025 |
-| 024 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：创造申请采用能力、用途、责任、学习计划并行审查，新增 F026 |
-| 025 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：E-08以共同责任链完成有限测试，新增 F027 |
-| 026 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同产物不等于无人负责，E-08的故障责任保持可分解 |
-| 027 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：成本、材料与责任三账分立，未知成本不得被结算吞没 |
-| 028 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：清单外改动以依据、风险与未确认部分进入复核 |
-| 029 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：暂停者留下证据、理由与恢复条件，不取得单一决定权 |
-| 030 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同排序保留公开理由与重开决定的证据入口，新增 F032 |
-| 031 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：生产棚扩张仍须保持方法、成本与责任的可理解性 |
-| 032 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：清单外用户保留申请、学习与申诉入口 |
-| 033 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：机甲价格显露成本与风险，不吞没使用权与公共条件 |
-| 034 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公开测试同步披露结果、失败条件与未确认风险 |
-| 035 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：创造者协议作为可质疑、可修订、可退出的共同承诺 |
-| 036 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：规则修改具备提出者、受影响者、证据与复核期限 |
-| 037 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：协议外案件仍保留记录、判断与救济入口 |
-| 038 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：供给两端的成本、风险与承担者并列可见 |
-| 039 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：复制边界回应现场能力、适配与停止条件，而非封锁知识 |
-| 040 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：第二份讨论稿保留异议、修订痕迹与重开条件 |
-| 041 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同仲裁避免冲突被单一中心秘密结案 |
-| 042 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：首次仲裁公开裁决、证据、异议与复核入口 |
-| 043 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：未决价格保留议价，成本与后果不被抹去 |
-| 044 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：自由制造以前必须具备学习、记录与后果承担条件 |
-| 045 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：自由制造仍受可申请、可学习、可尝试与责任链约束 |
-| 046 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：南方烟线将外部成本、损害与未登记者带入冲突 |
-| 047 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：责任分层均保留可追问的依据 |
-| 048 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：供应链断点不被归咎为末端使用者的个人失败 |
-| 049 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：成功只能借鉴，不能替代现场条件与失败记录 |
-| 050 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同体机器保留质疑与离开路径，不成为新所有权中心 |
-| 051 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同体以承认失败、修复关系来面对制度压力 |
-| 052 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：维护劳动可见分工、轮换并保留拒绝条件 |
-| 053 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：新路线并置替代方案、退出空间与代价 |
-| 054 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：成本纳入学习、照料、等待与关系修复 |
-| 055 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公开修订保留旧版、异议、证据与生效条件 |
-| 056 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：许可证仅界定安全边界，不转换为创造所有权 |
-| 057 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：制造者联盟不代替各地决定，容纳不同规模与路线 |
-| 058 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：百种答案被视为可保留差异，而非待清除错误 |
-| 059 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：拓荒者作为公开责任称呼，不构成特权身份 |
-| 060 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：SE60时代开启仍保留失败、退出与修复路径 |
-| 061 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：百节点扩张采用分布证据，拒绝中心全知 |
-| 062 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无人看见全部时并置所见，不制造虚假完整 |
-| 063 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：紧急决定事后说明依据、替代方案与后果 |
-| 064 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：信任修复以行动、记录与补偿为证，不靠口号 |
-| 065 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：事故报告分开事实、责任边界、陈述与未知 |
-| 066 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：追溯服务证据与修复，不扩为无边界监控 |
-| 067 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：受益者分析同时记录未同意承担风险的人 |
-| 068 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不在场决定保留可追问理由与补救入口 |
-| 069 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：代价不向末端、弱者和沉默者单向转移 |
-| 070 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：资本机甲在规模效率外接受公开责任、退出与补偿约束 |
-| 071 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：维护记录流转但不成为永久追索或羞辱工具 |
-| 072 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：退出保留修复、关系边界与重新进入条件 |
-| 073 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：替代件低价不遮蔽安全试验、适配风险与责任 |
-| 074 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：合同删除保留痕迹、依据与受影响方复核入口 |
-| 075 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：价格竞争不外包材料、维护与未来事故成本 |
-| 076 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：风险可估算但不因付得起而被转嫁 |
-| 077 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：承受风险者拥有知情、拒绝、退出与补偿权 |
-| 078 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：百台交付包含维护、训练、撤回与反馈能力 |
-| 079 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：责任争论先分开事实、叙事与未确认指控 |
-| 080 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：责任战争公开各方代价、证据与补救，拒绝单一敌我 |
-| 081 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：赔偿分层、及时、可追溯，不压给单一名字 |
-| 082 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：现场是共同判断主体，不是事后证据附件 |
-| 083 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：修复并置设备、关系、补偿与制度可改性 |
-| 084 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：先行款不把需要帮助者先变成债务承担者 |
-| 085 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：第二次决定允许暂停、反证、修改与公开理由 |
-| 086 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：资格暂停具备证据、期限、申诉与恢复条件 |
-| 087 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：保险重算不把受影响者权利当作模型误差 |
-| 088 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：拒绝重启规则说明原因、代价与复核节点 |
-| 089 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：敌人叙事前保留异议、证据与回应空间 |
-| 090 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：规则敌人指向不可追问的权力，而非不同意见 |
-| 091 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：安全拒绝的代价不由提出者孤立承担 |
-| 092 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：例外具备期限、理由、知情与可撤销条件 |
-| 093 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同最低线保护安全与尊严，不压平差异 |
-| 094 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：协议四入口允许进入、质疑、退出与修订 |
-| 095 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不完整协议诚实保留未决、异议与协商 |
-| 096 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：公开测试同时披露成功、失败、代价与修复路径 |
-| 097 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：暂停权可用且保留可验证理由与复核机会 |
-| 098 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：退出不失去基本保护、记录权与重新协商资格 |
-| 099 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：协议前夜保留分歧，拒绝虚假团结 |
-| 100 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：共同协议是共治框架开始，不是终局 |
-| 101 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：复制后的废铁营保留多入口而非新中心 |
-| 102 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：第一百零一个入口保障未列名者的进入条件 |
-| 103 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：404的名字不构成主权、统治或所有权 |
-| 104 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：资格分层不取消学习与被看见的权利 |
-| 105 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：回到一台机器检验扩张后的修复初心 |
-| 106 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：失去资格者保留程序、申诉与重新学习路径 |
-| 107 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：记忆债不把经验变成对人的永久占有 |
-| 108 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：框架裂缝成为重开共同判断的证据 |
-| 109 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：维修者之间承认不同经验席位与相互限制 |
-| 110 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：机器问题由人类共同判断，机器不替人决定 |
-| 111 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：不再自动化的答案保留人的判断与承担 |
-| 112 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：旧维修卡作为有限证据，不成为唯一遗嘱 |
-| 113 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：没有最后部件，传承不由单一钥匙封闭 |
-| 114 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：交接传递关系与能力，不转移所有权 |
-| 115 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：最后维修留下后来者可接续的修复路径 |
-| 116 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：维修之后将修复责任转为长期公共能力 |
-| 117 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：名单新页允许后来者自愿写入而非被归类 |
+| 021 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：J-071为一次低能、可撤回的外出签认，泵仅半流量运行并待夜间复核；F023标NOTICE/DRAFT；独立复审PASS，仍待作者验收 |
+| 022 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：限时查阅与东环一次试作均单独申请、可暂停；来源链与404扫描数据分开，试作未完成；独立复审PASS，仍待作者验收 |
+| 023 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三处观察以本地纸带和版本包回传，北侧与铸造镇失败承担成本；OA-01七日失效；独立复审PASS，仍待作者验收 |
+| 024 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四项为首轮低风险、七日失效审查，高能／场外／复制另表；姚素只做无载模拟，F026保持OPEN/DRAFT；独立复审PASS，仍待作者验收 |
+| 025 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08只运至桥前安全线，旧许可失效仅借四栏方法；测试期权利字段与费用未决，F027保持OPEN；独立复审PASS，仍待作者验收 |
+| 026 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08仅28度空载20米观察，三日拆检页分开动作／设计／信息缺口／复核，成本归属留给下一章；独立复审PASS，仍待作者验收 |
+| 027 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08右臂锁止，东环仅进入待补材料／待复核听证；三账与共同成本候选页均不构成授权或结算；独立复审PASS，仍待作者验收 |
+| 028 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：U01仅为本次北侧外部复核页，贡献、受益、责任与共同成本分列；低速观察不产生其他任务许可；独立复审PASS，仍待作者验收 |
+| 029 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：暂停仅适用本次通桥任务，发起、执行、证据与复启复核分离；已发生、已处置与未证实成本分列；独立复审PASS，仍待作者验收 |
+| 030 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：七日临时排序桌仅安排八个人工审看格，不派车、不许可；北线暂停仍为任务级提出／停车／记录／复启分离；独立复审PASS，仍待作者验收 |
+| 031 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE24仅限场地／批次／非通能接口环试制，六件编号与安装ID分开；无E-08使用、公共开放或常设生产机构；独立复审PASS，仍待作者验收 |
+| 032 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：阿芜-01仅为一次低风险维护观察页，行动、见证、联系、成本与身份分开；不创设持续用户／见证人状态；独立复审PASS，仍待作者验收 |
+| 033 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE26供应保留听证只产出无效成本试算，拒收预付款；资金为零、无补助／基金／排程／资格，E-08继续锁止；独立复审PASS，仍待作者验收 |
+| 034 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE29仅有一次低载、可旁观的记录观察，三张卡公开局部现象、异议和未知；不产生制造、设备、材料、安装、价格或资格结论；自检完成，独立复审待排 |
+| 035 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE30仅公开“拓荒者理念：责任问题讨论页·零号”，保留问题、来源和异议；不产生身份、许可、基金、组织代表权或后世正式协议；自检完成，独立复审待排 |
+| 036 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE31只产生一次“零号页引用与反问页·01”，可引、可问、可过期；不形成通用修订权、优先权或自动行动 |
+| 037 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：B-7破箱救援保留为五栏事件记录，事实、未知与异议并列；不生成公共能源、紧急许可、豁免或常设组织 |
+| 038 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：星环仓与旧铁路仅留一张非约束联合勘验清单；不产生E-08网络、价格、资金、排他控制或未来设计权 |
+| 039 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：T-29-A原件与八件复制品的失配只收束为三张复制观察卡；不授权复制、生产、安装或使用 |
+| 040 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE35仅公开两页“讨论页·一号”，列事实、问题与异议；不提前形成协议、仲裁、资格、资源或行动效力 |
+| 041 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE36只有一次共同争议在场记录，事实补充动作可被复看；不成立仲裁庭、使用权、优先级或先例 |
+| 042 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：T-37-02仅按本次试验卡中止，依据、已发生成本、未知后果并列；不形成安全席、裁决、赔偿或一般暂停规则 |
+| 043 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：一次短驳的个人铜线垫付、物品去向与撤回条件分列；不建立共同付款、基金、补贴、价格或排程 |
+| 044 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：手推车转向销只完成无载配合并拆回，来源、尺寸、载荷与受影响者保留缺口；不生成制造入口或资格 |
+| 045 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE45 Canon锚点以林川的拓荒者-01棚内空载移动呈现；不扩写为公共开放、网络、培训、价格或正式协议 |
+| 046 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：南部旧砖炉与雨水井只留下烟尘观察页、压火与取水延误；不形成环境制度、处罚、许可或跨地记录站 |
+| 047 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：草图、炉火、取水与自愿清扫按动作和自述并列；不形成责任分层、赔偿比例、仲裁或下一炉许可 |
+| 048 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：材料棚只切出三段边角比较，来源者保留拒绝权；不建立公共库存、风险目录、配给、价格或统一替代标准 |
+| 049 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借用薄环在暖棚和冷风线的无载表现并列，拓荒者-01继续停在棚内；不产生适配、复制、外用或归责结论 |
+| 050 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：C-01仅为当日拆回的共同轮毂手摇试架，借物可退出；不成为新拓荒者、共同所有、机构或P-01使用许可 |
+| 051 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借件再拼请求逐项被拒后仍可留下询问；夜间油布只遮当晚，不生成共同项目、承诺或持续看护 |
+| 052 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：雨棚看护页只涵盖一夜到清晨的自愿行动、时限与撤回；不形成轮值、基金或维护职位 |
+| 053 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三条本地路线及各自撤回代价并列；不构成标准化项目、批准、资格或持续供给 |
+| 054 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：一次读回卡拆开等待、改孔与拆回的代价；不升级为课程、认证、培训框架或统一解释权 |
+| 055 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：路线页修订说明让原页、读回、异议和重开条件并列；不成为协议、资格、命令或行动效力 |
+| 056 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四处门边分别呈现门锁、借物、当下劳动和缺席者；不让“先问周衡”变成统一入口 |
+| 057 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川划掉“制造者联盟”，只留下问题来处与不转述条件；不产生成员、名册或代表 |
+| 058 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孔位、来源、正在进行的劳动与理解缺口被写成不可互相代替；不形成总表、标准或路线批准 |
+| 059 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：拓荒者-01名称只说明本机当前边界；不成为称号、入口证、设备开放或责任结论 |
+| 060 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：Canon SE60仅落为责任边界进入可见争论；不宣布时代完成或提前建立SE75责任协议 |
+| 061 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：抽水、绕铅丝、送布与等候的工夫可见却无统一归处；不生成总账或固定归属 |
+| 062 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：桶耳白痕证明局部影响，不能补成完整因果或全责；不形成告警、事件编号或总表 |
+| 063 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川只拦住未落的一锤；不成为紧急条款、长期门槛、免责或未来决定权 |
+| 064 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：唐槐与林川仅保留可撤回原话和未知；不形成信任记录、赔偿、复核或准入机制 |
+| 065 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：所谓“事故报告”被拆回亲见、原话与被划掉的结论；不形成档案、编号、发布或归责 |
+| 066 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三种追问只并置未落锤、未问来源与被耽误的修门工夫；不形成追溯表、责任链、抵扣或门槛 |
+| 067 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未改孔位是一种局部好处，却不折抵唐槐、修门人与等待者的工夫；不形成收益名单、补偿或债 |
+| 068 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：梁师傅的旧话既不成为许可也不成为禁止；折尺与细冲随持有人离开，左后轮无新痕 |
+| 069 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川只在唐槐同意下抬当次木箱；帮助不成为偿还、和解、优先权或机器许可 |
+| 070 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：窄扁铁未留、未量、未转移；“资本”只是对预先承诺未来的担忧，不形成金融、市场或机器状态 |
+| 071 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：顾言的询问不成为可携带维护记录；拓荒者-01继续限棚内；独立复审PASS，仍待作者验收 |
+| 072 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：带料者自行带走物与未成交询问，不形成退出包、交接或后来调用权；独立复审PASS，仍待作者验收 |
+| 073 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：相似套管不等于适配、样件或机器材料，仍归当前持有人；独立复审PASS，仍待作者验收 |
+| 074 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未写完的纸条不成为合同、承诺或入口，问题与物各留原处；独立复审PASS，仍待作者验收 |
+| 075 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE75仅以名称出现，不补条款；当下不能替缺席者的未说之话定价；独立复审PASS，仍待作者验收 |
+| 076 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：油布主人未被门钩换取或留夜，排水只属当晚局部动作；独立复审PASS，仍待作者验收 |
+| 077 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：唐槐拒绝湿梯，只自愿倒当日桶，拒绝不生风险资格或持续职责；独立复审PASS，仍待作者验收 |
+| 078 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：“一百台”退回提出者的个人问题，不产生交付、量产、材料目录或许可；独立复审PASS，仍待作者验收 |
+| 079 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车棚旧扳手归属未明，SE75名称不替原持有人许可使用；独立复审PASS，仍待作者验收 |
+| 080 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：小车局部损失不成事故报告、赔付或协议定案，车主仅自用布带试推；独立复审PASS，仍待作者验收 |
+| 081 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车棚扳手仍未获使用，SE75仅为名称；不产生权利、制度或机器行动；独立复审PASS，仍待作者验收 |
+| 082 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：邻人带走不属自己的扳手待归还，协议名与旧话均不替原持有人答话；独立复审PASS，仍待作者验收 |
+| 083 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：只补车主同意的一颗铆钉并完成唯一空车核验，工具与人手均归各持有人；独立复审PASS，仍待作者验收 |
+| 084 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：长木板和油布只完成说清的两趟通行后立即归还，不成预留材料、库存或机器入口；独立复审PASS，仍待作者验收 |
+| 085 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：雨中排水只为可撤回保护，拓荒者-01未移动、未改装，盆桶砖块各归原处；连续雨期统一为SE84，独立复审PASS，仍待作者验收 |
+| 086 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：裂梯主人“今天不借”只限眼前梯与湿屋檐，不给写纸的年轻人贴资格；独立复审PASS，仍待作者验收 |
+| 087 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：干绳仅为湿麻布的一次移动借出并归还，不形成保险、定价或债；独立复审PASS，仍待作者验收 |
+| 088 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：短木片旧线只提示当日松砖，不能重启规则、资格或机器行动；独立复审PASS，仍待作者验收 |
+| 089 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车主自有门钩不成为公共资源，实际帮手各自可见且不可换算；独立复审PASS，仍待作者验收 |
+| 090 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：修门人不替他人钉长木板，纸页持有人自行搬纸；停手不成为条款；独立复审PASS，仍待作者验收 |
+| 091 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：竹匾主人拒借用于晒谷壳，受潮纸页另想当日办法；拒绝不结成价钱；独立复审PASS，仍待作者验收 |
+| 092 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：油灯只照补鞋，持灯者随即离开；搀扶不变成照明服务；独立复审PASS，仍待作者验收 |
+| 093 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：粉笔只圈一块当日松砖，线随主人收起；不成为最低线或禁区；独立复审PASS，仍待作者验收 |
+| 094 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空铁盒未钉成无主收件处，物与问题仍由当事人带回；独立复审PASS，仍待作者验收 |
+| 095 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：个人纸保留未问到事项、不签名不发布；不成为协议或入口；独立复审PASS，仍待作者验收 |
+| 096 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：个人纸不塞进旧棚门缝；纸随提出者带走，不成为保管、转交或测试入口；独立复审PASS，仍待作者验收 |
+| 097 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：周衡只在当次扶门让孩子与担水者过去，随后放手；不生成暂停权、看门职责或复核席；独立复审PASS，仍待作者验收 |
+| 098 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借来的蓝边碗归还原主，提问纸仍由当事人带走；不成为共享物、退出包或关系入口；独立复审PASS，仍待作者验收 |
+| 099 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：顾言的算时纸只写“后檐今夜”，不留姓名、排程、债或契约；独立复审PASS，仍待作者验收 |
+| 100 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空铁盒未钉上侧门，提出者自行带回；不成为收件、名册、答问或入口；独立复审PASS，仍待作者验收 |
+| 101 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：同一句亲见话不替两件事回答；两张问题纸分开，各人自行承担询问；独立复审PASS，仍待作者验收 |
+| 102 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未识字来客带走自己的问题纸，不生成手递入口、编号或代答；独立复审PASS，仍待作者验收 |
+| 103 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：404只是被传闻关联的未证实名字，未被写成背书或棚内在场；独立复审PASS，仍待作者验收 |
+| 104 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：凳子由孩子自己挪开，抱湿布者只按请求当次抬凳；不结成照看或提醒职责；独立复审PASS，仍待作者验收 |
+| 105 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：门后情形与拓荒者-01需求均未见未问；棚门不开、纸不入棚；独立复审PASS，仍待作者验收 |
+| 106 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：鲁成的修门手艺不被写成“可去问”的身份；名字、工具与未说尽的话各自带走；独立复审PASS，仍待作者验收 |
+| 107 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：老人只在自持黄纸上留下一句亲见，炭条一次借还；个人纸与铁盒不代为保管；独立复审PASS，仍待作者验收 |
+| 108 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：两张问纸未贴成共同题头，黑板、铁盒与干桌不收纸；各人各自带走；独立复审PASS，仍待作者验收 |
+| 109 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：鞋主不交鞋不排名，以自有鞋带和蓝布暂系裂口；两人各带针线；独立复审PASS，仍待作者验收 |
+| 110 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：“还是／不是”两格未勾，棚门不开；提问纸带走，未形成机器身份或行动结论；独立复审PASS，仍待作者验收 |
+| 111 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：两格仍空，提问者只口头承认门关、未见里面；纸不交孩子、不承诺明日；独立复审PASS，仍待作者验收 |
+| 112 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：细木片只顶住当夜木柜门到取放碗盐，未变成锁或长期职责；未勾纸仍在父亲衣内；独立复审PASS，仍待作者验收 |
+| 113 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：湿外衣与未勾纸不进木柜，父亲仍自行护着；木片只顶住此刻，孩子未获收束或明日安排；独立复审PASS，仍待作者验收 |
+| 114 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空碗、木柜与木片均不替父亲保存或解释有限见闻；纸仍在衣内，孩子未获收束或以后安排；独立复审PASS，仍待作者验收 |
+| 115 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只确认眼前盆水、床脚与柜门，纸仍在父亲衣内；未得到门后或以后答案；独立复审PASS，仍待作者验收 |
+| 116 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只用自己的练字板暂垫被角，承受字线受潮变淡；纸、碗、木片不动；独立复审PASS，仍待作者验收 |
+| 117 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只让自己的练字板暂垫被角，承受字线受潮变淡；纸、碗、木片不动；独立复审PASS，仍待作者验收 |
 | 118 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：无404日确认协作不再围绕单一机器 |
 | 119 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：废铁营答案保留创造、拒绝与修复路径 |
 | 120 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：新的开始不宣称终局，向后续历史开放 |
@@ -244,24 +244,24 @@
 | 027 | REVIEW / NO_CANON_BLOCKER | 三账分立，未知成本不直接进入结算，仅进入预算与公开记录。 |
 | 028 | REVIEW / NO_CANON_BLOCKER | E-08-U01以未登记改动编号保存，陈禾身份不等于设计已获批准。 |
 | 029 | REVIEW / NO_CANON_BLOCKER | 韩朔承担已发生延误，不把未发生事故写成确定事实。 |
-| 030 | REVIEW / NO_CANON_BLOCKER | 任务排序引入公开理由、风险拆分和轮换席位，不形成单一中心。 |
+| 030 | `NOTICE / STALE` | 本条2026-08-09第一轮结论已由2026-08-10 P2复审收窄：仅七日、八个半日人工审看格，不形成轮换席位、调度权或常设中心。 |
 
 ### 主题推进
 
 - 创造：共同制造不等于共同拥有。
 - 责任：责任对应动作、决定和信息，不自动归因。
 - 效率：数字揭示冲突，不能替代价值判断。
-- 连接：E-08从单台原型成为跨社区网络节点。
+- 连接：第一轮复核曾将E-08概括为跨社区网络节点；第27—30章P2已标记该概括为 `NOTICE / STALE`，不得作为后续上下文。
 
 ## 第二篇协议讨论节点复核（第31—35章，2026-08-09）
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 031 | REVIEW / NO_CANON_BLOCKER | SE 24公共生产试行场建立，未将其写成后世第一工业城。 |
-| 032 | REVIEW / NO_CANON_BLOCKER | 临时使用者与持续见证人是卷内新增状态，不改写Canonical人物系统。 |
-| 033 | REVIEW / NO_CANON_BLOCKER | E-08价格制度采用公共补助与商业成本分层，未否定顾言的效率路线。 |
-| 034 | REVIEW / NO_CANON_BLOCKER | 民间制造仅获条件性承认，测试结果不得扩大到未验证环境。 |
-| 035 | REVIEW / NO_CANON_BLOCKER | 拓荒者理念在SE 30公开；协议明确为PROPOSAL，未替代SE 350正式协议。 |
+| 031 | `NOTICE / STALE` | 本条2026-08-09第一轮“公共生产试行场”表述已由P2收窄为SE24限定场地、限定批次、非通能接口环试制；不构成公共开放或生产体系。 |
+| 032 | `NOTICE / STALE` | 本条2026-08-09第一轮“临时使用者与持续见证人”表述已由P2收窄为阿芜-01一次观察页；不建立持续身份、角色或通用准入。 |
+| 033 | `NOTICE / STALE` | 本条2026-08-09第一轮“E-08价格制度／公共补助”表述已由P2替代：仅有无效成本试算，拒收预付款、资金为零，未产生基金、补助、定价、排程或资格。 |
+| 034 | `NOTICE / STALE` | 本条2026-08-09第一轮“条件性承认”已由P2替代：SE29只产生三张一次低载观察卡，公开证据与异议而不产生任何民间制造、测试、材料或资格承认。 |
+| 035 | `NOTICE / STALE` | 本条2026-08-09第一轮“协议”表述已由P2收窄为SE30的责任问题讨论页·零号；它仅公开可反驳问题，不产生身份、许可、资源、组织或后世正式协议。 |
 
 ### 协议一致性检查
 
@@ -274,11 +274,11 @@
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 036 | REVIEW / NO_CANON_BLOCKER | 协议分为核心原则、地方附录和修订理由，未形成单一中心。 |
-| 037 | REVIEW / NO_CANON_BLOCKER | 紧急使用获得事后复核路径，未以救援结果抹除能源成本。 |
-| 038 | REVIEW / NO_CANON_BLOCKER | 顾言提出公共核心、竞争外围，保持资本路线与公共创造张力。 |
-| 039 | REVIEW / NO_CANON_BLOCKER | 一百台复制设备触发分级复制和抽样复核，未将规模等同成功。 |
-| 040 | REVIEW / NO_CANON_BLOCKER | 第二份讨论稿标为PROPOSAL / FIELD TEST，不升级为后世正式协议。 |
+| 036 | NOTICE / STALE | 原记录假定核心原则、地方附录与规则修改架构；第二轮已收束为一次引用／反问页，旧结论不得作为后续制度前提。 |
+| 037 | NOTICE / STALE | 原记录假定紧急使用的事后复核路径；第二轮只保留B-7事实与异议记录，旧结论不得作为许可、例外或救济入口。 |
+| 038 | NOTICE / STALE | 原记录假定公共核心、竞争外围的规模关系；第二轮只保留非约束勘验清单，旧结论不得作为价格、资源或控制关系。 |
+| 039 | NOTICE / STALE | 原记录假定一百台复制与分级复核；第二轮只保留三张观察卡，旧结论不得作为复制、生产或安装授权。 |
+| 040 | NOTICE / STALE | 原记录假定FIELD TEST式第二份讨论稿；第二轮仅为无行动效力的两页讨论草稿，旧结论不得作为成熟协议或试验制度。 |
 
 ### 第二篇当前生产结论
 
@@ -290,59 +290,62 @@
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 041 | REVIEW / NO_CANON_BLOCKER | 共同仲裁庭采用任期、回避、期限和复核，不成为永久中心。 |
-| 042 | REVIEW / NO_CANON_BLOCKER | 高能暂停以双结果记录，不把避免事故写成已发生收益。 |
-| 043 | REVIEW / NO_CANON_BLOCKER | 未决价值准备金进入预算，未把无法定价自动归零。 |
-| 044 | REVIEW / NO_CANON_BLOCKER | 自由制造前置条件作为支持条件，不提前宣告完全自由。 |
-| 045 | REVIEW / NO_CANON_BLOCKER | SE 45民间制造扩散与全局Canon锚点对齐。 |
+| 041 | NOTICE / STALE | 原记录假定共同仲裁庭；第二轮只保留一次在场记录，旧结论不得作为裁定、机构或跨地权力前提。 |
+| 042 | NOTICE / STALE | 原记录假定高能仲裁与双结果规则；第二轮只保留T-37-02本次试验卡的中止与并列记录，旧结论不得作为安全制度或赔偿依据。 |
+| 043 | NOTICE / STALE | 原记录假定未决价值准备金；第二轮只保留一次个人铜线垫付和短驳票根，旧结论不得作为基金、预算或公共付款前提。 |
+| 044 | NOTICE / STALE | 原记录假定自由制造的前置支持条件；第二轮只保留一辆手推车的无载缺口清单，旧结论不得作为准入、课程或开放制造标准。 |
+| 045 | NOTICE / STALE | 原记录假定民间制造已经多地扩散；第二轮仅在SE45呈现林川与拓荒者-01的棚内空载移动，Canon锚点不等于公共开放或规模网络。 |
 
 ### 第二篇现阶段状态
 
 - 021—045正文初稿已建立并持续保留DRAFT状态。
 - F046在第44—45章阶段回收，F047开始承接第三篇冲突。
 - 仍需完成第46—60章，闭合第二篇“拓荒者诞生”。
+- `NOTICE / STALE` — 上述2026-08-09阶段结论依赖已被P2撤回的仲裁、基金、开放制造与扩散前提；第46—60章在继续精修前必须逐章重审，不得从本段推导F046已回收、F047已进入规模网络或任何阶段闭合。
 
 ## 第三篇前置节点复核（第46—50章，2026-08-09）
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 046 | REVIEW / NO_CANON_BLOCKER | 环境影响按材料、燃料、过滤和供应链记录，未简化为单一污染者。 |
-| 047 | REVIEW / NO_CANON_BLOCKER | 责任分为直接、促成、获益和监管缺口，进入共同仲裁。 |
-| 048 | REVIEW / NO_CANON_BLOCKER | 材料断点推动风险目录和多来源替代，未让星环自动接管公共核心。 |
-| 049 | REVIEW / NO_CANON_BLOCKER | 拓荒者-01高寒适配失败，成功记录修订但原始记录保留。 |
-| 050 | REVIEW / NO_CANON_BLOCKER | C-01共同体机器完成台架节点，所有权仍待定，未提前形成制度终局。 |
+| 046 | NOTICE / STALE | 原记录假定环境影响已进入制度性记录；第二轮只保留一座砖炉与一口井的观察页，旧结论不得作为环境机制或跨地追责前提。 |
+| 047 | NOTICE / STALE | 原记录假定四层责任进入共同仲裁；第二轮只保留动作、自述与自愿补救并列，旧结论不得作为责任层级、赔偿或裁决。 |
+| 048 | NOTICE / STALE | 原记录假定风险目录和多来源替代；第二轮只有三段材料边角与来源者拒绝，旧结论不得作为库存、配给或替代标准。 |
+| 049 | NOTICE / STALE | 原记录假定高寒社区的拓荒者-01适配失败；第二轮只比较棚内暖处与冷风线，旧结论不得外推为环境适配或他处使用。 |
+| 050 | NOTICE / STALE | 原记录假定C-01已是共同体机器；第二轮C-01仅为当日拆回的手摇试架，旧结论不得作为共同所有、台架项目或制度前提。 |
 
 ### 第二篇收束预备
 
 - 第二篇正文已推进至第50章。
 - F047开始承接第三篇“没有规则的力量”的外部影响与责任冲突。
 - 第51—60章将闭合C-01测试、拓荒者网络扩展和SE 60阶段转换。
+- `NOTICE / STALE` — 上述2026-08-09收束预备依赖已经撤回的C-01共同体机器、拓荒者网络与阶段性制度前提；第51—60章在继续精修前必须逐章重审，不得从本段推导项目、网络、基金或SE60阶段已经获得文本支撑。
 
 ## 第二篇共同体与协议收束复核（第51—55章，2026-08-09）
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 051 | REVIEW / NO_CANON_BLOCKER | C-01多环境连续测试失败，项目暂停适配而非被写成成功或解散。 |
-| 052 | REVIEW / NO_CANON_BLOCKER | 共同维护轮值和最低基金建立，所有权未自动替代持续关系。 |
-| 053 | REVIEW / NO_CANON_BLOCKER | C-01采用共同核心与地方模块双层路线，保留顾言资本路线。 |
-| 054 | REVIEW / NO_CANON_BLOCKER | 教育分为标准底线、现场叙事、师徒交接，未把经验写成万能手册。 |
-| 055 | REVIEW / NO_CANON_BLOCKER | 第三份协议为试行关系文本，加入退出、申诉、回退、责任过期。 |
+| 051 | NOTICE / STALE | P1将C-01写成多环境项目；P2已改为借件再拼的询问与拒绝，不能从旧记录推导项目、适配或持续关系。 |
+| 052 | NOTICE / STALE | P1所称共同维护轮值与最低基金已撤回；P2只有一夜看护页，不能推导轮值、基金或保管职责。 |
+| 053 | NOTICE / STALE | P1所称共同核心、地方模块与资本路线已撤回；P2只有三条待询问路线及撤回代价，不能推导标准、供给或项目。 |
+| 054 | NOTICE / STALE | P1所称教育分层和师徒交接已撤回；P2只有一次读回，不能推导课程、认证或统一解释。 |
+| 055 | NOTICE / STALE | P1所称第三份协议、申诉与回退文本已撤回；P2只有可反驳的修订说明，不能推导协议、权限或制度生效。 |
 
 ### 第二篇进度
 
 - 021—055正文初稿已建立。
 - 第二篇将于第60章完成时代节点闭合。
 - 第56—60章重点：制度性封锁、制造者网络、拓荒者名称和时代公开。
+- `NOTICE / STALE` — 上述“节点闭合／制度性封锁／制造者网络／时代公开”是P1预设；P2第56—60章只推进到具体门边、发言、名称与责任问题进入可见争论，未形成制度、网络、身份或历史宣告。
 
 ## 第二篇完结复核（第56—60章，2026-08-09）
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 056 | REVIEW / NO_CANON_BLOCKER | 许可证拆为能力、场景、公共关系，未把创造权写成单证中心。 |
-| 057 | REVIEW / NO_CANON_BLOCKER | 制造者联盟采用轮换代表、公开授权、可撤回委托。 |
-| 058 | REVIEW / NO_CANON_BLOCKER | 一百种方案通过信息、安全、功能三层接口互通，不被压成单一机器。 |
-| 059 | REVIEW / NO_CANON_BLOCKER | 拓荒者定义为持续关系，不等于设备、证书或资源权限。 |
-| 060 | REVIEW / NO_CANON_BLOCKER | SE 60拓荒者时代公开，第三篇责任扩散线启动。 |
+| 056 | NOTICE / STALE | P1的统一许可证、能力／场景／公共关系分拆与谈判均已撤回；P2只有四处门边的具体阻碍，不能推导入口或准入。 |
+| 057 | NOTICE / STALE | P1的制造者联盟、轮换代表、授权与委托均已撤回；P2只有问题来处与不转述页，不能推导成员或谈判主体。 |
+| 058 | NOTICE / STALE | P1的一百种方案、三层接口和互通网络均已撤回；P2只保留几件不可并列的本地问题，不能推导标准或交换。 |
+| 059 | NOTICE / STALE | P1的拓荒者公共定义已撤回；P2只说明拓荒者-01本机边界，不能推导称号、资格或持续关系。 |
+| 060 | NOTICE / STALE | P1的时代公开、制度成果与责任扩散线均已撤回；P2只使Canon SE60的责任问题进入可见讨论，不能推导协议、网络或历史宣告。 |
 
 ### 第二篇验收结论
 
@@ -352,6 +355,7 @@
 - 主题：PASS / 创造开放从理念进入生产、资本、环境、教育与制度。
 - 伏笔：REVIEW / F047阶段回收，F048—F062转入第三篇或远期回收。
 - 正文状态：DRAFT / REVIEW_REQUIRED；不自动升级为ACCEPTED或CANON正文。
+- `NOTICE / STALE` — 上述第二篇验收中的“PASS”判断来自P1制度、网络与阶段闭合预设；第56—60章P2只可称为 `REVIEW / DRAFT`，仍待独立复审，不能以本段推导验收或Canon事实。
 
 
 ## 第61—70章连续性复核（2026-08-09）
@@ -360,16 +364,18 @@
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
-| 061 | REVIEW / NO_CANON_BLOCKER | 网络扩展到多节点，404仍是经验节点而非全局观察者。 |
-| 062 | REVIEW / NO_CANON_BLOCKER | “整体未知”成为告警状态，未把未知写成灾难预言或万能系统判断。 |
-| 063 | REVIEW / NO_CANON_BLOCKER | 二级紧急动作保留现场判断，同时要求在60秒内建立可追溯边界。 |
-| 064 | REVIEW / NO_CANON_BLOCKER | 共享网络分为状态、建议、紧急协调与区域降级，未把信任简化为服从。 |
-| 065 | REVIEW / NO_CANON_BLOCKER | 事故报告采用四层结构，解释与异议没有覆盖事实层。 |
-| 066 | REVIEW / NO_CANON_BLOCKER | 责任追溯并列行动、系统与受益路径，没有宣布所有人等责。 |
-| 067 | REVIEW / NO_CANON_BLOCKER | 受益记录不抵扣责任记录，保留临时维修小组等非正式参与者。 |
-| 068 | REVIEW / NO_CANON_BLOCKER | 自动规则拆为写入、部署、修改与依赖动作，未虚构唯一批准人。 |
-| 069 | REVIEW / NO_CANON_BLOCKER | 代价先流向实际修复与受影响者支持，支付不替代事实复核。 |
-| 070 | REVIEW / NO_CANON_BLOCKER | S-R7为融资型机甲试验，保留退出权、共同数据权和维修竞争权，未将资本路线写成纯反派。 |
+| 061 | NOTICE / STALE | P1的多节点网络、档案中心与分区观察均已撤回；P2只有无统一归处的局部工夫，不能推导跨地记录或管理。 |
+| 062 | NOTICE / STALE | P1的整体未知告警、限流与跨区分析均已撤回；P2只保留桶耳白痕与不完整因果，不能推导状态或机制。 |
+| 063 | NOTICE / STALE | P1的二级紧急动作、60秒边界与追溯要求均已撤回；P2只是一锤未落的当场停手，不能推导条款或免责。 |
+| 064 | NOTICE / STALE | P1的共享网络、协调与降级机制均已撤回；P2只有关系受损后的可撤回原话，不能推导信任系统或恢复条件。 |
+| 065 | NOTICE / STALE | P1的四层事故报告与事实层结论均已撤回；P2明确没有完整报告，不能推导档案、编号或归责。 |
+| 066 | NOTICE / STALE | P1的跨区追溯路径、系统与受益链均已撤回；P2只并置未落锤、未问来源与修门延误，不能推导表、链、机构或权限。 |
+| 067 | NOTICE / STALE | P1的收益记录与临时维修小组均已撤回；P2只承认局部好处和未相抵的工夫，不能推导补偿、债务或分配。 |
+| 068 | NOTICE / STALE | P1的自动规则、部署与决定足迹均已撤回；P2只有缺席者旧话的来源缺口，不能推导规则、许可、记录或裁定。 |
+| 069 | NOTICE / STALE | P1的代价分流、支付与事实复核均已撤回；P2只是一只被明确同意帮抬的木箱，不能推导赔偿、基金或偿还。 |
+| 070 | NOTICE / STALE | P1的S-R7、融资、数据权和资本路线均已撤回；P2只有未成交的扁铁询问，不能推导价格、合同、市场、生产或机器开放。 |
+
+- `NOTICE / STALE` — 第066—070章及以上P1复核条目建立在跨区网络、正式追溯、自动规则与融资型机甲已出现的前提上。第061—065章P2已撤回这些前提，故后续各章必须逐章重审，不得把本段的结论、术语或机构当作已发生事实。
 
 ### 第61—70章阶段检查
 
@@ -380,7 +386,9 @@
 - 伏笔：REVIEW / F063—F072已登记，后续需验证跨区事故、决定足迹、收益图谱和资本协议的长期后果。
 
 
-## 第71—75章连续性复核（2026-08-09）
+## 第71—75章连续性复核（2026-08-09，NOTICE / STALE）
+
+> 失效说明：本段复核依赖已被P2重写撤回的S-R7、维护数据、资本扩张、合同与市场前提；仅保留为旧稿审计证据，不得作为第071章以后DRAFT正文的继承来源。
 
 复核范围：S-R7维护记录携带、退出权交接、替代件市场、合同版本与价格竞争。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
 
@@ -401,7 +409,9 @@
 - 伏笔：REVIEW / F073—F077进入开放状态，后续需验证保险、风险定价和大规模交付。
 
 
-## 第76—80章连续性复核（2026-08-09）
+## 第76—80章连续性复核（2026-08-09，NOTICE / STALE）
+
+> 失效说明：本段复核依赖风险保险、公共风险池、S-R7批量交付、北线事故和临时责任机制；P2正文未建立这些事实，故本段不得用作续写依据。
 
 复核范围：风险保险、记录建设担保、S-R7-100批量交付、临时责任暂停与SE 80北线重大事故。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
 
@@ -422,7 +432,9 @@
 - 伏笔：REVIEW / F078—F082进入开放状态，后续需完成责任战争的审理、修复与制度收束。
 
 
-## 第81—85章连续性复核（2026-08-09）
+## 第81—85章连续性复核（2026-08-09，NOTICE / STALE）
+
+> 失效说明：本段复核依赖北线事故审理、先行款、赔偿、分区重启与制度化修复；P2正文只保留本地物件、当次帮助与未作答问题，故本段仅作旧稿证据。
 
 复核范围：北线事故审理、现场证据、四种修复、先行款协议与事故后分区重启。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
 
@@ -443,7 +455,9 @@
 - 伏笔：REVIEW / F083—F087已登记，后续需处理追偿、降级、规则反弹和制度敌意。
 
 
-## 第86—90章连续性复核（2026-08-09）
+## 第86—90章连续性复核（2026-08-09，NOTICE / STALE）
+
+> 失效说明：本节依赖资格、保险、规则依赖账和制度化拒绝等P1前提；第086—090章已改为本地一次动作与当前持有边界，故本节不再是续写依据。
 
 复核范围：事故降级、双轴保险、W-3规则暂停、规则依赖账和有理由规则拒绝。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
 
@@ -464,7 +478,9 @@
 - 伏笔：REVIEW / F088—F092进入开放状态，后续需完成拒绝的保险定价、共同协议与责任收束。
 
 
-## 第91—95章连续性复核（2026-08-09）
+## 第91—95章连续性复核（2026-08-09，NOTICE / STALE）
+
+> 失效说明：本节依赖例外治理、共同最低线、协议入口和公开讨论稿等P1前提；第091—095章已改为局部拒绝、物件与未完成纸页，故本节不再是续写依据。
 
 复核范围：规则拒绝定价、例外状态、共同最低线、四个协议入口与不完整讨论稿。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
 
@@ -485,9 +501,9 @@
 - 伏笔：REVIEW / F093—F097进入开放状态，后续需完成公开测试、暂停权、退出与共同协议定稿。
 
 
-## 第96—100章连续性复核（2026-08-09）
+## 第96—100章连续性复核（2026-08-09，NOTICE / STALE）
 
-复核范围：第二次公开测试、暂停权、共同协议退出、发布前谈判与SE 94共同责任共治框架。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
+> 失效说明：本节依赖公开测试、暂停权、共同协议、入口和共治框架等P1前提；第096—100章已改为个人纸、当次扶门、归还借物、未署名算时纸与未钉铁盒，故本节不再是续写依据。
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
@@ -506,9 +522,9 @@
 - 伏笔：REVIEW / F098—F102已登记，第四篇需验证框架复制后对废铁营、404和普通维修者的反作用。
 
 
-## 第101—105章连续性复核（2026-08-09）
+## 第101—105章连续性复核（2026-08-09，NOTICE / STALE）
 
-复核范围：共同框架复制后的中心化风险、手递入口、404名称、资格分层与关系记录。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
+> 失效说明：本节依赖共同框架、入口、资格分层、关系记录和可验证404等P1前提；第101—105章已改为各自问题、未识字来客的自持纸页、未证实名字、当次帮手与闭门未问，故本节不再是续写依据。
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
@@ -527,9 +543,9 @@
 - 伏笔：REVIEW / F103—F107进入开放状态，后续需处理失去资格者、档案恢复与404的问题。
 
 
-## 第106—110章连续性复核（2026-08-09）
+## 第106—110章连续性复核（2026-08-09，NOTICE / STALE）
 
-复核范围：旧资格恢复、记忆债、地方附录裂缝、正式与地方知识双席位、404机器身份问题。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
+> 失效说明：本节依赖旧资格、档案、共同框架、知识席位与可验证404等P1前提；第106章已改为车棚右门、未写的名字与当次扶门，故本节不再是续写依据。第107—110章的P1结果同样不得被当作上下文，待各章P2重写后另行独立复审。
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
@@ -548,9 +564,9 @@
 - 伏笔：REVIEW / F108—F112进入开放状态，后续需处理机器问题、最后一次维修与新的开始。
 
 
-## 第111—115章连续性复核（2026-08-09）
+## 第111—115章连续性复核（2026-08-09，NOTICE / STALE）
 
-复核范围：连续性关系说明、陈默旧维修卡、404记忆损坏协议、四节点交接与最后一次单独维修。结论仅适用于当前 DRAFT，不构成 Canon 晋级。
+> 失效说明：本节依赖404、连续性关系说明、旧维修卡、记忆／交接机制与最后维修等P1前提；第111章已改为屋檐下的未勾小纸，故本节不再是续写依据。第112—115章的P1结果同样不得被当作上下文，待各章P2重写后另行独立复审。
 
 | 章节 | 连续性结论 | 复核记录 |
 |---|---|---|
@@ -589,3 +605,515 @@
 - 主题推进：PASS / 创造 → 责任 → 修复 → 连接 → 交接与新开始。
 - 伏笔：REVIEW / F118—F122已登记，第二卷承接北线、北轨未知设备与共同框架长期后果。
 - 卷级结论：DRAFT / REVIEW_REQUIRED；正文初稿完成，不等于最终验收。
+
+## 第一章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本结论表示当前修订未发现阻塞性问题，**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`66CEC5869E47642EED3F2E44AB271315256F08775E466780596DC03E7B684E62`
+- 修订后 SHA-256：`49955725A307B006AF4073A0246384E704F0E4F6011FAD21C5E494875F405BA9`
+- 结构修补：周衡在SE 1已将404列为“待确认”，本章保留为SE 3的首次启动；检测选择、三日责任评估期限与维修编号731形成连续的个人代价链。
+- 技术边界：404的0.7%核心余量未被外接电源补充；一次性隔离自检窗口和低功耗检索只解释本章可见的有限行动，不新增来源、能力或历史事实。
+- 文学修补：用清单、门禁、工时记录、倒计时与只读维护口承担压力，未增加陈默、404-Origin或“创造者”身份信息。
+- 字数检查：`3452 / 3000`，通过；小说诊断器风险 `1 / 10`。重复短串主要来自第七码头、404、维修编号与状态元数据，后续卷级回读再判断是否需要统一收紧。
+- 下游影响：`NOTICE` — 第二章仍需承接三日责任评估期限；F001—F003的来源、含义和回收安排保持原台账状态。无事实、人物、资源、知识或时间线台账回写。
+- 状态待确认：章节索引仍为 `OUTLINE / PRODUCTION_INDEX` 类型文件；本章实际正文与审稿状态以本章文件和本台账的 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` 为准，不据此升级任何正典状态。
+
+## 第二至三章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。两章均通过本轮独立连续性复审；`PASS` 仅表示未发现阻塞项，**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 002 | `73B80A8194AAAC598F5F6898909C6A6620A33FD43E10FDB61205AEAAC51B692A` | `EB93D55A5BC99333DC05ED8EA496E21E8704999547031EB606522E79FBB98EC7` | 原件—扫描—查阅副本—只读核验的物件链闭合；三日限期不归零、不延长；陈默、F005/F006仍为隐藏线索与OPEN伏笔。 |
+| 003 | `E1443ACE6E58A898C3AFBE83687AACD44C17B7067BB8D9A2C1283A2FD20DD946` | `888AE3DE843D46DC8220FF40C139CEA4193F9C102E8ABB8FE6835E45C88CC186` | 效率失败（04:06／04:00）、冷却线恢复、七日临时评估三者分列；731留为待复核的现场证据；F007仅提出问题，未给答案。 |
+
+- 字数检查：第002章 `3546 / 3000`，第003章 `3587 / 3000`，均通过。
+- 诊断提示：第002章AI纹理风险 `1 / 10`，第003章 `3 / 10`；重复短串与物件密度提示作为后续卷级回读事项，不做机械删改。
+- 下游影响：`NOTICE` — 第003章承接第002章同一三日时钟；第004章应承接第003章的七日临时评估、404左臂临时液压管与未决的731复核记录。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第七章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本结论来自独立复审，表示当前修订未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`F16DD59EE0A2F39B976D6627D0BFDCEC8D85564617FB2EBB2A9FDEA0156C79F6`
+- 修订后 SHA-256：`0418BD2DED67ED1105112F7FD8D786D3BF2F01C88B7E6C72C3F572F6402BCE30`
+- 连续性修补：M-927为待核验的历史组织标识，不能与周衡“第928项”的临时责任混同；贺岩身份、旧热站事故责任和404核心记录均保持未决。
+- 技术与伏笔边界：404仅读取到“先听管道，再决定是否开阀”的旧指令片段；F008及人物状态均标为现场适用待第二次评估复核，未替第八章证明其有效性。
+- 场景与代价：医疗转运说明先落档，资格窗口仅余十分钟；负责人施加的是可追溯的复核压力，而非对旧记录的结论性否定。
+- 字数检查：`3296 / 3000`，通过；小说诊断器风险 `3 / 10`。重复短串主要为M-927、第928项、H-12与“第二次评估”等必须保留的锚点；物件密度提示留待卷级回读。
+- 下游影响：`NOTICE` — 第八章只能把该指令放入现场复核，不能从本章反推其有效；F008、F010继续保持 `OPEN`。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第九章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本结论来自独立复审，表示当前修订未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`47FACA63577C37E304B615AF2D2D419CD24A0182D5AAE1A019D2E07D02479072`
+- 修订后 SHA-256：`88554E0966E8E5C97EE80B692CEF1F3C18AF22B37BCCFF2A11CDB2BD98202DB6`
+- 证据边界：第八章遗留的低频、温度／压力与中止时刻只证明异常和已发生的中止，不能证明周衡判断必然正确或旧支路中必有人；摄像仅从本次审查起记录，不能倒拍昨日。
+- 试行边界：范围限于404、第七码头旧工业线和低风险维修，首次复核到期自动失效；缺原始日志、影像或任一人类复核即暂停。设备管理与安全为两个人类复核岗位，404仅为原始日志来源，不签字、投票或承担最终责任。
+- 人物边界：韩朔暂不封禁、监督并保留异议，不为周衡的判断背书；公开记录仅列范围、期限、暂停、复核人与结果待定，不构成永久制度。
+- 字数检查：`3302 / 3000`，通过；小说诊断器风险 `1 / 10`。重复短串主要为试行、复核、记录和设备锚点，留待卷级回读。
+- 下游影响：`NOTICE` — 第十章仅能在受限试行尚未复核的前提下作P-12对照；F012继续保持 `OPEN`。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十至十一章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。两章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 010 | `C34301AA30600114DBED6F21C2043551271D0C07869363791225FAE1E2482DEE` | `1954B45D19B29023BB92B0439F0F9CC6A1605C673FEAEB8EF759B830937181BF` | P-12的5.2倍限于标准接口、能源与授权备件条件；旧接口实测约1.6倍。五维比较并列速度、自动保护、备件、现场修复性、复核／培训负担；404受借电、低负载、短时验证和待复核限制，千台责任链仅列问题。 |
+| 011 | `E9EF413889F363580EB8C6C4DB58DEF6FEBE9317CF22E69B484C6460C8B6488A` | `1AF7DC8560A6B0BC6803653BBB0CEC3003C77243668F18BC7EE84F2AFD7DA2DE` | P-12对照测试次日即三日试行第1日；湿冷／未隔离情境由标准手册实际避免风险。404仅给低负载教学候选与原始读数，四次未达成后仍不获认证；偏离记录保持空白问题，F015留待第十二章。 |
+
+- 字数检查：第010章 `4613 / 3000`，第011章 `3374 / 3000`，均通过。
+- 诊断提示：第010章AI纹理风险 `2 / 10`，第011章 `3 / 10`；必要锚点的重复短串与物件密度提示留待卷级回读，不做机械删改。
+- 下游影响：`NOTICE` — 第十二章承接三日试行第2日和空白偏离记录；不得把第011章的教学候选、试行假设或任何学员资格写为已通过的永久制度。F013、F014继续保持 `OPEN`，没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十二至十三章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。两章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 012 | `D0F90EF6C0F722F65FDA0C38C409B2A76269429E07BA8ECB6E9ABC7E9FF737D0` | `6988CC49D08E0647139DB21B0DCCA0DB463305BFBB8AC1DBE39D4DA418986087` | K-7仅在既有三日有限试行第2日内进行，47:10到期不重置。影像、404只读日志、设备管理与安全双席在动作前到位；404仅报阈值，局部隔离的黄色刻痕、备用回路、3.4停手线与0.3度温升可复核。F015仅为K-7任务级草案，待首次复核。 |
+| 013 | `96A024DD6FFEC90A301C7E72A3C0D3D1EBAA552F835D80D0A4954B60154B2D78` | `C81F767AAD02815D9CF0452685C30916CF77E02E779B485253EEDF5AB6EFC3C3` | 磁带日期缺失与K-7非H-12原始证据被分开；M-927为历史批次／组织标识，贺岩关联待核，且不同于周衡第928项。H-12-R1是一次修订层试行，档案来源链、程序边界与预算异议分属不同角色，常规化待历史责任复核。 |
+
+- 字数检查：第012章 `4225 / 3000`，第013章 `4077 / 3000`，均通过。
+- 诊断提示：第012章AI纹理风险 `0 / 10`，第013章 `0 / 10`；长文本的必要术语重复仅列入卷级回读，不做机械删改。
+- 下游影响：`NOTICE` — 第014章只能处理贺岩本人及其与M-927的待核关联，不能反推他在旧事故中的操作身份；H-12-R1和F015、F016均为待复核的本次记录，不能写成永久角色、制度或资格。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十四章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本结论来自独立复审，表示当前修订未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`D6E50F119E8DED0E5828AC250EB2925AE065D19ACD94F54B3FC92081EBAEA840`
+- 修订后 SHA-256：`00D9666E6FD4B7CAE94FDCB1FB11E6E67602329DDC649FD0B4198C49AFB147DD`
+- 身份与同意边界：只确认贺岩本人身份；其与M-927的关联、历史在场和事故操作仍待交叉核验。陈述可暂停、补充或更正，治疗、临时床位与安置资格不以陈述为条件。
+- 程序边界：H-12-R2的“现场见证人”仅为本次临时字段；原记录只读，经安全／程序与档案记录双岗位确认后才进入只读公开摘要，并在证据复核后自动失效。它不推定操作人、责任人或永久资格。
+- 可见代价：非紧急转运与后续安置进入人工队列，预计延后一班；顾言保留效率与调度异议，未以医疗权利换取陈述。
+- 字数检查：`5074 / 3000`，通过；小说诊断器风险 `2 / 10`。必要制度术语的重复与物件密度提示留待卷级回读。
+- 下游影响：`NOTICE` — 第十五章只能把R2写作临时字段／待交叉核验，不能反写为贺岩永久见证人身份或已确认事故在场。F010、F016、F017继续保持 `OPEN`，没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十五章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本结论来自独立复审，表示当前修订未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`D4C7F369F429491651A4E7C14A1602E62EB0D60F36A0BA97100510248EAB0902`
+- 修订后 SHA-256：`218846610CBDF031650B9191E1F28C3679A10C589DF455BE9AECBC4EDBC1A23F`
+- 检索与编号边界：128条仅为本轮查询可见的候选／关联行，不能当作人数、完整名单、事故解释或责任链；M系列为历史检索标签，M-927不等于姓名，第928项仅为周衡现行复核联系人，不承接历史责任。
+- 同意与试行边界：贺岩仅在单独同意、可拒绝／更正／补充的条件下提供M-412转调线索，治疗、床位与安置不受影响。H-12-R2初筛限三日、双角色复核，到期停止；不得自动通知、进入正式索引或生成责任统计。
+- 人物与伏笔边界：顾言保留有限人手与批量排序压力，韩朔禁止复用医疗陈述，404只列来源、缺失与不确定性。M-412是可审计的“未决”样本，F018仍为 `OPEN`。
+- 字数检查：`3790 / 3000`，通过；小说诊断器风险 `1 / 10`。标签和人物对话造成的必要短串重复留待卷级回读。
+- 下游影响：`NOTICE` — 第十六章可继续追查记录位置和来源缺失，但不能把临时表失效理解为删除封存材料或“未决”记录；重新使用仍需申请。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十六至十七章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。两章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 016 | `67D77338BCCF8E615B5287CCB00A0715A34AD8C8BD3606CBDE53FB67A7379173` | `27BC3065871D2323872776A2B85F36B7601620610A977B7004AC8D81D0DF5423` | 128项仅是当前可见候选／关联位置，U为可合并、拆分、撤销的空白键；无署名清理残片不能推出来源、执行者、动机或与128项的确定关系。只读源盒、分离克隆、读写预算与97碎片检索以恢复成本换取可追溯性。 |
+| 017 | `6E2D0FB342AFAC605D502D5BE81F8F43CB125B5C6C8CEBDE41AA72C187B7ED17` | `373DB3EE772214DB168F500D01ABD40F544559A1BB87CDD9E30D612A48D9DA40` | SE3至SE4的一年融冻期与首个低风险班次明确；封存原件、编号只读副本、任务卡与公开板分流。泵经历试转失败后仅降载运行并附复查／停机条件；404不签字定责，结尾仍是临时／未定进入单。 |
+
+- 字数检查：第016章 `3999 / 3000`，第017章 `3591 / 3000`，均通过。
+- 诊断提示：第016章AI纹理风险 `0 / 10`，第017章 `1 / 10`；必要术语与台账字段导致的重复短串留待卷级回读。
+- 下游影响：`NOTICE` — 第十八章不得把第017章的收班断电追溯为已发生的能源故障；SE4场地仍为未命名临时场地，SE5前不得称为正式废铁营。F018、F019继续保持 `OPEN`，没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第十八至二十章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。三章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 018 | `F96E63222CBFCFFE8BBDAFD550D9037438330B44AC131298042778F12D791A0F` | `3040D9C49E90B39CC3328EC3789187D6A6C5887185664C7BABDCFC18CCBCC3FC` | SE4为逐班复检的未命名旧燃料工棚；404仅低压缓存与人工录入摘要。阀组以双人复测、填料转用和后续复检换取最低防冻运行；“404缺席检验班”只适用下一班并自动失效。 |
+| 019 | `AEE68D0307FC4D34B61E26CA2D7210D76D9F4FCE2F54C46418EF20C47EF6E825` | `0757D288697F19EDDDA9666ED8DDBA708F90594E283E8FD3359216DEC5E7FAEA` | SE4仅有一次低负载工具观察；所有者未知、临时保管、借用／操作、见证、归还核验分开。404不许可、不签字，6分44秒中止与耗材、湿渣延误进入记录，F022仍只是候选。 |
+| 020 | `087B3F611F57E05B1BF2E2D36D0B0EAF64388385C5CB3F9D573F279AD02249C2` | `DE1B910D32BF728EE6F7A8672376362D32BC9B6C512F11029B28665AA7178AEF` | SE4使用者昵称、十日观察与SE5人工复核相接；首次登记仅30运行日，到期、事故、越界、证据失配或角色分离失效均可暂停。404为低功耗数据来源，J-071空白安全签认保留下一篇风险。 |
+
+- 字数检查：第018章 `4104 / 3000`，第019章 `4388 / 3000`，第020章 `3620 / 3000`，均通过。
+- 诊断提示：第018章AI纹理风险 `0 / 10`，第019章 `0 / 10`，第020章 `1 / 10`；必要术语和元数据的重复短串留待卷级回读。
+- 下游影响：`NOTICE / STALE` — 卷级时间线中原有“建立无404日”的措辞已被本轮第018章收窄为“下一班自动失效的404缺席检验草案”；在作者验收前不回写时间线，应由后续审阅决定是否更新。第二篇入口只承接SE5的有限登记、未签安全栏和J-071申请，不能把它们写成永久许可。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第二十一至二十三章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。三章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 021 | `ACA4F45CD28978ABE8926B6B092D8681DE546810880D5F142BA9B0C91387EEF8` | `374EDC76693CD6B909352AAAA9A42F42A4369E12CC72F988B989DFAA3218B200` | J-071仅一次、低能、可撤回，外出不扩容为许可。404只提供出发前原始读数；高能工具留营、顶升器铅封。双份纸质记录分持，泵仅半流量并待夜间复核，下一次外出不自动获批。 |
+| 022 | `5087C8DCAE650EF017BB3756F6E7C7EB0CDE335ABB1EC23C76843C6132C314DB` | `F7F0DA0FFC6D7686BCF3A16862F55EA6C0D4FC65821FD07E2EA93F107EFA1657` | 查阅和东环试作均为有范围、日落失效、可暂停的单独申请。原件、复制链、检索关联与404扫描数据分列；3分20秒停机的温度、能源、运水与耗材成本可见，东环-试作-01仍未完成。 |
+| 023 | `C86098048EC7674E914EBB60D069533011679F8683FD4E29585B0B64F2052BD2` | `13D4EEDD54849227AA480EBA8D199A82026F0FFBF08C71C188609E2414E00B82` | 东环原型、北侧和铸造镇两件外部复制品及未开工社区分开；本地纸带、封套、工具箱回传而非远程档案。北侧停机与铸造镇人工拉绳停产均入账，OA-01限定三处、七日自动失效。 |
+
+- 字数检查：第021章 `3561 / 3000`，第022章 `3833 / 3000`，第023章 `3722 / 3000`，均通过。
+- 诊断提示：三章AI纹理风险均为 `1 / 10`；地点、编号与状态锚点的必要重复留待卷级回读。
+- 下游影响：`NOTICE` — 第021章“操作：林川”与本地维护员实际回装阀门的表述，在后续精修时需明确有限操作／协作边界；第022章“试作第六天”需明确为准备后的第六天或单日申请。F023—F025继续保持 `OPEN`，没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第二十四至二十六章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。三章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 024 | `84DF546B5951C3761D4557A76D0653F99949BE2C2A2EDCEC1DF30CD2477C00C2` | `E7F12B5877772A7EF9FC397239412055E350A569AC6537DD6F38AA4EC13C9513` | 四项申请为首轮低风险、有限站位、七日到期审看；高能、场外、复制制造另表。会议棚、旧铸造棚模拟、姚素的九米无载验证、耗材与等待把开放写成具体容量选择。 |
+| 025 | `E5904B5E44B57278D62622E3750148A8590188118DBC02089DFF40F8260176C8` | `2013B64476A86D7C8F0AD6ADBAE3226FB7AF7CD7BD144398D72F7B5395151A97` | 十年前首轮旧表的许可已失效，只提供本次测试卡的四栏核对方法。E-08仅到桥前六码安全线，桥面未启动；人类测试链、14分钟停机、人工复位和未分摊成本可追溯。 |
+| 026 | `4EEED4576130F9C70105D48F7EB34FA19FA71DB65E1BD3BCBF76AEBF27B37CA6` | `552D5E5BE92C7994BB7083296B59F67425A9313C36A28C1505BBE7585CCDD417` | 既有测试纸带与八方签名被保留，缺的是跨模块公差／静态抬升基线。404仅导出波形和未知项；三日试行页不裁定四权或赔偿，28度空载20米后矿区任务仍暂停。 |
+
+- 字数检查：第024章 `4550 / 3000`，第025章 `3216 / 3000`，第026章 `4005 / 3000`，均通过。
+- 诊断提示：第024章AI纹理风险 `0 / 10`，第025章 `1 / 10`，第026章 `1 / 10`；测试、模块与任务术语的重复短串留待卷级回读。
+- 下游影响：`NOTICE` — 第026章所用四权措辞应明确为三日维修试行的新页，不能与第025章已失效的旧表混同；第027章只能把成本、补偿和结果确认作为待归账事实，不得提前结算。F026—F028继续保持 `OPEN`，没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第二十七至二十九章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。三章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 027 | `90B31F18F381D4E52751173BB631E37FC7B636A91D3A73DA4FC3516C54BEC1AC` | `C851B66419344FBAE69EB8BAC70B25E9A9D3060DE3F39EDDB0C1FB297DA63889` | E-08右臂锁止，高负载任务继续暂停；东环只进入待补材料／待复核听证。贡献账、受影响记录与共同成本候选页不产生许可、优先级、所有权或结算；404仅输出原始时间、票据范围和间隔。 |
+| 028 | `180C690B02EFD954817C561129805E1B3CFD5F01484851E659C8A8EF7317EC92` | `3B19354880ECFCF68B67353B5B404C9008C255B866ECDC7B6E7042BDAF76DA37` | U01仅为本次北侧外部复核页，结束即封存，原始E-08设计只读。材料／制作、已见受益、未知责任与观察／返修成本分列；林川仅临时维护与证据保全，陈禾仅有限自述，三十米低速观察不外溢为授权。 |
+| 029 | `68B6C67ED0E838092EE4475CB8E0B33B15710FE7EB52BCA09B6A950AF062424B` | `BD8FE717D3591D19A08A8B8939AF51DC2DABC86FF0FE3BF3E1A80697E2AE3FD4` | 暂停严格限于本次通桥任务：韩朔发起、林川执行停车、陈禾保存原始证据、另组现场复核复启。已确认松动、58分钟延误及实际成本、已处置临时措施与未证实未来事故分列，候选复盘字段不成为常设制度。 |
+
+- 字数检查：第027章 `3996 / 3000`，第028章 `4447 / 3000`，第029章 `4894 / 3000`，均通过。
+- 诊断提示：三章AI纹理风险均为 `0 / 10`；编号、人物与任务术语的重复短串保留给卷级回读，不作机械删改。
+- 下游影响：`NOTICE / STALE` — 第028章的外部复核不得被写成第027章听证生成的使用许可，U01也不能倒填第027章仍空白的来源／动作ID。第030章当前把第029章的一次任务复盘候选提前扩展为“安全暂停者制度”与常设安全席；待其DRAFT修订后再判断，作者验收前不回写时间线或人物台账。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第三十至三十二章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。三章均经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 本轮修补与边界 |
+|---|---|---|---|
+| 030 | `C5D5B8032A73F9B209C74C083A08709E360D96C8CAE73555CCEF7E7B953380B2` | `E270EAF81C9D25996DCD07FBC12FE299639E5BFE1B948139BE4820197696EE4D` | 七日、八个半日人工审看格只安排核对、出行与记录劳动，不是施工、运送、E-08出车或许可。U01继续封存只读；提出暂停、停车、记录与复启复核分离，成本／风险／缺证不折算为优先权或结算。 |
+| 031 | `25F895D1C6DABE0333F5E5D05BD15A944D09173765AC4882FE134CBABF0B52EE` | `2E4D73D90C927D38574A07E0A39A0E68EE3C4558B076C1E08603B2F48E930A8D` | SE24为限定场地、限定批次、非通能接口环试制；1个原型、3个样件与B01内2件同批受限成件合计六件，安装ID仍空白。E-08／U01未获使用、拆借、安装或外出许可，成本按已发生／预留／未知分列。 |
+| 032 | `6E1139AD44865BD0CBE73B10CA45876F71CD9976B4AD6A959252A6CFB817D92B` | `FE1A3C61CF919BBA4B50211C016E511F3FA0E503A215824D5A77CB6F5A5AF736` | 阿芜-01只限B-3、SE25当日前班的一次可见清理与低速空载观察。自述、工具状态、见证、停止条件、成本、可选联系与未来资格分栏；页面封存后不产生使用卡、持续身份、见证角色或下一次准入。 |
+
+- 字数检查：第030章 `4371 / 3000`，第031章 `5678 / 3000`，第032章 `6093 / 3000`，均通过。
+- 诊断提示：三章AI纹理风险均为 `0 / 10`；长文本的编号、地点、人物与工作术语重复留待卷级回读，不作机械删改。
+- 下游影响：`NOTICE / STALE` — 卷级时间线与章节索引中“临时使用者与持续见证人状态建立”的旧措辞，已与第032章“只有一次观察页、没有持续身份或角色”不一致；在作者验收前不回写，而应作为后续复审风险。第033章旧契约若仍把阿芜写成稳定用户、把试制棚写成公共生产体系、或把第030章审看桌写成常设调度，应先重构其DRAFT前提。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第三十三章第二轮文学复审（2026-08-10）
+
+结论：`PASS / DRAFT`。本章经独立复审未发现阻塞项；**不构成**作者验收、`ACCEPTED` 或 Canon 晋级。
+
+- 修订前 SHA-256：`C4A543D0C2D6351A74EA1C4752477AF91A1446B262AF8D1FAEA6080323AA922D`
+- 修订后 SHA-256：`DB216110AACE97442AC9533A6DE3DE761BC5E8823701898DA9880ED523CD9D38`
+- 供应保留边界：SE26听证中E-08右臂仍锁止、U01仍封存只读；桥梁村仅持人工核对后的缺页和未知项。没有一张票据能证明E-08可交付，故拒收预付款。
+- 成本边界：已发生、未购买的预留、未知与不可定价负担分列；结尾成本试算为公开但无效的DRAFT，资金为零，不产生基金、补助、价格、排程、交付、资格或E-08任务网络。
+- 人物与伏笔边界：顾言只掌握票据、样件卡与人工审看记录；F035为 `PROPOSAL / NOT_CANON`，未回写伏笔、人物、资源或时间线台账。
+- 字数检查：`4783 / 3000`，通过；小说诊断器风险 `0 / 10`。长文本的术语重复留待卷级回读。
+- 下游影响：`NOTICE / STALE` — 第034章不得把过期的八只空白接口环／车辆预留当作测试材料或测试资格，也不得把桥梁村三页证据缺口写成可用条件；第035章及后续只能继承未生效成本试算与待决公共支持来源。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第三十四至三十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。两章已完成契约、篇幅、文本诊断、跨章边界与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 034 | `6361C0282ED921EDEB57DCA1082F6F3E1CBBC917B1270704BCEA5C47815DEA3B` | `80B73B9313B0CB9F95D606ED815D66F490F6DFE42858F2C68A2EF4A1B6DF935D` | SE29旧货运支线仅为一日临时低载观察带。T-29-A/B/C均为独立、非通能观察件；E-08、U01、B01及失效供应保留材料均未使用。三张记录卡只保留本日、此地、此动作的已见／未见／异议与代价。 |
+| 035 | `C9D640F3A2D8C84C26C06577C028E47CC686BC2F87D052CAB330E2` | `58762FD3220A0CFEDE54ED8F032B08401AB1B07B167002A1E0D1F3D8976BE004` | SE30公开“拓荒者理念：责任问题讨论页·零号”。讨论页只引用SE26无效成本草稿、SE29观察卡和三份异议，404仅归档状态／来源／缺口；不创建SE45民间拓荒者、SE75责任协议、SE350正式《创造者协议》或任何资格、资源与行动效力。 |
+
+- 字数检查：第034章 `4609 / 3000`，第035章 `4077 / 3000`，均通过。
+- 诊断提示：两章AI纹理风险均为 `0 / 10`；编号、记录页与人物称谓的重复留待独立文学回读，不作机械删改。
+- 待办：需由未参与本次改写的审读者复核人物节奏、陈述与行动比例、局部叙事视角，以及第034—035章与后续章节的继承；在此之前，章节状态保持 `REVIEW / DRAFT`。
+- 下游影响：`NOTICE / STALE` — 第036—040章目前若假定多地试行、固定原则／地方附录、条件性制造承认、E-08网络、公共生产体系或成熟协议，均不得以第034—035章为依据。后续只能从一次观察记录、无效成本草案与无自动行动效力的讨论页重新建立因果。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第三十六至四十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、跨章边界与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 036 | `7BC4F326F737B1811608B6994C813F6B7BC8A413504FC46D68DABCD7A2E9E0DF` | `9C34C6EFAC1FD816956D4B3766F93D732A56F032994BF212E585DC66C2DB60B8` | SE31仅为东环引用“讨论页·零号”的一次反问页；有来源、期限、异议与重开条件，无通用修订制度、优先权或行动效力。 |
+| 037 | `B4E62BE98FAD97753096871299E0B1456339510F67DB4101EEC26B8ADF1649D2` | `2671588D97ECD1C82286D41C2D2B127162BAE3CC61233C06619A02B54016DC37` | B-7破箱只保留救援、能源、未知与异议的五栏记录；不把现场选择升级为公共能源、紧急许可、例外或组织。 |
+| 038 | `213B34FD69804BC230441F5F2CD283636167B0D81ADB678B0953D11E51CB3488` | `E352CF0609D4C63EBAE646AF4301A4950880E2B83FCA0B165B827B72DFB63503` | 星环仓与旧铁路的共同动作仅是一张非约束勘验清单；没有E-08网络、价格、基金、排他权或未来设计控制。 |
+| 039 | `193427781BAFA1F60C87EE227455B7E1D00032B78E799727B39FA44595495C8B` | `4DF554630D534C802B774743733391708C011C12F00DB595EAFC23F74C764DFE` | T-29-A原件与八件复制件的失配压回三张带停止条件的观察卡；不授权复制、生产、安装或使用。 |
+| 040 | `0BDD315E7EA3F426EF38DA2A554A73D6B7E77FF17E7E543664C5889F20173E01` | `0CF6EA9E7D710C1C8A2C4E034D2AE302671512F20740DB0D2C432570A513CB7B` | SE35只公开两页“讨论页·一号”：事实不能自动推出什么、尚待回答的问题与异议；404只归档来源、异议与重开条件。 |
+
+- 字数检查：第036章 `3289 / 3000`，第037章 `3261 / 3000`，第038章 `3444 / 3000`，第039章 `3112 / 3000`，第040章 `3699 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自讨论页、记录卡、地点／对象编号与人物对话锚点，留待独立文学回读，不做机械删改。
+- 待办：需由未参与本次改写的审读者复核叙述节奏、公共陈述与现场动作的比例、人物声音，以及第036—040章对后续章节的约束；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第041章不得假定共同仲裁已经成立，第042章不得写成首次公开裁决；后续只能从可反驳的讨论页、一次引用页、具体事件记录、非约束勘验清单和复制观察卡继续推进。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第四十一至四十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章边界与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 041 | `311A664473FAFF9A2E0F0CC12CA391A43292EB9B4A6DA5064955917EA998F719` | `52B833EBBB61C44045F2345CC8BA1CC1C998BD67B037F7DFDD5277438F6F4430` | SE36只留下共同争议在场记录：来源、动作、缺口和不推出的权利并列；不成立共同仲裁庭或排程权。 |
+| 042 | `659A0E18F39558E729EDB5034EA297E83934EC3AFF11162D45E73002F091B624` | `F491849614DC0BAF1F4CABEF369350BEEDDACD5AD339A31F3D656AA95B18D1F4` | T-37-02按操作者与记录人开机前写下的卡中止；本次暂停与成本并列页不成为安全席、裁决、赔偿或其他试验的规则。 |
+| 043 | `28E58561A7596E8B1DF04264E83DA20CB58B3226ECC75C6C80B1DA4BA5EF1485` | `ACB0459BADEE60DFFA4657C10B84DB63567ADC7EB82E9438FA3B6F165ED51A13` | 短驳只由梁柯个人铜线支付；票根、装载与撤回条件可核对，但不创设基金、共同债务、优先权或返程义务。 |
+| 044 | `379C4D16F262D330CC7513D44E9B11BA3F697863647CE1AA2F610E5A0E8ACB5E` | `196FF576B3B9404728CB7452E0C1330721F8E0BDE4F7E597FB96C022F52FA8C8` | 手推车只做无载、三次未完成的配合并拆回；“可见缺口清单·01”只适用本件，未产生开放、课程、材料池或资格。 |
+| 045 | `A4FD8FD10C2F02D5597DC51697713F1C653B3125D5F54E8FD46C4270C99A9727` | `E652FC8C04A9EEFDA092F17D771F2D24F644F22E22F71DB64731DC8540D8FE96` | 依据Canon的SE45锚点，林川以创造者身份让拓荒者-01在棚内空载移动一米二；E-08继续锁止，机器不出棚、不承运、不开放。 |
+
+- 字数检查：第041章 `3542 / 3000`，第042章 `3055 / 3000`，第043章 `3110 / 3000`，第044章 `3039 / 3000`，第045章 `3025 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自试验编号、讨论／记录页、拓荒者-01和人物对话锚点，留待独立文学回读，不做机械删改。
+- Canon锚点：第045章只落在全局Canon的SE45“第一台民间拓荒者出现／林川／普通人成为创造者”；正文没有改写SE60责任争论、SE75《拓荒者责任协议》或SE350正式《创造者协议》的位置。
+- 待办：需由未参与本次改写的审读者复核人物节奏、林川从协调者到创造者的心理跨度、现场行动与概念陈述比例，以及第041—045章对后续的约束；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第046章及以后不得假定共同仲裁、双结果制度、未决价值准备金、自由制造日、多地生产网络或E-08任务已成立。后续只能承接拓荒者-01未出棚、材料来源待查、个人垫付、具体等待成本与“创造者不等于拥有者”的未决问题。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第四十六至五十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、跨章因果与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 046 | `737021FC72592ED6DCBC570934093F7E70F0041BC0DC03B3364642714A0AEB46` | `095EDC41A46E9FDC052CFA287EE9C23171B2ED137F546CDEFD6527BDFA725235` | 烟尘只来自一座旧砖炉与井口的可见关联；压火、桶布、铁皮与取水延误并列，未确证成分或后果。 |
+| 047 | `1B73C0C7D475C2D0647705596CB10B2EC43E1E31C44AC64D6A98AB17DFD97ACE` | `AADA44EBBECD88EEB7318215A0A84C5421F2F841AD6A539F730985491D874706` | 炉火、草图、取水与清扫只按实际动作、自述、拒绝和反驳入口记录；没有仲裁、责任比例、赔偿或下一炉规则。 |
+| 048 | `33D29C7A947DEA5FD037527A002D7AC52F5ED21D3EBC2566795B321DFB0BDDB3` | `80E73704A0621CEB7F192426E212A4BC432FD28C84D804B2CDB4C47955DEF27E` | 三种来历不全材料仅切出边角；来源者可拒绝，试样只在手工比较与无载轮毂旁出现，未生成库存或替代资格。 |
+| 049 | `E602F8F3CECD0C8349074ABC8A96676D93790D5CC72911250C35D62DAAF73608` | `4C1931E918ED530AB0E7F043CF77DE92517AAEAD858954EF16293F1BB8440B81` | 借用薄环只在暖棚两米和冷风线一米二比较；材料归还、机器不出棚，局部顺畅不被外推为适配成功。 |
+| 050 | `F9F4DD933259593638ECD09A3BFFFB2EF1F878D5F7A8DDBB5FA68DC8E26FE996` | `016173EDE0E085C9CCBBBF8596DB354E1F7DC9B43BF396FC615AC8CF45E49CA4` | C-01由借用轮架、手摇杆、木楔和量具拼成，当日十四圈比较后全部拆回；没有共同所有、长期维护或新机器结论。 |
+
+- 字数检查：第046章 `3023 / 3000`，第047章 `3001 / 3000`，第048章 `3064 / 3000`，第049章 `3046 / 3000`，第050章 `3088 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自观察页、试样卡、拓荒者-01、C-01与人物对话锚点，留待独立文学回读，不做机械删改。
+- 待办：需由未参与本次改写的审读者复核阿芜、季钧、许棠、马沉与汤照的声音区分，烟尘／材料／轮毂三段因果是否过于整齐，以及第046—050章与后续章节的继承；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第051章及以后不得假定C-01是共同体机器、拓荒者-01已经出棚、材料已形成库存、任何环境责任制度或跨地网络已经建立。后续只能承接借物已归、轮毂第十四圈现象、材料来源缺口、井口观察与仍未解决的手推车／取水劳动。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第五十一至五十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、跨章因果与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 051 | `26A848D59880CA97A0BBD22F248E0719D7B5D9BE480E059C77C7803D556C99F9` | `619D5971CE75DAE0429AF4AD136DCBB637EB2753DCFAF2F29F191D46A306B4D1` | 再拼请求逐项遇到既有用水、盐车和无效零件的拒绝；油布只由林川罩到当晚，拒绝不被翻译成退出共同体或义务。 |
+| 052 | `952A557485024A3ECCFA0A04F24B66041CC1EC3A244000B0AC69DFAD656FAFBC` | `5879653240DB5C61526A0280B6F5D4113E8A45E6C880431E9252F7AD1D578D27` | 雨棚看护只记录一夜到清晨的自愿、时限与撤回；没有轮值、基金、保管职位或持续照料承诺。 |
+| 053 | `5AB05A788FD7B14351E0C46F061068B3274B5F7147AF225D7C3FB52BA46695C7` | `FDA67C8FC270AF39401A839E02FDF05DD7C9A52C204DEFFCEB92B6F8BA71E0C8` | 等待、改孔与拆回是三条待询问路线；来源、用水、后续照料与撤回代价仍在场，未产生标准、项目或供给链。 |
+| 054 | `CC3AE4092E0C4C31F325EE8DF05922C3E3E1168D11692F64E1563C942543A409` | `E611DC57C66E65DCB7255E14AACA8636B07FE862A18CD490B0BB0899C080898A` | 读回卡只帮助当场的人辨认“等待”“切孔”“拆回”的实际代价；它不是课程、资格、师徒关系或统一答案。 |
+| 055 | `6778AD227A68B1FA2103D139CA90490BF1B2A9AEDCFFB3933BDD4BBFAA8514FA` | `D2F88035C6D5FB30BCA8461108EFF817B53414B2CC03A789FC50E5AA85A3A82A` | 原页、读回、修订、异议与重开条件并列；油印与门边阅读只支持对照，不生成第三份协议、命令、资格或后世协议。 |
+
+- 字数检查：第051章 `3003 / 3000`，第052章 `3025 / 3000`，第053章 `3074 / 3000`，第054章 `3045 / 3000`，第055章 `3054 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自章节状态、路线页／读回／修订说明、C-01与人物对话锚点，留待独立文学回读，不做机械删改。
+- 连续性边界：第055章只形成 `PROPOSAL / NOT_CANON` 的路线页修订说明；没有改写 Canon 中 SE75《拓荒者责任协议》、SE350正式《创造者协议》或任何持久事实台账。
+- 待办：需由未参与本次改写的审读者复核第051—055章的拒绝是否仍保留人物温度、五章局部动作的节奏是否过于同构、周衡与林川的声音是否被说明文本遮蔽，以及第056章对“门槛”的继承；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第056章及以后不得将本组纸页写成许可证、制造者联盟、百种方案的公共目录、拓荒者身份资格或 SE60 已完成的制度转换。后续只能承接具体门边、来源缺口、受影响者的疑问、可反驳文字和仍未作出的行动决定。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第五十六至六十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章边界与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 056 | `D28985012E19222B68967AEAE97DC297E2214ACE0CC771E344B8C8999EE179F3` | `C179362DE96AAB7629C1AB37987174D34D9769AC464C01DF87D349DAEC28A7A4` | 门闩、量尺、抽水手摇杆和短驳手车各自卡住不同的人；“先问周衡”只作为误读证据留下，不成为门槛。 |
+| 057 | `ED294C11A08F364C6B5D2C53905F1903EFD258551A69A95DE0C8B1073583F21D` | `BD6189C62D3F504539E0A1F1F4BE3527B51850AD560C3402F9E5CC272BACACEF` | 林川划掉“制造者联盟”；井边、问号、量尺和缺席者只能带着不转述条件相邻，未产生成员或代表。 |
+| 058 | `9BAC97DA00A376FBC190AE1015D1C0AE0AAE7E64423CB0050C99D2F68112EA70` | `B263FC78D2D8936327035E2F5BB8C0E4A401BD4F8DBD187728979E6BCCC523D7` | 轮座孔位、样件来处、正在抽水的劳动和“未懂”无法被总表互相代替；对照纸不批准路线或分类。 |
+| 059 | `98E2ECF2F8D20B012206444C49C6A9B4B8DD2DB9D5C8D4261E6B3376F5E175EA` | `C209D738302F180CC3A00FF66BC2F03D456FF2C6202DDAB50490592BCACDAFF5` | 钢牌只说明拓荒者-01本机、仅空载、限棚内；名字旁的疑问页不授予任何称号、通行或责任答案。 |
+| 060 | `7454C6B9E2B0D17C083FCE7037B3EA106309C167D82E63ACCCC6F4AEE841D0A0` | `0BD45D4EB044F5A1181032C96346E0C3DF834275E51720FCA22F4D848D7A9434` | 依据Canon SE60，创造者责任边界进入可见争论；四栏记录纸只用来提问，未生成SE75协议、裁决或归属。 |
+
+- 字数检查：第056章 `3880 / 3000`，第057章 `3342 / 3000`，第058章 `3348 / 3000`，第059章 `3290 / 3000`，第060章 `3362 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、拓荒者-01、SE60、纸页标题和章节状态锚点，留待独立文学回读，不做机械删改。
+- Canon锚点：第060章只戏剧化全局Canon中 SE60“创造者责任争论／开放制造的责任边界进入公共讨论”；它不重写 SE75《拓荒者责任协议》、SE100工业冲突或任何持久事实台账。
+- 待办：需由未参与本次改写的审读者复核第056—060章的门边／纸页意象是否过度重复、林川的自我要求是否足以区分于周衡的克制、顾言和许棠的现实压力是否被概念对话遮蔽，以及第061章对责任争论的继承；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第061章及以后不得假定统一许可证、联盟、名册、成员、代表、总表分类、拓荒者称号资格、责任协议、仲裁、基金、网络或历史宣布已经成立。后续只能承接拓荒者-01未出棚、左后轮未决、具体劳动与来源缺口、可反驳纸页，以及一场尚无答案的责任争论。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第六十一至六十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、跨章因果与差异自检；**尚待独立复审**，不构成作者验收、`PASS`、`ACCEPTED` 或 Canon 晋级。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 061 | `2E4957BBD5DE470D6AF99B8DC57EAA46FF377311A5814F392B59DDFC758A71A8` | `9B11DD305F536CEDE6129194934E8B08F1FFB3797AE012E4095655ACFD2BC575` | 抽水、铅丝、送布、等候与看护的工夫可见却不汇为总账；顾言仍带走未摊开的账纸。 |
+| 062 | `116D6E1DA0620DA8FC7D474261FDEFB1CBB2850A15E619C69C5B16F9272F3061` | `B68675E24C0434BE8DD6F903E95E0F6D1D1C9D87C6636290A336149A4DEBA403` | 桶耳白痕保留为局部物证；阿芜拒绝把一角所见写成机器全责，也不把影响抹掉。 |
+| 063 | `2B70DEEEE65C63A42CEE13B1DADCF899970A0FE8D6E1F0366F52A22B8DED47DF` | `6158B3C47E52F82B4B5C44250021B999F9ED4F4072EA678419EBDB23CE88401A` | 唐槐未落锤、孔位未变、工具自行带走；林川只承认拦住本次动作，未获得以后决定权。 |
+| 064 | `D23E8F8B924C9FBD3BD3E9CB6C1011B67413AC74126EEF861CF02870DDED2F53` | `267A56A731E3517DD945A7ABBAFC1D83607B6E48594E6CE0A24E14757BE7D0FB` | 被传成禁令的半句话被拆回唐槐与林川可撤回原话；工具、未知与关系均未被结算。 |
+| 065 | `62A0891232228F37E88D5C4931F305B3F59BC5026A13E093913E73DE37D6F636` | `EF6B2454A10AECB2D47F4C97E66762D5CECA408C889664390E32840DCCC39143` | “事故报告”被拆为亲见半句、当事人原话与划掉的结论；没有报告、编号、发布或ACCEPTED事实层。 |
+
+- 字数检查：第061章 `3128 / 3000`，第062章 `3059 / 3000`，第063章 `3087 / 3000`，第064章 `3100 / 3000`，第065章 `3045 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、责任争论、锤／轮座、事故纸标题和章节状态锚点，留待独立文学回读，不做机械删改。
+- 连续性边界：本组只在废铁营本地推进“责任争论如何不吞没具体人”的问题；没有将局部工夫、物证、一次停手或散页回写为网络、正式报告、责任协议或其他持久事实台账。
+- 待办：需由未参与本次改写的审读者复核第061—065章的纸页意象与口头追问是否过密、顾言／许棠／阿芜／唐槐的声音是否持续区分、林川的停手是否被写得过于正当，以及第066章对三种追问的继承；在此之前，章节状态保持 `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED`。
+- 下游影响：`NOTICE / STALE` — 第066章及以后不得假定跨区网络、节点、地图、数据权、整体告警、60秒动作、信任系统、正式报告、事故档案、编号、基金、仲裁、自动规则或融资型机甲已经成立。后续只能承接左后轮未决、唐槐未落的一锤、桶耳白痕、未摊开的账纸、可取回的原话与三种尚不能互相替代的追问。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第六十六至七十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果与差异自检；独立复审对第066—070章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 066 | `9716BA443851139FC6646D30B3272F7D7E37349401B94232C15E72C6369D7393` | `151728364FF48654020D6FE6B0033403F8DE01D740FF6D1663C6BF31E1638A1B` | 三种追问只让锤、未问来源与门的延误并列；门在雨前合上不抵扣任何人，左后轮仍未改。 |
+| 067 | `D53A03194C324B54E1578B1C9F26D5CE6E2E88663C9001725CA63344AEDB82C6` | `AE14552874AE32385C0F5AAA422AB9326341FEFB3A1C77DCFC7D4BEE611FE0E6` | 林川承认未改孔位是一种好处，却不把唐槐的雨路、修门人的早上或等待者折作自己的价钱。 |
+| 068 | `6459849B0F30A5E02ACBB065DB8B706A38FAD3FBAD4D53E4237C9681928E15D5` | `9A3149EC60ED5AE2ACB1C59DC499A2AA33A8BA2B57EC19884A47CB4C9C47ED24` | 梁师傅的旧话既未补成同意也未补成否决；折尺、细冲随持有人离开，404只确认无新标记。 |
+| 069 | `208A344D9D1CC42A9A2976FB6C85390FAC958925CFD26DD66120E85B3384ACEA` | `C0A3F05159C1081E643B6506989321D6A9DD69E4636A05CBC56AAEA56A906CFD` | 一次帮抬只停在唐槐清楚同意的箱子与车边；它不是偿还，也不换来未来材料、来源或轮座资格。 |
+| 070 | `974BFFC6416FA129AAAD1E53892A75AA24CD5DE52CE64B1F0AE3ABE8607D9BBC` | `64A79F3758925BE3E3BFE355F8490C6ADF468F42261FE74F4CCE08F0DE8B0C2B` | 扁铁仍属带料者，未入棚、未比孔、未留料；“资本”只指向未获同意的未来期待，并未成为金融或市场事实。 |
+
+- 字数检查：第066章 `3001 / 3000`，第067章 `3007 / 3000`，第068章 `3388 / 3000`，第069章 `3429 / 3000`，第070章 `3522 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、拓荒者-01、章节状态与必要物件锚点，留待最终文学回读，不做机械删改。
+- 独立复审：第066章 `PASS / DRAFT`；第067章在一处“账纸已被看见”的措辞修正后 `PASS / DRAFT`；第068—070章均 `PASS / DRAFT`。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：本组只在废铁营本地推进未落锤、局部好处、缺席来源、当次帮助与未成交询问；没有让Pioneer-01离棚、改孔、获得部件、路线或授权，也没有让E-08右臂解锁或C-01复组。
+- 下游影响：`NOTICE / STALE` — 第071章及以后不得继承P1的维护数据、退出包、S-R7、融资、合同、市场、网络、基金、自动规则或责任体系。后续只能接住一张由提出者自行承担的未成交询问、带料者可带走自己的物件与仍然未决的左后轮。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第七十一至七十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果与差异自检；独立复审对第071—075章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 071 | `ED2ED0D2C215FACE52E167308872E22B484B2BDEDFF96C64DEF09F33868BB067` | `BACD6D3AD39EBAEB1CB329183B8557C52471789468CE4A2B848AA897B91349E2` | 顾言的询问与纸页仅停在眼前，不形成可携带的维护记录、服务入口或机器安排。 |
+| 072 | `1F5709289E70EBA7BBFCCD37536F49D684950C3EBF28AC4B2C3F314AFDFB9BAF` | `1B8700646EC76A8EFB7F6D532CD107BD6D512E48130010CC01DDE86B290DD366` | 带料者自行带走物件与未成交询问，退出不形成交接包、关系定性或后续调用权。 |
+| 073 | `79C24E2FC58500FCA978CAFEBC14243928AFA1E192F7C149CF43A3956FA8233A` | `CAA0C79C23D886D9D7B975E25ED8F0833642965AD5A51B450DD6696BF4B537BB` | 相似套管未被说成适配、样件、库存或拓荒者-01材料，仍归当前持有人。 |
+| 074 | `225C041F763CC9CADAFF8406F7370EB01C2B5AD7526AA25CB0607CE483EC0DBE` | `242D3669B76C9783EFFF1EE8BF0FC36F2EE703953CC09027D3759B73BE60FEA6` | 未写完纸条不成合同、承诺、入口或替代答复，物和问题各留原处。 |
+| 075 | `AAADA223ADA47BD4F5AA2C8F918086FA7B60E7A6F8DEE2B612B1111A3A28E71B` | `4D809D93695AEC0A042A64D840473FAB0C2B5014496B619BAA2DAC16B6406DD0` | SE75只由名称锚定；“今天、这里”的边界不外推为未给出的协议条款。 |
+
+- 字数检查：第071章 `3250 / 3000`，第072章 `3074 / 3000`，第073章 `3177 / 3000`，第074章 `3135 / 3000`，第075章 `3407 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、章节状态、必要物件与拓荒者-01锚点，留待最终文学回读，不做机械删改。
+- 独立复审：第071—075章均 `PASS / DRAFT`；第075章曾将一处持续性协议断言收束为“至少在这儿、在今天”，复核后通过。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：本组只保留物主可带走、询问未成交、相似不等于适配、纸条不替人答话和SE75名称已在场；没有建立S-R7、退出制度、合同、市场、网络、基金或机器行动。
+- 下游影响：`NOTICE / STALE` — 第076章及以后不得继承P1的风险保险、批量交付、维护数据、资本扩张、合同、市场、网络、基金、自动规则或责任体系。后续只能承接具体物件、当前持有、当前询问与拓荒者-01仍限棚内。
+
+## 第七十六至八十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果与差异自检；独立复审对第076—080章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 076 | `F6C78E36CBEF71002A8A1B5DC555B39A60A203173F94BB1B33290B1D8BA808BA` | `5ADC1D834D293BE8CDB8285BAF4680C0597E73223BFF0AD2869563E0ACBB37D6` | 油布只为当夜局部排水使用，门钩不换取留夜、保管或未来材料。 |
+| 077 | `11F7F2FBB534968E1EDB443A1257FCFC990A5E6A8DDF497BAEBACFE89E469F66` | `70E910441801D553D7DB670D83B401ED2FF9844209E6467C23314DAD4D97A9DD` | 唐槐拒绝湿梯，仅自愿完成眼前倒桶；梯与绳归还，不形成风险资格或持续职责。 |
+| 078 | `DE494C7B1EF7D41DE83B657D935ABE43E0CD0C0941B5F663A73B57185FEC144D` | `226506420F617A718BCC041865218FDE187E28EF2AFAD7FA2BF21DB29DF6C328` | “一百台”退回个人提问，未产生量产、交付、材料目录、网络或许可。 |
+| 079 | `9FB7FCB9FF1199BDC74D8C334DF68BB3A3BD9331AEBC3507F71AC39B3F6B8A4C` | `2FA3101F0485B625D03E0807FC0A6C5A13FC58A80B142C40A86D248CAA69B527` | 车棚扳手归属未明，SE75名称不替原持有人许可；替代撬杆只解决当日水槽。 |
+| 080 | `DA4A2BB21B0DE3263898890D42CBA67348D80E8961C7681F241843578D5B55AF` | `6A843A09939E3A3DD923C72DF107EA9DE8950810BB90894FD9CEF5B86160B129` | 小车损失不成为事故报告、赔付或协议定案，车主只用自有布带完成空车试推。 |
+
+- 字数检查：第076章 `3183 / 3000`，第077章 `3057 / 3000`，第078章 `3237 / 3000`，第079章 `3064 / 3000`，第080章 `3019 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自必要术语、地点、人物对话、协议名称和章节状态，不做机械删改。
+- 独立复审：第076—080章均 `PASS / DRAFT`；第079章已将扳手明确为原持有人不在场的车棚旧物，消除与第072章带料者离开物件的连续性冲突。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：本组只写当前持有、拒绝湿梯、个人提问、当日水槽和普通小车损失；没有建立保险、S-R7、批量交付、事故机制、网络、基金、市场或机器行动。
+- 下游影响：`NOTICE / STALE` — 第081章及以后不得继承P1的北线事故、风险池、保险、分区重启、资格、市场、网络、基金、自动规则或责任体系。后续只能承接原持有人边界、物件归还、眼前劳动与拓荒者-01仍限棚内。
+
+## 第八十一至八十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果与差异自检；独立复审对第081—085章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 081 | `35315D0682F156EC8B2A527050C59575D6377C182F0419CDD67F13C729060361` | `73D5127F5B9E6A9A3FC6934340CDF78C4CB3A94E20EBC2216EE8C311A0D46787` | 车棚扳手仍未获使用；SE75名称不生权利、制度或机器行动。 |
+| 082 | `5E5A567398AB120124B82223E3A16AEC61443EAFAC5396F4FB57BBB77F6C7D02` | `B884B5B23256F6D99D9240F93EA283D82C00AA7B54E516F268CD8C50F8F7FED6` | 邻人带走非己扳手待归还；旧话和协议名都不能替原持有人答话。 |
+| 083 | `1CD38446E1F816CA4763E0F8B5C5A2C9E4979317A56F09C9ABB77CBEF611FD11` | `C9DF88E0CFFF85F67DD4D079F54A5A53E869C9545DB410D86FC2265161A26440` | 仅修一颗铆钉并保留柱前唯一空车核验；锤、冲子、短木各归持有人。 |
+| 084 | `1811A9FBBFFD03ADA79643A9359939430ACCEB16AE3F3216C01342C86F5351C9` | `9ABC797ED69EB279FD53033D5637C38DFDA56333796FEC85C126D047290FAF63` | 长木板与油布只供说清的两趟通行，结束后立即归还，不成预留材料或机器入口。 |
+| 085 | `C65FC16D9D2BC4A1347F4B198C77795500524B143EB906018D047A564EBFAF6E` | `75FE28D2C89D9DBD5079DF9ADE13C22ECD70BB255E964A3C166D53C52520E8C3` | 雨中只做可撤回排水；拓荒者-01未移动、未改装，借物各归原处；与第084—095章连续雨期统一为SE84。 |
+
+- 字数检查：第081章 `3108 / 3000`，第082章 `3032 / 3000`，第083章 `3003 / 3000`，第084章 `4060 / 3000`，第085章 `3899 / 3000`，均通过。
+- 诊断提示：第084章AI纹理风险 `0 / 10`，其余四章均为 `1 / 10`；重复短串主要来自必要物件、人物对话、拓荒者-01和章节状态锚点，不做机械删改。
+- 独立复审：第081—085章均 `PASS / DRAFT`；第082章协议名表述、083章二次非空车试推、084章两趟后延长借用、085章未使用扫帚均已修正后复核通过。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 时间轴校正：第084章“连雨第二日”起至第095章的雨夜、次日、风干均统一为 `SE84`；仅改章节契约与DRAFT级审稿时间标签，未触及Canon或持久事实台账。
+- 连续性边界：本组只写缺席原持有人、单颗铆钉、两趟借用和一次排水；没有建立赔偿、风险池、保险、资格、任务、库存、维修队、常设服务或机器行动。
+- 下游影响：`NOTICE / STALE` — 第086章及以后不得继承P1的资格、保险、风险池、重启、规则、网络、基金、市场、合同、事故或责任体系。后续只能承接已归还物件、当前持有、当前询问、局部损耗与拓荒者-01仍限棚内。
+
+## 第八十六至九十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果、对象状态与差异自检；独立复审对第086—090章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 086 | `1A34EC858BAB4B03064E5E6C6AE20121A02BAEEB4F51D89184ED67A6D6EED656` | `463984F0B5B2ECFCEB076205AD68750ED9A51182DA7E165C6478506F3CB49F40` | 裂梯主人“今天不借”只限眼前湿屋檐，不能把写纸的年轻人标作可调用的资格人。 |
+| 087 | `498F7E54433640E1D10CAC564F4B960E87BCCE4D0762A0A92AFF053A63F9A0C5` | `2F017E8F9BFBE8C625DE903A67FFC4C8C523054B396C8CF07DA6D882DB1FCC2A` | 干绳只为湿麻布一次移动借出并归还，不形成保险、定价、补偿或照看职责。 |
+| 088 | `7EE5006AA2B621736ACBB1FA8F652353067FA5C95D714FD2688D64EC1C11457A` | `0C8D0A663A3259DA22110958EE0936E758B85C3D288707FD11B11349E392FF24` | 短木片与旧粉笔线只提示当日松砖，不能重启规则、资格、机器行动或公共边界。 |
+| 089 | `EF1D046D9037A8815787FD3FE6DC32811EBC568C1DA07C300D7D4C4A087F792B` | `31FDCC4BA5FC043A7EC7DA73868CCA2280A825AFDFE1DE499773C1DC66CFD92F` | 车主自有门钩不成公共资源；帮手各自可见且不可换算成义务、服务或收益。 |
+| 090 | `448D307C3E3F73FEE23BCBBB473E571812BECA41AE8258491533BFD11C7231A7` | `835B6768FFE9D8E3DD40C74E40B5DE043F4721755CEC38BB84BE33B770E0FB5B` | 长木板早已归原主；修门人拒绝替他人钉板，纸页持有人自行搬纸，停手不成条款。 |
+
+- 字数检查：第086章 `3601 / 3000`，第087章 `3485 / 3000`，第088章 `3418 / 3000`，第089章 `3015 / 3000`，第090章 `3068 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自必要物件、人物对话、拓荒者-01、章节状态与P2锚点，不做机械删改。
+- 时间轴校正：第086—090章与第084—095章的连续雨期统一为 `SE84`；该校正只触及DRAFT章节契约与审稿时间标签，未触及Canon或持久事实台账。
+- 独立复审：第086—090章均 `PASS / DRAFT`；第086章“扫水”已收束为未动扫帚旁的拨水动作，第089章歧义指代已明确，第090章木板归属与纸页状态均已复核通过。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：拓荒者-01始终限棚内、左后轮未改、无移动／部件／路线／许可；E-08右臂仍锁止、C-01仍拆解；SE75只作既有名称锚点，未补写任何协议条款。
+- 下游影响：`NOTICE / STALE` — 第091章及以后不得继承P1的资格、保险、风险池、规则试行、网络、基金、市场、合同、事故或责任体系。后续只能承接各自持有的物、各自提出的问题、当次帮手与拓荒者-01仍限棚内；没有将DRAFT事件回写为Canon或持久事实台账。
+
+## 第九十一至九十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、跨章因果、时间轴与差异自检；独立复审对第091—095章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 091 | `FB037EDE4E472A079E9B0A615F086C9C61CA76A1EFAEBFC189561900A710B75E` | `C211665946FB50DCFF061344F730FC9B74A5255F660613B0ED101B728546BE61` | 竹匾主人只为晒谷壳拒借；受潮纸页另想当日办法，不把拒绝结成价钱或债。 |
+| 092 | `D190120B07C5CD8D507A3C50EC8AB1BC19FB1BBD5B99A3EBE637D000B4EF4B6B` | `7E27B745D5DE824C8793663AB206CCCB60078F6A1A1C010BB6C3909E13B7B8B0` | 油灯只照补鞋后即随持灯者离开；一次搀扶不变成夜间照明或服务。 |
+| 093 | `2FE62DE7CB925507F214359941B4895779582E4401AD25F074564018CE2A1EC1` | `02A9A841473A856CAA7BA61A39A7EFF5A141006CEFE65E081004B56A1A406F77` | 粉笔只提示当日一块松砖；粉笔随主人收起，不成为最低线、禁区或解释权。 |
+| 094 | `37A57FB4C85C7771405048A0CFFC3DEF0CE93E09823B2FEECF9156D42F65B0BD` | `9EB8B3B73D764D1BD8A4BD9347AC4CA2D52DC96788790F732821FC5F7CBE27D6` | 空铁盒未被钉成无主收件处；每个人只带走自己的物与待问事项。 |
+| 095 | `5D538D7039CDF849EB16444E8D8A86307565AD748DF0FC23BA2620FD05AE63BE` | `F5E847D144FAD9F3F59DD8C6F04EAF8C0C4A2A7660294391A36293BABD753DF0` | 个人纸留下未问、未签和未发布的空白，不成为协议、条款或入口。 |
+
+- 字数检查：第091章 `3188 / 3000`，第092章 `3172 / 3000`，第093章 `3185 / 3000`，第094章 `3339 / 3000`，第095章 `3098 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自必要物件、人物对话、拓荒者-01、状态锚点和P2-H标签，不做机械删改。
+- 时间轴校正：第084章“连雨第二日”至第095章的雨夜、次日、风干均统一为 `SE84`；第090章骤雨与第091章次日、以及后续纸页／油灯／粉笔／铁盒均可在同一年内成立。该校正只触及DRAFT章节契约和审稿时间标签，未触及Canon或持久事实台账。
+- 独立复审：第091—095章均 `PASS / DRAFT`；第092章已删去灯光“照过几步路”的残留，灯只用于补鞋、持灯者随即离开。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：拓荒者-01始终限棚内、左后轮未改、无移动／部件／路线／许可；E-08、C-01没有状态改写；SE75只作既有名称锚点，未补写协议内容。
+- 下游影响：`NOTICE / STALE` — 第096章及以后不得继承P1的公开测试、暂停权制度、共同协议、网络、基金、资格、保险、入口或机器行动。后续只能承接个人纸上的未问事项、各自带走的物与仍未决的左后轮。没有将DRAFT事件回写为 Canon 或持久事实台账。
+
+## 第九十六至一百章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、跨章因果、物件归属与差异自检；独立复审对第096—100章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 096 | `6FE0BDBFE6D4780EDE4D3A3D276D7215D858638CB8D671016B9FF086FE7E89A9` | `BB80810E605F11517514B1D18C86B72C3964A50F0AFCDB318E5B21DB949B33EF` | 未签个人纸不塞进旧棚门缝；棚门不开，纸由提出者带走，不构成保管、转交或测试。 |
+| 097 | `F1DD158A0301DF0EC4CDBFEB83BC9CB4D4620E6B805FFF2EB4B351C26F74BB58` | `79EBC897466F8B840FC3E674497A0B8AABB4BC4DFED251A5FA724D91134AAF5B` | 周衡只在孩子与担水者当次经过时扶住旧门，随后放手；无暂停权、看门职责或复核席。 |
+| 098 | `E0DC5340219712054DA318A9EEEBC03AF98A8AC508982D98C53AA63B4E39A9F8` | `2907595AFBD2583629FC4C930DA7D5A83218014534730138D4DFDD85C62D661A` | 蓝边碗归还原主，问题纸随提出者离开；不形成共享物、退出包、联系人或再入条件。 |
+| 099 | `306C81C9C0674679B3F3C788F36AFE8F753D19402DD0CDEB14C53E1C4D1D3B44` | `915F998146504F45EBE6B5DD0D40D35A1C028EDA050802330DA832203E577DB6` | 顾言的算时纸只写“后檐今夜”，不留姓名、排程、债、合同或答复。 |
+| 100 | `322019E2257D2B0162C0A0826DE035DA4A702BA7734B8CCA339DBFC5692AB54E` | `9A853BE775E7A9FD602EE907B889A25924C1AF9A653DAD9049860E27C308AC33` | 空铁盒未钉上侧门，提出者自行带回；不成收件处、名册、答问或入口。 |
+
+- 字数检查：第096章 `3102 / 3000`，第097章 `3101 / 3000`，第098章 `3018 / 3000`，第099章 `3133 / 3000`，第100章 `3154 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自必要物件、人物对话、章节状态、拓荒者-01与P2锚点，不做机械删改。
+- 独立复审：第096—100章均 `PASS / DRAFT`；第097章已收束一次扶门的范围，第098章借物归还边界、第099章算时纸的无署名边界、第100章铁盒的未钉状态均经复核。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：所有章节仍为 `SE84` 的局部雨期；拓荒者-01始终限棚内、左后轮未改、无部件／测试／移动／路线／许可；E-08右臂保持锁止，C-01保持拆解；SE75若被提及也只作名称锚点。
+- 下游影响：`NOTICE / STALE` — 第101章及以后不得继承P1的共同框架、公开测试、暂停权、退出包、资格、保险、网络、基金、市场、合同或机器行动。后续只能接住不同提出者的不同问题、未钉铁盒、各自自持的纸与拓荒者-01仍限棚内；没有将DRAFT事件回写为Canon或持久事实台账。
+
+## 第一百零一至一百零五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、人物知识边界、跨章因果、物件状态与差异自检；独立复审对第101—105章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 101 | `0FDFCA724454FF93E3F7CC7070D3C25CDB08BEFF4CED850D50C69164AC9FBCCD` | `F7329F327A0E93A92BA6688E9BE82DBADE734D11177DC72F9253EBCC15D8DD90` | 同一句亲见话不替两件事答复；两张问题纸分开，各自承担未问事项。 |
+| 102 | `09B2FECBD0AAD0090640DEFDA08DDD0EE3628E5AB6123FFD18480786306E0EF4` | `39293CCC7A37F73243A12DF18CD898A0802A51F1E9E30B3F5EAA37F2D0FE12B1` | 未识字来客带走自己的问题纸；没有手递入口、编号、转交或代答。 |
+| 103 | `E076CED7286814220321DDAFFD9D30A22952896D2FF2B102A65F3872C123F9CA` | `26184D7DE04591440A0819A159A77D43FE8E0553899237C1583218B1B296427D` | 404只是被传闻关联的未证实名字；棚门闭着，没有把名字写成背书或在场证明。 |
+| 104 | `D8A54869FA7821A450FD2A9A3DCB207CB5BE36AF457F8D998723CC41DD51D617` | `46F24169F23054B030B4AD5686DEEF80BD51FD09FD3E66813DFA3085DC5A9A48` | 凳子由孩子自己挪开；抱湿布者只按请求当次抬凳，不承接照看、提醒或资格。 |
+| 105 | `75ED5896F6868BB41CE8472CAEE001D2BC3645775E090968B710D496C6A00BD6` | `28BE6754234B904DDA19DDC20D4AFA30C05C60AFF82B69FD4FCDD9CCF25E26A1` | 门后情形与拓荒者-01需求都未见未问；棚门不开、纸不入棚、没有行动清单。 |
+
+- 字数检查：第101章 `3145 / 3000`，第102章 `3065 / 3000`，第103章 `3039 / 3000`，第104章 `3066 / 3000`，第105章 `3041 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、必要物件、章节状态、拓荒者-01和P2锚点，不做机械删改。
+- 独立复审：第101—105章均 `PASS / DRAFT`；第103章的404在场断言已收束为传闻关联的未证实名字，第104章的未来提醒职责已删除，第105章的“需求”只保留为被拒绝的问题。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：所有章节仍为 `SE84` 的局部雨期；拓荒者-01始终限棚内、左后轮未改、无部件／测试／移动／路线／许可；E-08右臂保持锁止，C-01保持拆解；404不作为现场实体、权威、品牌、证人或答问者。
+- 下游影响：`NOTICE / STALE` — 第106章及以后不得继承P1的资格、档案、共同框架、入口、关系记录、404功能、机器身份结论、网络、基金、市场、合同或机器行动。后续只能承接各自纸页、未钉铁盒、具体物件、当次帮手与仍未决的左后轮；没有将DRAFT事件回写为Canon或持久事实台账。
+
+## 第一百零六至一百一十章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、Canon锚点、人物知识边界、跨章因果、对象状态与差异自检；独立复审对第106—110章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 106 | `1F2A9EEE88C8AC44EC11DFF8F59C70A30B7FF2A4720E3449128AA6488B711600` | `25621E726FB04F40ED96A9E8358DCFE3B6A4557EA3C94455BD9B96DD96E8DA4C` | 鲁成只当次扶门，名字未入纸，修门手艺不成可调用身份、许可或职责。 |
+| 107 | `B3C0FE987F302EE358DE84D74C687E41BC6F3D72523911C5CBCBBDC81BA0F1F8` | `F6BF0414560CB75F857424CEE762237C7FE9792780D39D251FD031D8420F2221` | 老人自持黄纸上的非具名亲见句；炭条一次借还，个人纸与铁盒不保管。 |
+| 108 | `D0750319310ACE5F20719197BA9D0D67B57EEA41C588B28B92FE505AB1E482E4` | `213B9BE4E0C2D092C093FB5CF253F27E2309DD34C24A6B96D4B25FB8E599A9B9` | 两张问纸未贴合、未加共同题头、未存放；各人只带走自己的问题。 |
+| 109 | `A7E41F77A5408F43C3C3B405AE7AA5B74D374745CAF74A5C33D18F6EDE31F86C` | `7A1A6E6C4F2183CDA5809FF1516498B189DDBE0110B1B65A93C5019C0E8965AE` | 鞋主不交鞋、不排名，以自有鞋带和蓝布暂系裂口；两位补鞋人各带针线。 |
+| 110 | `F78B62336CEE5E51F8456F31F0A7A7C850B1D32A150F6D4F1D796D2A2FE0D020` | `1C83435423EDF0D63A6535B88574F84D5496CE6CB54CA37E4940AD42AB642B24` | “还是／不是”两格未勾；棚门不开，提问纸随提出者带走，不形成机器身份或行动结论。 |
+
+- 字数检查：第106章 `3114 / 3000`，第107章 `3146 / 3000`，第108章 `3049 / 3000`，第109章 `3028 / 3000`，第110章 `3029 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自人物对话、必要物件、章节状态、拓荒者-01与P2锚点，不做机械删改。
+- 独立复审：第106—110章均 `PASS / DRAFT`；第107章已清除鲁成的可识别角色绑定，第108章显示标题收束为“干桌裂缝”，第109章保持鞋主自持鞋与两人各自针线，第110章两格始终未勾且404未出场。所有结果仅说明当前DRAFT无发现的连续性阻断，不改变作者验收门槛。
+- 连续性边界：所有章节仍为 `SE84` 的局部雨期；拓荒者-01始终限棚内、棚门未开、左后轮未改、无部件／测试／移动／路线／许可；E-08右臂保持锁止，C-01保持拆解；404不作为现场实体、权威、品牌、证人或答问者。
+- 下游影响：`NOTICE / STALE` — 第111章及以后不得继承P1的资格、档案、共同框架、入口、关系记录、404功能、机器身份／连续性结论、网络、基金、市场、合同或机器行动。后续只能承接各自持有的纸、针线、鞋、未钉铁盒、当前问句与仍未决的左后轮；没有将DRAFT事件回写为Canon或持久事实台账。
+
+## 第一百一十一至一百一十五章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。五章已完成契约、篇幅、文本诊断、人物知识边界、跨章因果、对象状态与差异自检；独立复审对第111—115章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订前 SHA-256 | 修订后 SHA-256 | 自检边界 |
+|---|---|---|---|
+| 111 | `382149A0BA9B01B45DD14CD898F7B6F8B54E63F1454299C276702F75C05C8FBA` | `300A4DDCA078AF0C08E298F28E7DF535B0D53B67D1C53EF5AFDC5D891DEF393F` | 提问者只口头说“门关着、未见里面”；两格未勾，纸留在湿外衣内袋，不交孩子、不承诺明日。 |
+| 112 | `D038EC917A25FDEAA32BB2A97C27904F4FCD9E5E2965CC6BC500D404E52EAD9C` | `F0A863E43F87109A15730431C9056E3A164139CFC9D58726CA5E0D630859C1DA` | 细木片只供当夜取放碗盐时暂顶木柜；没有变成锁、职责或门后的答案。 |
+| 113 | `392B9536EE99642A415EB06B70490FD97DB3CD2CC67EF09C3BA53DE64452CE6E` | `F700F1C786676540B2F8D6EE3D038967CDF5D687CA0C70095FA81E3C38C9D54E` | 湿外衣与未勾纸不进木柜；父亲自行护着，孩子没有取得纸或“最后落处”。 |
+| 114 | `C7DE62FAFBF2EB3CECC53809661095B271826834F02DFF32FC4C5733FB99088F` | `131D655FE7A57E2EBA773945E006AE7CFD9D5EF2AF89B3A30BF7EE2D810FD164` | 空碗、木柜和木片都不替有限见闻留位；父亲只重复自己所见，仍回到眼前滴水。 |
+| 115 | `521754EECEABA9815E9B0B2938EA7B443629CBFB86C6B54918348155F59DC343` | `7C4D55AA0EE99056DE5E6ED1E04E4AFAC1A6EAE7CEAE1D8C58D98381AE160F45` | 孩子区分“记得有”与“眼前看见”；只确认盆水、床脚和木柜此刻状态，未知未被收束。 |
+
+- 字数检查：第111章 `3030 / 3000`，第112章 `3294 / 3000`，第113章 `3232 / 3000`，第114章 `3116 / 3000`，第115章 `3004 / 3000`，均通过。
+- 诊断提示：五章AI纹理风险均为 `1 / 10`；重复短串主要来自父女对话、木片／木柜／陶盆等必要物件和章节状态锚点，留待最终文学回读，不做机械删改。
+- 独立复审：第111—115章均 `PASS / DRAFT`；第113章已补足湿外衣内纸与入柜风险的物理因果，第115章已把“记得有竹篓”与当前观察分开。所有结果仅说明当前DRAFT未发现连续性阻断，不改变作者验收门槛。
+- 连续性边界：五章均为 `SE84` 同一雨夜的家庭局部场景。未勾纸始终由父亲在湿外衣内袋自持；孩子不知道纸上内容，只知道父亲见过关着的门、未见里面。两只旧碗、细木片、木柜与陶盆只服务当夜动作；没有让拓荒者-01、E-08、C-01或404产生行动、观察、身份结论、机构性记录或长期安排。
+- 下游影响：`NOTICE / STALE` — 第111—115章旧P1复核段及其旧维修卡、404记忆／交接、最后维修等前提继续失效。第116章及以后在续写前须另行审计，不得继承资格、档案、网络、基金、市场、合同、机器行动或P1收束结果。没有将DRAFT事件回写为Canon或持久事实台账。
+
+## 第一百一十六至一百一十七章第二轮文学自检（2026-08-10）
+
+结论：`REVIEW / DRAFT`。两章已完成契约、篇幅、文本诊断、人物知识边界、对象状态与差异自检；独立复审对第116—117章均给出 `PASS / DRAFT`，但这**不构成作者验收、`ACCEPTED` 或 Canon 晋级**。
+
+| 章节 | 修订后 SHA-256 | 字数检查 | 自检边界 |
+|---|---|---|---|
+| 116 | `B00FE3BFAA42D56932F6C67E79A20CB3A2091DA6EB2528EA9D43C7090EC422CC` | `3003 / 3000` | 孩子只以自己的练字板暂垫被角；字线受潮变淡，纸、碗、细木片与木柜均不动。 |
+| 117 | `A5120C77755BBBDA0409286154E7BCC7F59A6C7038949BA78BA39D8F027D1C9C` | `3030 / 3000` | 板继续垫住被角的代价是字线继续变淡；父亲不移动湿外衣，纸仍在内袋，碗与细木片均不动。 |
+
+- 诊断提示：两章AI纹理风险均为 `1 / 10`；重复短串主要来自必要物件、亲子对话与章节状态锚点，留待最终文学回读，不做机械删改。
+- 独立复审：第116章与第117章均 `PASS / DRAFT`；第117章已补足“板垫住被角／字线变淡”的当下代价，并移除可能暗示移动湿外衣的表述。所有结果仅说明当前DRAFT未发现连续性阻断，不改变作者验收门槛。
+- 连续性边界：两章均为 `SE84` 同一雨夜的家庭局部场景。孩子限知，未勾纸始终在父亲湿外衣内袋；两只旧碗、细木片与木柜不动。没有姓名、404、机器／棚内叙事、登记／制度、公共流程或长期承诺。
+- 下游影响：`NOTICE / STALE` — 第116—117章原P1的维修卡、交接、登记与网络前提继续失效。第118章及以后在续写前须另行审计，不得承接资格、档案、网络、基金、市场、合同、机器行动或P1收束结果；没有将DRAFT事件回写为Canon或持久事实台账。

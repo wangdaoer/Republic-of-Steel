@@ -102,8 +102,10 @@ steel-republic-project/
 - 时间线检查
 - 章节规划与正文辅助
 - 长篇创作状态追踪
+- 独立文学复审、作者验收与后续影响追踪
 
 所有AI修改都必须遵循 [AGENTS.md](AGENTS.md)，并以 `canon/` 中的正式设定为最高优先级。
+已接入的小说创作运行层见 [小说创作接入说明](docs/novel-skill-integration.md)，逐章复审可从 [文学审稿模板](prompts/literary-review.md) 开始。
 
 ## 当前状态
 
@@ -133,6 +135,8 @@ steel-republic-project/
 - [章节写作模板](prompts/chapter-writing.md)
 - [人物一致性检查模板](prompts/character-check.md)
 - [世界观检查模板](prompts/lore-check.md)
+- [文学审稿模板](prompts/literary-review.md)
+- [小说创作接入说明](docs/novel-skill-integration.md)
 - [第一卷生产数据库](novel/volume01-waste-iron-camp/README.md)
 - [第二卷生产数据库](novel/volume02-north-line/README.md)
 - [第三卷生产数据库](novel/volume03-first-factory/README.md)
