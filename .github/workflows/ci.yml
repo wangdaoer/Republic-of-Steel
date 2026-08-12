@@ -4,6 +4,10 @@ on:
   push:
   pull_request:
 
+permissions:
+  contents: read
+  security-events: write   # 供 github/codeql-action/upload-sarif 写入代码扫描结果
+
 jobs:
   check:
     name: Consistency & Timeline Check
@@ -23,7 +27,7 @@ jobs:
       - name: Run timeline check
         run: python tools/timeline-check/timeline_check.py
 
-      - name: Upload checker reports
+      - name: Upload checker reports (JSON)
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -31,3 +35,17 @@ jobs:
           path: |
             tools/consistency-check/last-run.json
             tools/timeline-check/last-run.json
+
+      - name: Upload consistency SARIF to code scanning
+        if: always()
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: tools/consistency-check/last-run.sarif
+          category: consistency-check
+
+      - name: Upload timeline SARIF to code scanning
+        if: always()
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: tools/timeline-check/last-run.sarif
+          category: timeline-check

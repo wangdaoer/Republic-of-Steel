@@ -35,3 +35,7 @@ assets/cache/
 !.env.example
 *.key
 *.pem
+
+# 校验器本地运行产物（CI 每次重新生成，勿入库）
+tools/**/last-run.json
+tools/**/last-run.sarif

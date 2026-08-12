@@ -13,7 +13,7 @@
 
 用法：
   python tools/timeline-check/timeline_check.py
-报告同时写入 tools/timeline-check/last-run.json
+报告同时写入 tools/timeline-check/last-run.json 与 last-run.sarif（GitHub 代码扫描）
 """
 import json
 import re
@@ -21,7 +21,19 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(REPO / "tools"))
+import sarif_common  # noqa: E402
 NOVEL_DIR = REPO / "novel"
+INFO_URI = "https://github.com/wangdaoer/Republic-of-Steel"
+
+TIME_RE = re.compile(r"^(?:[-*]\s*)?时间\s*[:：]\s*(.+)$")
+
+
+def time_line_of(text: str) -> int:
+    for i, line in enumerate(text.splitlines(), 1):
+        if TIME_RE.match(line.strip()):
+            return i
+    return 1
 
 # 纪元区间（与 canon/timeline/master-timeline.md 对齐）。
 # (名称, 起点SE, 终点SE|None 表示开放)
@@ -75,19 +87,22 @@ def main():
         "per_volume": {},
         "summary": {},
     }
+    findings = []
     volumes_order = []
 
     for vol_dir in sorted(NOVEL_DIR.glob("volume*")):
         vol_name = vol_dir.name
         ch_files = sorted(vol_dir.glob("chapters/chapter-*.md"))
-        rows = []  # (num, se, epoch, name)
+        rows = []  # (num, se, epoch, name, rel, tline)
         for ch in ch_files:
             m = re.match(r"chapter-(\d+)-", ch.name)
             num = int(m.group(1)) if m else 0
             text = ch.read_text(encoding="utf-8", errors="ignore")
+            rel = str(ch.relative_to(REPO))
+            tline = time_line_of(text)
             time_raw = ""
             for line in text.splitlines():
-                mm = re.match(r"^(?:[-*]\s*)?时间\s*[:：]\s*(.+)$", line.strip())
+                mm = TIME_RE.match(line.strip())
                 if mm:
                     time_raw = mm.group(1).strip()
                     break
@@ -95,10 +110,14 @@ def main():
             if se is None:
                 report["unparsed"].append(f"{vol_name}/{ch.name} (时间={time_raw or '空'})")
                 report["warnings"].append(f"[时间缺失/未解析] {vol_name}/{ch.name}: 时间={time_raw or '空'}")
-                rows.append((num, None, None, ch.name))
+                findings.append({"rule_id": "timeline-unparsed-time", "severity": "warning",
+                                 "rule_short": "时间字段未解析",
+                                 "message": f"{vol_name}/{ch.name}: 「时间」={time_raw or '空'}，无法解析为钢铁纪元 SE（请补全）",
+                                 "rel_path": rel, "line": tline})
+                rows.append((num, None, None, ch.name, rel, tline))
             else:
                 ep = epoch_of(se)
-                rows.append((num, se, ep, ch.name))
+                rows.append((num, se, ep, ch.name, rel, tline))
                 exp = VOLUME_EPOCH.get(vol_name)
                 if exp and ep != exp:
                     report["epoch_mismatch"].append(
@@ -107,11 +126,13 @@ def main():
                     report["infos"].append(
                         f"[纪元偏移] {vol_name}/{ch.name}: SE {se} 落入「{ep}」，卷预期「{exp}」（可能为闪回/前史）"
                     )
+                    # 注：各卷按设计跨越纪元边界，纪元偏移属预期信息，不进入 SARIF（避免淹没代码扫描）。
+                    # 仅保留控制台/JSON 信息供人工阅读；可改为聚合为单条 volume 级 finding 时再放开。
 
         rows.sort(key=lambda r: (r[0] if r[0] is not None else 0))
         # C. 卷内非递减校验
         prev = None
-        for num, se, ep, name in rows:
+        for num, se, ep, name, rel, tline in rows:
             if se is None:
                 prev = se if prev is None else prev
                 continue
@@ -122,6 +143,10 @@ def main():
                 report["warnings"].append(
                     f"[时间回退] {vol_name}/chapter-{num:03d}: SE {se} 早于前一章 SE {prev}（确认是否为闪回）"
                 )
+                findings.append({"rule_id": "timeline-regression", "severity": "warning",
+                                 "rule_short": "时间回退",
+                                 "message": f"{vol_name}/chapter-{num:03d}: SE {se} 早于前一章 SE {prev}（确认是否为闪回）",
+                                 "rel_path": rel, "line": tline})
             prev = se if prev is None else max(prev, se)
 
         ses = [r[1] for r in rows if r[1] is not None]
@@ -146,6 +171,11 @@ def main():
                 f"[卷序交叉] {valid[i-1][0]} (SE {valid[i-1][1]}..{valid[i-1][2]}) 与 "
                 f"{valid[i][0]} (SE {valid[i][1]}..{valid[i][2]}) 时间区间重叠/倒挂"
             )
+            findings.append({"rule_id": "timeline-volume-order", "severity": "warning",
+                             "rule_short": "卷序时间交叉",
+                             "message": f"[卷序交叉] {valid[i-1][0]} (SE {valid[i-1][1]}..{valid[i-1][2]}) 与 "
+                                        f"{valid[i][0]} (SE {valid[i][1]}..{valid[i][2]}) 时间区间重叠/倒挂",
+                             "rel_path": f"novel/{valid[i][0]}/README.md", "line": 1})
 
     report["summary"] = {
         "volumes": {v: report["per_volume"][v] for v, _, _ in volumes_order},
@@ -154,6 +184,7 @@ def main():
         "infos": len(report["infos"]),
         "unparsed": len(report["unparsed"]),
         "regressions": len(report["regressions"]),
+        "sarif_results": len(findings),
     }
 
     print("=" * 60)
@@ -165,7 +196,7 @@ def main():
               f"未解析 {pv['unparsed']} | 纪元 {pv['epoch_distribution']}")
     s = report["summary"]
     print(f"错误: {s['errors']}  警告: {s['warnings']}  信息: {s['infos']}  "
-          f"未解析: {s['unparsed']}  时间回退: {s['regressions']}")
+          f"未解析: {s['unparsed']}  时间回退: {s['regressions']}  SARIF 结果: {s['sarif_results']}")
     print("-" * 60)
     if report["regressions"]:
         print("【时间回退 REGRESSION】")
@@ -184,6 +215,8 @@ def main():
     out = Path(__file__).with_name("last-run.json")
     out.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"JSON 报告已写入: {out}")
+    sarif_common.write_sarif("steel-republic-timeline-check", INFO_URI, findings, Path(__file__).with_name("last-run.sarif"))
+    print(f"SARIF 报告: {Path(__file__).with_name('last-run.sarif')} (结果 {len(findings)})")
     return 0 if not report["errors"] else 1
 
 
