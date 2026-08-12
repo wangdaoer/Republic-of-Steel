@@ -1,0 +1,33 @@
+name: Steel Republic Checkers
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    name: Consistency & Timeline Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run consistency check
+        run: python tools/consistency-check/consistency_check.py
+
+      - name: Run timeline check
+        run: python tools/timeline-check/timeline_check.py
+
+      - name: Upload checker reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: checker-reports
+          path: |
+            tools/consistency-check/last-run.json
+            tools/timeline-check/last-run.json

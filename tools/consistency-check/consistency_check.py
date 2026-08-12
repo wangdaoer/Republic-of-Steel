@@ -57,9 +57,10 @@ for canon_name, aliases in CANON.items():
         TOKEN2CANON[a] = canon_name
 ALL_TOKENS = list(TOKEN2CANON.keys())
 
-# 必备元数据（按实际 schema：以「视角」标定 POV）
-REQUIRED_META = ["版本", "状态", "时间", "地点", "视角"]
-META_RE = {k: re.compile(rf"^(?:[-*]\s*)?{k}\s*[:：]\s*(.+)$") for k in REQUIRED_META}
+# 必备元数据（按实际 schema：以「视角」或「主要人物」标定 POV）
+REQUIRED_META = ["版本", "状态", "时间", "地点"]
+POV_META = ["视角", "主要人物"]
+META_RE = {k: re.compile(rf"^(?:[-*]\s*)?{k}\s*[:：]\s*(.+)$") for k in (REQUIRED_META + POV_META)}
 PEOPLE_RE = re.compile(r"^(?:[-*]\s*)?主要人物\s*[:：]\s*(.+)$")
 BODY_RE = re.compile(r"^##\s*正文\s*$")
 
@@ -124,6 +125,9 @@ def main():
                 if not meta.get(k):
                     report["missing_meta"].append({"chapter": label, "field": k})
                     report["errors"].append(f"[元数据缺失] {label} 缺少「{k}」")
+            if not any(meta.get(p) for p in POV_META):
+                report["missing_meta"].append({"chapter": label, "field": "视角/主要人物"})
+                report["errors"].append(f"[元数据缺失] {label} 缺少「视角」或「主要人物」")
 
             # B. 视角 / 主要人物 解析
             for field in ("视角", "主要人物"):
