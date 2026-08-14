@@ -18,14 +18,14 @@
 
 | 范围 | 当前状态 | 说明 |
 |---|---|---|
-| 001—005 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：E-100学校、重建厂、三方所有权与劳动恢复被写入同一工业关系图 |
-| 006—010 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：地方供应链、复制成本、工厂边界、第一次停产与维修能力公共化形成可停、可修、可回到地方的工业基础 |
-| 011—015 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：国家速度、资本规模、工人知识与公共席的后果复核进入三方合同 |
-| 016—020 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：速度成本、知识许可、维修罢工与公共席确立第一工业宪章的可暂停、可复核边界 |
-| 021—025 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：自动臂、有限模型、训练劳动、自动化失误与身体退出权拒绝把机器写成万能主体 |
-| 026—030 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：人机班次、隐形劳动、有限调度、自动化革命与岗位转型均进入公共分配和责任结构 |
-| 031—035 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：智能资本被拆回模型、数据、设备、网络、教育、维修与责任基金，M-7N不取得人格或财产权 |
-| 036—040 | DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED | 第一轮文学精修完成：反对、版本危机、SE350创造者协议与第一工业时代以可追索、可暂停、可修订的责任闭合 |
+| 001—005 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 006—010 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 011—015 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 016—020 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 021—025 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 026—030 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 031—035 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 036—040 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 
 ## 审稿结论规则
 

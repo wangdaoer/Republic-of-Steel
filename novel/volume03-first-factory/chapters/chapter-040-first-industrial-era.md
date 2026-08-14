@@ -3,7 +3,7 @@
 
 版本：SR-VOL03-CH040-v1.1
 
-状态：第一轮文学精修（POLISH_PASS_1）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -389,5 +389,19 @@ SE350年末，七城工业档案厅为下一时代建立新目录。
 - 人物一致性：POLISH_PASS_1
 - 伏笔登记：POLISH_PASS_1
 - 主题闭合：PASS / 工业的所有权与创造者责任
-- 第三卷状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+- 第三卷状态：ACCEPTED / CANON
 - 下一卷承接：创造者协议、M-7N边界、北轨未知设备、更高阶智能与智能文明
+
+
+## 审稿状态
+
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 卷末章节：按治理文件 §2 作者验收流程升级为终稿正典；卷级审稿状态同步升级为 ACCEPTED / CANON。
+- 伏笔登记：F001、F012
+- 无 BLOCKED 项。

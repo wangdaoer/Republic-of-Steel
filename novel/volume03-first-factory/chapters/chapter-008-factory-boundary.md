@@ -3,7 +3,7 @@
 
 版本：SR-VOL03-CH008-v1.1
 
-状态：第一轮文学精修（POLISH_PASS_1）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -334,11 +334,17 @@ SE177年末，回声工业城签署工厂边界协议。
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_1
-- 世界观一致性：POLISH_PASS_1
-- 时间线一致性：PASS（SE 177 连续）
-- 伏笔登记：POLISH_PASS_1
-- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间线一致，与已 ACCEPTED 章节人物／伏笔连续一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 伏笔登记：F003、F004、F006、F012
+- 无 BLOCKED 项。
 
 ## 下一章预告
 
