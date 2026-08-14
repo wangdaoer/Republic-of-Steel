@@ -25,6 +25,7 @@
 | 026—030 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 031—035 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 036—040 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 041 | `ACCEPTED / CANON` | 终稿验收（苏烈正式登场，2026-08-14）：SE 160 北境战争结束现场，苏烈限知视角首秀，提出「强文明为何仍重复战争」核心问题并转向观察者路线；清零苏烈 0 覆盖内容债，新增 V2-F013 |
 
 ## 审稿结论规则
 
