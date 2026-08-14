@@ -16,124 +16,124 @@
 
 | 范围 | 当前状态 | 说明 |
 |---|---|---|
-| 001 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：以SE 1既有发现／SE 3首次启动对齐时间线，补强非标准检测、三日评估期限与731维修编号的因果代价，并限定自检供能；独立复审PASS，仍待作者验收 |
-| 002 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：维护卡原件留档、仅以查阅副本进入仓库；三日限期沿用第一章的同一倒计时，补入档案手续、冻结工时与低功耗核验；独立复审PASS，仍待作者验收 |
-| 003 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四小时效率失败、冷却线恢复与七日临时评估明确分开；731非标准评估留下待复核证据，补入冻结接口与压力曲线现场；独立复审PASS，仍待作者验收 |
-| 004 | `ACCEPTED / CANON` | 终稿验收：B-17险情作为可追溯的人员撤离决策成立；404「人员撤离优先于设备完整」判断写入事故记录；时间规范为 SE 3（闭合 timeline-unparsed-time）；F008 登记 |
-| 005 | `ACCEPTED / CANON` | 终稿验收：927人名单与第928项责任登记成立；陈默申请与复印证据链完整；C-002已修复；新增F009登记 |
-| 006 | `ACCEPTED / CANON` | 终稿验收：H-12中止测试承载第928项责任选择；C-003已修复；推进F008/F009，与ch005连续一致 |
-| 007 | `ACCEPTED / CANON` | 终稿验收：M-927确认为历史组织标识、第928项为周衡临时责任；404仅读取旧维修指令片段；新增F010登记 |
-| 008 | `ACCEPTED / CANON` | 终稿验收：限定404仅提供异常信号、以物理证据支撑中止；第七码头笔误修复；新增F011登记 |
-| 009 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：有限试行补足证据缺口、自动失效与暂停条件；404仅为原始日志来源，韩朔暂不封禁并保留异议；独立复审PASS，仍待作者验收 |
-| 010 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：区分P-12标准额定5.2倍与旧接口实测约1.6倍；以五维比较保留速度、安全、现场维修与复核成本，F013仍未决；独立复审PASS，仍待作者验收 |
-| 011 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三日试行首日、零独立资格；P-12安全边界与404的有效性未知教学候选并存，F015仍留待第十二章；独立复审PASS，仍待作者验收 |
-| 012 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：K-7动作重新受既有有限试行的影像、原始日志、双席与到期条件约束；F015仅为任务级草案；独立复审PASS，仍待作者验收 |
-| 013 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：H-12-R1限定为本次修订层试行，分开原件、证据、当前判断与未知项；M-927与第928项不混同；独立复审PASS，仍待作者验收 |
-| 014 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：贺岩身份、M-927关联、历史在场与事故责任分开待核；R2临时字段受双岗位与到期条件约束；独立复审PASS，仍待作者验收 |
-| 015 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：128条仅为当前检索可见候选行；H-12-R2三日初筛不自动通知、索引或归责；M-412以独立同意陈述保留未决；独立复审PASS，仍待作者验收 |
-| 016 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：128项为候选记录位置、U键可变；只读克隆恢复受预算与校验约束，删除残片不推定行为者；独立复审PASS，仍待作者验收 |
-| 017 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4临时场地仅获首个低风险班次，原件与副本分流；泵修复降载运行、复查停机，未提前建立废铁营；独立复审PASS，仍待作者验收 |
-| 018 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4未命名工棚仅逐班复检；404缺席检验为下一班自动失效草案，阀组仅最低防冻运行；独立复审PASS，仍待作者验收 |
-| 019 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE4一次低负载工具观察建立临时保管链，8分钟测试中止且不形成工具制度；独立复审PASS，仍待作者验收 |
-| 020 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE5为30运行日、可暂停且不自动续期的首次有限登记；责任分离与404数据边界经现场验证；独立复审PASS，仍待作者验收 |
+| 001 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 002 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 003 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 004 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 005 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 006 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 007 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 008 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 009 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 010 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 011 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 012 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 013 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 014 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 015 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 016 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 017 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 018 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 019 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 020 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 001—020 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一篇“废铁里的火种”已完成逐章第一轮文学精修，待独立回读与终稿复审 |
-| 021 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：J-071为一次低能、可撤回的外出签认，泵仅半流量运行并待夜间复核；F023标NOTICE/DRAFT；独立复审PASS，仍待作者验收 |
-| 022 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：限时查阅与东环一次试作均单独申请、可暂停；来源链与404扫描数据分开，试作未完成；独立复审PASS，仍待作者验收 |
-| 023 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三处观察以本地纸带和版本包回传，北侧与铸造镇失败承担成本；OA-01七日失效；独立复审PASS，仍待作者验收 |
-| 024 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四项为首轮低风险、七日失效审查，高能／场外／复制另表；姚素只做无载模拟，F026保持OPEN/DRAFT；独立复审PASS，仍待作者验收 |
-| 025 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08只运至桥前安全线，旧许可失效仅借四栏方法；测试期权利字段与费用未决，F027保持OPEN；独立复审PASS，仍待作者验收 |
-| 026 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08仅28度空载20米观察，三日拆检页分开动作／设计／信息缺口／复核，成本归属留给下一章；独立复审PASS，仍待作者验收 |
-| 027 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：E-08右臂锁止，东环仅进入待补材料／待复核听证；三账与共同成本候选页均不构成授权或结算；独立复审PASS，仍待作者验收 |
-| 028 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：U01仅为本次北侧外部复核页，贡献、受益、责任与共同成本分列；低速观察不产生其他任务许可；独立复审PASS，仍待作者验收 |
-| 029 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：暂停仅适用本次通桥任务，发起、执行、证据与复启复核分离；已发生、已处置与未证实成本分列；独立复审PASS，仍待作者验收 |
-| 030 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：七日临时排序桌仅安排八个人工审看格，不派车、不许可；北线暂停仍为任务级提出／停车／记录／复启分离；独立复审PASS，仍待作者验收 |
-| 031 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE24仅限场地／批次／非通能接口环试制，六件编号与安装ID分开；无E-08使用、公共开放或常设生产机构；独立复审PASS，仍待作者验收 |
-| 032 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：阿芜-01仅为一次低风险维护观察页，行动、见证、联系、成本与身份分开；不创设持续用户／见证人状态；独立复审PASS，仍待作者验收 |
-| 033 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE26供应保留听证只产出无效成本试算，拒收预付款；资金为零、无补助／基金／排程／资格，E-08继续锁止；独立复审PASS，仍待作者验收 |
-| 034 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE29仅有一次低载、可旁观的记录观察，三张卡公开局部现象、异议和未知；不产生制造、设备、材料、安装、价格或资格结论；自检完成，独立复审待排 |
-| 035 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE30仅公开“拓荒者理念：责任问题讨论页·零号”，保留问题、来源和异议；不产生身份、许可、基金、组织代表权或后世正式协议；自检完成，独立复审待排 |
-| 036 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE31只产生一次“零号页引用与反问页·01”，可引、可问、可过期；不形成通用修订权、优先权或自动行动 |
-| 037 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：B-7破箱救援保留为五栏事件记录，事实、未知与异议并列；不生成公共能源、紧急许可、豁免或常设组织 |
-| 038 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：星环仓与旧铁路仅留一张非约束联合勘验清单；不产生E-08网络、价格、资金、排他控制或未来设计权 |
-| 039 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：T-29-A原件与八件复制品的失配只收束为三张复制观察卡；不授权复制、生产、安装或使用 |
-| 040 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE35仅公开两页“讨论页·一号”，列事实、问题与异议；不提前形成协议、仲裁、资格、资源或行动效力 |
-| 041 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE36只有一次共同争议在场记录，事实补充动作可被复看；不成立仲裁庭、使用权、优先级或先例 |
-| 042 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：T-37-02仅按本次试验卡中止，依据、已发生成本、未知后果并列；不形成安全席、裁决、赔偿或一般暂停规则 |
-| 043 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：一次短驳的个人铜线垫付、物品去向与撤回条件分列；不建立共同付款、基金、补贴、价格或排程 |
-| 044 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：手推车转向销只完成无载配合并拆回，来源、尺寸、载荷与受影响者保留缺口；不生成制造入口或资格 |
-| 045 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE45 Canon锚点以林川的拓荒者-01棚内空载移动呈现；不扩写为公共开放、网络、培训、价格或正式协议 |
-| 046 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：南部旧砖炉与雨水井只留下烟尘观察页、压火与取水延误；不形成环境制度、处罚、许可或跨地记录站 |
-| 047 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：草图、炉火、取水与自愿清扫按动作和自述并列；不形成责任分层、赔偿比例、仲裁或下一炉许可 |
-| 048 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：材料棚只切出三段边角比较，来源者保留拒绝权；不建立公共库存、风险目录、配给、价格或统一替代标准 |
-| 049 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借用薄环在暖棚和冷风线的无载表现并列，拓荒者-01继续停在棚内；不产生适配、复制、外用或归责结论 |
-| 050 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：C-01仅为当日拆回的共同轮毂手摇试架，借物可退出；不成为新拓荒者、共同所有、机构或P-01使用许可 |
-| 051 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借件再拼请求逐项被拒后仍可留下询问；夜间油布只遮当晚，不生成共同项目、承诺或持续看护 |
-| 052 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：雨棚看护页只涵盖一夜到清晨的自愿行动、时限与撤回；不形成轮值、基金或维护职位 |
-| 053 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三条本地路线及各自撤回代价并列；不构成标准化项目、批准、资格或持续供给 |
-| 054 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：一次读回卡拆开等待、改孔与拆回的代价；不升级为课程、认证、培训框架或统一解释权 |
-| 055 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：路线页修订说明让原页、读回、异议和重开条件并列；不成为协议、资格、命令或行动效力 |
-| 056 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四处门边分别呈现门锁、借物、当下劳动和缺席者；不让“先问周衡”变成统一入口 |
-| 057 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川划掉“制造者联盟”，只留下问题来处与不转述条件；不产生成员、名册或代表 |
-| 058 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孔位、来源、正在进行的劳动与理解缺口被写成不可互相代替；不形成总表、标准或路线批准 |
-| 059 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：拓荒者-01名称只说明本机当前边界；不成为称号、入口证、设备开放或责任结论 |
-| 060 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：Canon SE60仅落为责任边界进入可见争论；不宣布时代完成或提前建立SE75责任协议 |
-| 061 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：抽水、绕铅丝、送布与等候的工夫可见却无统一归处；不生成总账或固定归属 |
-| 062 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：桶耳白痕证明局部影响，不能补成完整因果或全责；不形成告警、事件编号或总表 |
-| 063 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川只拦住未落的一锤；不成为紧急条款、长期门槛、免责或未来决定权 |
-| 064 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：唐槐与林川仅保留可撤回原话和未知；不形成信任记录、赔偿、复核或准入机制 |
-| 065 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：所谓“事故报告”被拆回亲见、原话与被划掉的结论；不形成档案、编号、发布或归责 |
-| 066 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三种追问只并置未落锤、未问来源与被耽误的修门工夫；不形成追溯表、责任链、抵扣或门槛 |
-| 067 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未改孔位是一种局部好处，却不折抵唐槐、修门人与等待者的工夫；不形成收益名单、补偿或债 |
-| 068 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：梁师傅的旧话既不成为许可也不成为禁止；折尺与细冲随持有人离开，左后轮无新痕 |
-| 069 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：林川只在唐槐同意下抬当次木箱；帮助不成为偿还、和解、优先权或机器许可 |
-| 070 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：窄扁铁未留、未量、未转移；“资本”只是对预先承诺未来的担忧，不形成金融、市场或机器状态 |
-| 071 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：顾言的询问不成为可携带维护记录；拓荒者-01继续限棚内；独立复审PASS，仍待作者验收 |
-| 072 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：带料者自行带走物与未成交询问，不形成退出包、交接或后来调用权；独立复审PASS，仍待作者验收 |
-| 073 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：相似套管不等于适配、样件或机器材料，仍归当前持有人；独立复审PASS，仍待作者验收 |
-| 074 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未写完的纸条不成为合同、承诺或入口，问题与物各留原处；独立复审PASS，仍待作者验收 |
-| 075 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：SE75仅以名称出现，不补条款；当下不能替缺席者的未说之话定价；独立复审PASS，仍待作者验收 |
-| 076 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：油布主人未被门钩换取或留夜，排水只属当晚局部动作；独立复审PASS，仍待作者验收 |
-| 077 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：唐槐拒绝湿梯，只自愿倒当日桶，拒绝不生风险资格或持续职责；独立复审PASS，仍待作者验收 |
-| 078 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：“一百台”退回提出者的个人问题，不产生交付、量产、材料目录或许可；独立复审PASS，仍待作者验收 |
-| 079 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车棚旧扳手归属未明，SE75名称不替原持有人许可使用；独立复审PASS，仍待作者验收 |
-| 080 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：小车局部损失不成事故报告、赔付或协议定案，车主仅自用布带试推；独立复审PASS，仍待作者验收 |
-| 081 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车棚扳手仍未获使用，SE75仅为名称；不产生权利、制度或机器行动；独立复审PASS，仍待作者验收 |
-| 082 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：邻人带走不属自己的扳手待归还，协议名与旧话均不替原持有人答话；独立复审PASS，仍待作者验收 |
-| 083 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：只补车主同意的一颗铆钉并完成唯一空车核验，工具与人手均归各持有人；独立复审PASS，仍待作者验收 |
-| 084 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：长木板和油布只完成说清的两趟通行后立即归还，不成预留材料、库存或机器入口；独立复审PASS，仍待作者验收 |
-| 085 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：雨中排水只为可撤回保护，拓荒者-01未移动、未改装，盆桶砖块各归原处；连续雨期统一为SE84，独立复审PASS，仍待作者验收 |
-| 086 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：裂梯主人“今天不借”只限眼前梯与湿屋檐，不给写纸的年轻人贴资格；独立复审PASS，仍待作者验收 |
-| 087 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：干绳仅为湿麻布的一次移动借出并归还，不形成保险、定价或债；独立复审PASS，仍待作者验收 |
-| 088 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：短木片旧线只提示当日松砖，不能重启规则、资格或机器行动；独立复审PASS，仍待作者验收 |
-| 089 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：车主自有门钩不成为公共资源，实际帮手各自可见且不可换算；独立复审PASS，仍待作者验收 |
-| 090 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：修门人不替他人钉长木板，纸页持有人自行搬纸；停手不成为条款；独立复审PASS，仍待作者验收 |
-| 091 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：竹匾主人拒借用于晒谷壳，受潮纸页另想当日办法；拒绝不结成价钱；独立复审PASS，仍待作者验收 |
-| 092 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：油灯只照补鞋，持灯者随即离开；搀扶不变成照明服务；独立复审PASS，仍待作者验收 |
-| 093 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：粉笔只圈一块当日松砖，线随主人收起；不成为最低线或禁区；独立复审PASS，仍待作者验收 |
-| 094 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空铁盒未钉成无主收件处，物与问题仍由当事人带回；独立复审PASS，仍待作者验收 |
-| 095 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：个人纸保留未问到事项、不签名不发布；不成为协议或入口；独立复审PASS，仍待作者验收 |
-| 096 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：个人纸不塞进旧棚门缝；纸随提出者带走，不成为保管、转交或测试入口；独立复审PASS，仍待作者验收 |
-| 097 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：周衡只在当次扶门让孩子与担水者过去，随后放手；不生成暂停权、看门职责或复核席；独立复审PASS，仍待作者验收 |
-| 098 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：借来的蓝边碗归还原主，提问纸仍由当事人带走；不成为共享物、退出包或关系入口；独立复审PASS，仍待作者验收 |
-| 099 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：顾言的算时纸只写“后檐今夜”，不留姓名、排程、债或契约；独立复审PASS，仍待作者验收 |
-| 100 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空铁盒未钉上侧门，提出者自行带回；不成为收件、名册、答问或入口；独立复审PASS，仍待作者验收 |
-| 101 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：同一句亲见话不替两件事回答；两张问题纸分开，各人自行承担询问；独立复审PASS，仍待作者验收 |
-| 102 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：未识字来客带走自己的问题纸，不生成手递入口、编号或代答；独立复审PASS，仍待作者验收 |
-| 103 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：404只是被传闻关联的未证实名字，未被写成背书或棚内在场；独立复审PASS，仍待作者验收 |
-| 104 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：凳子由孩子自己挪开，抱湿布者只按请求当次抬凳；不结成照看或提醒职责；独立复审PASS，仍待作者验收 |
-| 105 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：门后情形与拓荒者-01需求均未见未问；棚门不开、纸不入棚；独立复审PASS，仍待作者验收 |
-| 106 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：鲁成的修门手艺不被写成“可去问”的身份；名字、工具与未说尽的话各自带走；独立复审PASS，仍待作者验收 |
-| 107 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：老人只在自持黄纸上留下一句亲见，炭条一次借还；个人纸与铁盒不代为保管；独立复审PASS，仍待作者验收 |
-| 108 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：两张问纸未贴成共同题头，黑板、铁盒与干桌不收纸；各人各自带走；独立复审PASS，仍待作者验收 |
-| 109 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：鞋主不交鞋不排名，以自有鞋带和蓝布暂系裂口；两人各带针线；独立复审PASS，仍待作者验收 |
-| 110 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：“还是／不是”两格未勾，棚门不开；提问纸带走，未形成机器身份或行动结论；独立复审PASS，仍待作者验收 |
-| 111 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：两格仍空，提问者只口头承认门关、未见里面；纸不交孩子、不承诺明日；独立复审PASS，仍待作者验收 |
-| 112 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：细木片只顶住当夜木柜门到取放碗盐，未变成锁或长期职责；未勾纸仍在父亲衣内；独立复审PASS，仍待作者验收 |
-| 113 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：湿外衣与未勾纸不进木柜，父亲仍自行护着；木片只顶住此刻，孩子未获收束或明日安排；独立复审PASS，仍待作者验收 |
-| 114 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：空碗、木柜与木片均不替父亲保存或解释有限见闻；纸仍在衣内，孩子未获收束或以后安排；独立复审PASS，仍待作者验收 |
-| 115 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只确认眼前盆水、床脚与柜门，纸仍在父亲衣内；未得到门后或以后答案；独立复审PASS，仍待作者验收 |
-| 116 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只用自己的练字板暂垫被角，承受字线受潮变淡；纸、碗、木片不动；独立复审PASS，仍待作者验收 |
-| 117 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：孩子只让自己的练字板暂垫被角，承受字线受潮变淡；纸、碗、木片不动；独立复审PASS，仍待作者验收 |
+| 021 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 022 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 023 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 024 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 025 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 026 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 027 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 028 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 029 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 030 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 031 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 032 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 033 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 034 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 035 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 036 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 037 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 038 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 039 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 040 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 041 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 042 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 043 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 044 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 045 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 046 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 047 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 048 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 049 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 050 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 051 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 052 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 053 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 054 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 055 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 056 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 057 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 058 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 059 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 060 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 061 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 062 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 063 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 064 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 065 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 066 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 067 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 068 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 069 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 070 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 071 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 072 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 073 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 074 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 075 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 076 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 077 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 078 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 079 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 080 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 081 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 082 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 083 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 084 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 085 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 086 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 087 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 088 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 089 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 090 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 091 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 092 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 093 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 094 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 095 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 096 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 097 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 098 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 099 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 100 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 101 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 102 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 103 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 104 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 105 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 106 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 107 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 108 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 109 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 110 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 111 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 112 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 113 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 114 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 115 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 116 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 117 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 118 | `DRAFT / POLISH_PASS_1 / BLOCKED / REPLAN_REQUIRED` | 2026-08-11 续写前沿审计：旧P1的SE110、跨区网络与404交接前提，和第116—117章当前P2链不兼容；不得直接续写或验收 |
 | 119 | `DRAFT / POLISH_PASS_1 / BLOCKED / REPLAN_REQUIRED` | 2026-08-11 续写前沿审计：继承的共同框架、关系记录与公共登记均为失效前提；须先重订章节契约 |
 | 120 | `DRAFT / POLISH_PASS_1 / BLOCKED / REPLAN_REQUIRED` | 2026-08-11 续写前沿审计：继承的四节点网络、手递入口与北轨交接均未获当前P2链支持；不得作为第二卷前提 |

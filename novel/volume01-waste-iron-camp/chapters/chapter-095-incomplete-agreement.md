@@ -3,7 +3,7 @@
 
 版本：SR-VOL01-CH095-v1.2
 
-状态：第二轮文学精修（POLISH_PASS_2）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -238,11 +238,17 @@
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_2
-- 世界观一致性：POLISH_PASS_2（不建立协议、条款、签署、版本、发布、反馈机制、入口、机构、许可、资格、服务或机器行动依据）
-- 时间线一致性：REVIEW_REQUIRED（SE 84；仅DRAFT级本章记录）
-- 伏笔登记：POLISH_PASS_2（候选，未回写外部台账）
-- 正文状态：DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间线一致，与已 ACCEPTED 章节人物／伏笔连续一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 伏笔登记：（见章节契约）
+- 无 BLOCKED 项。
 
 ## 下一章预告
 

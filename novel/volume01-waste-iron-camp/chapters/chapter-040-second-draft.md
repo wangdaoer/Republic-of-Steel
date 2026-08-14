@@ -3,7 +3,7 @@
 
 版本：SR-VOL01-CH040-v1.2
 
-状态：第二轮文学精修（POLISH_PASS_2）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -356,12 +356,17 @@ SE 26那张成本草稿，有人想把它叫成基金。SE 29的观察卡，有�
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_2
-- 世界观一致性：POLISH_PASS_2
-- 时间线一致性：PASS（SE 35；本章未提前生成SE 45民间拓荒者、SE 75《拓荒者责任协议》、SE 350正式《创造者协议》或任何成熟协议结构）
-- 伏笔登记：DRAFT CANDIDATE ONLY
-- 正文状态：DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED
-- Canon提示：讨论页·一号仅为非正典讨论草稿，不能用于申请设备、场地、材料、资金、资格或行动
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间线一致，与已 ACCEPTED 章节人物／伏笔连续一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 伏笔登记：F037、F041、F042
+- 无 BLOCKED 项。
 
 ## 第二篇阶段注记（DRAFT）
 

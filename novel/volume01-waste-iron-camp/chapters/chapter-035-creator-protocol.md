@@ -3,7 +3,7 @@
 
 版本：SR-VOL01-CH035-v1.2
 
-状态：第二轮文学精修（POLISH_PASS_2）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -340,12 +340,17 @@
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_2
-- 世界观一致性：POLISH_PASS_2
-- 时间线一致性：PASS（SE 30仅为拓荒者理念公开；本章未提前生成SE 45民间拓荒者、SE 75责任协议或SE 350正式《创造者协议》）
-- 伏笔登记：DRAFT CANDIDATE ONLY
-- 正文状态：DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED
-- Canon提示：本章讨论页为PROPOSAL / NOT_CANON，不得转换为事实、身份、许可、资源或协议台账
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间线一致，与已 ACCEPTED 章节人物／伏笔连续一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 伏笔登记：F028、F034、F036、F037
+- 无 BLOCKED 项。
 
 ## 下一章预告
 
