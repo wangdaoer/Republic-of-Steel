@@ -20,10 +20,10 @@
 | 002 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：维护卡原件留档、仅以查阅副本进入仓库；三日限期沿用第一章的同一倒计时，补入档案手续、冻结工时与低功耗核验；独立复审PASS，仍待作者验收 |
 | 003 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：四小时效率失败、冷却线恢复与七日临时评估明确分开；731非标准评估留下待复核证据，补入冻结接口与压力曲线现场；独立复审PASS，仍待作者验收 |
 | 004 | `ACCEPTED / CANON` | 终稿验收：B-17险情作为可追溯的人员撤离决策成立；404「人员撤离优先于设备完整」判断写入事故记录；时间规范为 SE 3（闭合 timeline-unparsed-time）；F008 登记 |
-| 005 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：压缩重复解释，强化927人名单、陈默申请、复印证据与第928项；C-002已修复，新增F009 |
-| 006 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：以H-12中止测试承载第928项责任选择；C-003已修复，推进F008/F009 |
-| 007 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：明确M-927为历史组织标识、第928项为周衡的临时责任；404仅读取旧维修指令片段，现场适用待第二次评估复核；独立复审PASS，仍待作者验收 |
-| 008 | `DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED` | 第一轮文学精修完成：限定404仅提供异常信号，以物理证据支撑中止；修复第七码头笔误，新增F011 |
+| 005 | `ACCEPTED / CANON` | 终稿验收：927人名单与第928项责任登记成立；陈默申请与复印证据链完整；C-002已修复；新增F009登记 |
+| 006 | `ACCEPTED / CANON` | 终稿验收：H-12中止测试承载第928项责任选择；C-003已修复；推进F008/F009，与ch005连续一致 |
+| 007 | `ACCEPTED / CANON` | 终稿验收：M-927确认为历史组织标识、第928项为周衡临时责任；404仅读取旧维修指令片段；新增F010登记 |
+| 008 | `ACCEPTED / CANON` | 终稿验收：限定404仅提供异常信号、以物理证据支撑中止；第七码头笔误修复；新增F011登记 |
 | 009 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：有限试行补足证据缺口、自动失效与暂停条件；404仅为原始日志来源，韩朔暂不封禁并保留异议；独立复审PASS，仍待作者验收 |
 | 010 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：区分P-12标准额定5.2倍与旧接口实测约1.6倍；以五维比较保留速度、安全、现场维修与复核成本，F013仍未决；独立复审PASS，仍待作者验收 |
 | 011 | `DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED` | 第二轮DRAFT级精修：三日试行首日、零独立资格；P-12安全边界与404的有效性未知教学候选并存，F015仍留待第十二章；独立复审PASS，仍待作者验收 |

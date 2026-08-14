@@ -1,9 +1,9 @@
 # 第一卷：《废铁营》
 # 第五章：被遗忘的名字
 
-版本：SR-VOL01-CH005-v1.1
+版本：SR-VOL01-CH005-v1.2
 
-状态：第一轮文学精修（POLISH_PASS_1）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -556,11 +556,17 @@ B-17的事故记录在凌晨一点十七分归档。
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_1
-- 世界观一致性：POLISH_PASS_1
-- 时间线一致性：PASS（C-001、C-002已修复）
-- 伏笔登记：PASS
-- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON（SE3 与 ch001–ch004 对齐）
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间已为钢铁纪元 SE 3，时间线一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 无 BLOCKED 项；与已 ACCEPTED 的 ch001–ch004 人物／伏笔连续一致。
 
 ## 下一章预告
 
