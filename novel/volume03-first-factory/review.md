@@ -26,6 +26,7 @@
 | 026—030 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 031—035 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 036—040 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 041 | `ACCEPTED / CANON` | 终稿验收（苏烈帝国观察时期，2026-08-14）：SE 340 铁序工业城，苏烈限知视角，嵌入莱因体系观察集中秩序，提出「敌人也可能看见一部分真相」；续写观察者线，新增 V3-F013 |
 
 ## 审稿结论规则
 
