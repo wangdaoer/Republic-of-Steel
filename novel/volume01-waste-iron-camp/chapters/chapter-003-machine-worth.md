@@ -3,11 +3,11 @@
 
 版本：SR-VOL01-CH003-v1.2
 
-状态：DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
-- 时间：第一章、第二章之后的三日维修期限内
+- 时间：钢铁纪元 SE 3（第一章启动后的三日维修期限内）
 - 地点：第七码头维修区、旧工业测试线
 - 视角：周衡限知视角
 - 可见目标：在拆解期限前证明404能够完成一项真实工业任务
@@ -383,7 +383,7 @@
 
 | 编号 | 内容 | 预期回收 | 状态 |
 |---|---|---|---|
-| F007 | 旧工业体系如何定义机器价值 | 第一篇后段与责任协议 | OPEN |
+| F007 | 旧工业体系如何定义机器价值 | 第一篇后段与责任协议 | OPEN（ch003 ACCEPTED 2026-08-14 确立 canonical 首次出现） |
 
 ### 人物状态变化
 
@@ -401,11 +401,18 @@
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_2
-- 世界观一致性：POLISH_PASS_2
-- 时间线一致性：PASS（C-001已解决）
-- 伏笔登记：PASS
-- 正文状态：DRAFT / POLISH_PASS_2 / FINAL_REVIEW_REQUIRED
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：PASS（章节契约时间规范为 SE 3，与 ch001/ch002 对齐；C-001已解决）
+- 伏笔登记：PASS（F007 canonical 首次出现已登记）
+- 正文状态：ACCEPTED / CANON
+- 终稿复审：2026-08-14 作者验收 ACCEPTED，按治理文件 §2 回写持久台账（见「ACCEPTED 回写」）。
+
+## ACCEPTED 回写（2026-08-14）
+
+- 章节状态 → `ACCEPTED / CANON`；章节契约「时间」由相对表述规范为 `钢铁纪元 SE 3`（消除 timeline-unparsed-time 告警，与 ch001/ch002 对齐）。
+- `foreshadowing.md`：F007 标注 ch003 ACCEPTED 确立 canonical 首次出现；状态维持 OPEN（回收 第一篇后段与责任协议）。
+- 未改动 ch001/ch002（已 ACCEPTED）及后续章；404「经验可以记录」呼应 404 Bible §六 经验积累学习，未新增 Canon 条目。
 
 ## 下一章预告
 
