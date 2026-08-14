@@ -26,6 +26,7 @@
 | 026—030 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 031—035 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
 | 036—040 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项 |
+| 041 | `ACCEPTED / CANON` | 终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；苏烈第三阶段星海协调者收束（SE 5000），与V4-F001/F011/F012闭环，无 BLOCKED 项 |
 
 ## 结构验收结论
 
