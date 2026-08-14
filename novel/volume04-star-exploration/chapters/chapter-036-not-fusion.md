@@ -3,7 +3,7 @@
 
 版本：SR-VOL04-CH036-v1.1
 
-状态：第一轮文学精修（POLISH_PASS_1）
+状态：终稿正典（ACCEPTED / CANON）
 
 ## 章节契约
 
@@ -380,11 +380,17 @@ SE3200年，人类正式拒绝完全融合。
 
 ## 审稿状态
 
-- 人物一致性：POLISH_PASS_1
-- 世界观一致性：PASS / 不融合不是拒绝合作，也不是把融合写成邪恶
-- 时间线一致性：PASS（SE 3000—3200 连续）
-- 伏笔登记：POLISH_PASS_1
-- 正文状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+- 人物一致性：ACCEPTED / CANON
+- 世界观一致性：ACCEPTED / CANON
+- 时间线一致性：ACCEPTED / CANON
+- 伏笔登记：ACCEPTED / CANON
+- 正文状态：ACCEPTED / CANON
+
+## ACCEPTED 回写（2026-08-14）
+- 按治理文件 §2 作者验收流程升级为终稿正典；章节契约时间线一致，与已 ACCEPTED 章节人物／伏笔连续一致。
+- 回写 `review.md`：章节状态行升级为 ACCEPTED / CANON。
+- 伏笔登记：F008、F009、F010、F011
+- 无 BLOCKED 项。
 
 ## 下一章预告
 
