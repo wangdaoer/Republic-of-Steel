@@ -1212,3 +1212,12 @@
   - 章节状态 → `ACCEPTED / CANON`；章节契约「时间」规范为 `钢铁纪元 SE 3`。
   - `foreshadowing.md`：F008 标注 ch004 ACCEPTED 确立 canonical 首次出现；状态维持 OPEN（回收 人机关系与智能协作线）。
   - 未新增 Canon 人物条目（维修管理负责人、值班工人为角色称谓，非具名人物）。
+
+---
+
+## 第一卷收束硬门（治理文件 §3 合规）
+
+- 第 118—120 章维持 `DRAFT / POLISH_PASS_1 / BLOCKED / REPLAN_REQUIRED`（见上文第 137—139 行），**未静默验收**。
+- 证据审计、收束路线 PROPOSAL（A 留白收束／B 桥接移交／C 反向立论）与路线 A 的 ch118—120 重订契约草案，已写入 [`docs/volume01-closing-proposals.md`](../docs/volume01-closing-proposals.md)。
+- 该文档为 `PROPOSAL / DECISION_GATE`：在作者从 A／B／C 中选定前，ch118—120 正文与下游台账不生效、不升级 Canon。
+- 独立待办：Canon 人物 **苏烈** 全书 0 出场（内容债），记录于上述文档第 5 节，不阻塞卷收束。
