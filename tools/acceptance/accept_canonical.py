@@ -45,6 +45,7 @@ def extract_all_fnums(text):
 
 def rewrite_review_status(lines, ch_nums, date):
     """Update ONLY the main 章节状态 table (header `| 范围 | 当前状态 | 说明 |`).
+    Handles both per-chapter rows (`| 001 |`) and range rows (`| 001—005 |`).
     Confined to that table so 连续性结论 / SHA-256 diff tables are never touched."""
     NOTE = "终稿验收：独立复审 PASS，按治理文件 §2 升级为 ACCEPTED / CANON；人物／世界观／时间线／伏笔一致，无 BLOCKED 项"
     out = []
@@ -55,9 +56,19 @@ def rewrite_review_status(lines, ch_nums, date):
             out.append(ln)
             continue
         if in_main:
-            m = re.match(r"^\| (\d{3}) \|", ln)
-            if m and int(m.group(1)) in ch_nums:
-                out.append(f"| {int(m.group(1)):03d} | `ACCEPTED / CANON` | {NOTE} |")
+            m = re.match(r"^\| (\d{3})(—\d{3})? \|", ln)
+            if m:
+                if m.group(2):  # range row e.g. | 001—005 |
+                    a = int(m.group(1)); b = int(m.group(2).lstrip("—"))
+                    if all(x in ch_nums for x in range(a, b + 1)):
+                        out.append(f"| {m.group(1)}{m.group(2)} | `ACCEPTED / CANON` | {NOTE} |")
+                    else:
+                        out.append(ln)  # partially blocked -> keep
+                else:  # per-chapter row
+                    if int(m.group(1)) in ch_nums:
+                        out.append(f"| {m.group(1)} | `ACCEPTED / CANON` | {NOTE} |")
+                    else:
+                        out.append(ln)  # BLOCKED -> keep
             elif ln.strip() == "" or not ln.startswith("|"):
                 in_main = False
                 out.append(ln)
@@ -107,32 +118,54 @@ def upgrade_chapter(path, date, dry):
             header_done = True
         else:
             new_lines.append(ln)
-    # 2) rewrite 审稿状态 block
+    fk_line = ""
+    for ln in lines:
+        if "伏笔职责" in ln:
+            fk_line = ln
+            break
+    all_fnums = extract_all_fnums(fk_line) if fk_line else []
+    fk_str = "、".join(f"F{n:03d}" for n in all_fnums) if all_fnums else "（见章节契约）"
+    # 2) rewrite 审稿状态 block (or append if absent)
     sb_idx = None
     for i, ln in enumerate(new_lines):
         if ln.strip() == "## 审稿状态":
             sb_idx = i
             break
     if sb_idx is None:
-        return False, "no-审稿状态"
-    # next heading after sb_idx
+        # volume-closing chapter: update 卷级审稿状态 volume-status line, append block at EOF
+        out_lines = list(new_lines)
+        for k, ln in enumerate(out_lines):
+            if re.match(r"^- .*卷状态[:：]", ln):
+                out_lines[k] = re.sub(r"^(^- .*卷状态[:：]).*$", r"\1ACCEPTED / CANON", ln)
+        out_lines += [
+            "",
+            "## 审稿状态",
+            "",
+            "- 人物一致性：ACCEPTED / CANON",
+            "- 世界观一致性：ACCEPTED / CANON",
+            "- 时间线一致性：ACCEPTED / CANON",
+            "- 伏笔登记：ACCEPTED / CANON",
+            "- 正文状态：ACCEPTED / CANON",
+            "",
+            f"## ACCEPTED 回写（{date}）",
+            "- 卷末章节：按治理文件 §2 作者验收流程升级为终稿正典；卷级审稿状态同步升级为 ACCEPTED / CANON。",
+            f"- 伏笔登记：{fk_str}",
+            "- 无 BLOCKED 项。",
+            "",
+        ]
+        out_text = "\n".join(out_lines)
+        if dry:
+            print(f"[DRY] {os.path.basename(path)}: header->{ACCEPTED_MARK}; appended 审稿状态 (卷末章)")
+            return True, "dry"
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(out_text)
+        return True, "卷末章-append"
+    # standard: rewrite block between 审稿状态 and next heading
     end = len(new_lines)
     for j in range(sb_idx + 1, len(new_lines)):
         if new_lines[j].startswith("## ") and j != sb_idx:
             end = j
             break
-    block_body = "\n".join(new_lines[sb_idx + 1:end])
-    if "ACCEPTED 回写" in block_body:
-        # already has 回写 inside block; still ensure status lines ACCEPTED
-        pass
-    fk_line = ""
-    for ln in lines:
-        if "伏笔职责" in ln:
-            fk_line = ln
-            break
-    new_fnums = extract_new_fnums(fk_line) if fk_line else []
-    all_fnums = extract_all_fnums(fk_line) if fk_line else []
-    fk_str = "、".join(f"F{n:03d}" for n in all_fnums) if all_fnums else "（见章节契约）"
     repl = [
         "",
         "- 人物一致性：ACCEPTED / CANON",
@@ -151,11 +184,11 @@ def upgrade_chapter(path, date, dry):
     new_lines = new_lines[:sb_idx + 1] + repl + new_lines[end:]
     out_text = "\n".join(new_lines)
     if dry:
-        print(f"[DRY] {os.path.basename(path)}: header->{ACCEPTED_MARK}; 审稿状态 rewritten; 新增F={new_fnums}")
+        print(f"[DRY] {os.path.basename(path)}: header->{ACCEPTED_MARK}; 审稿状态 rewritten")
         return True, "dry"
     with open(path, "w", encoding="utf-8") as f:
         f.write(out_text)
-    return True, f"新增F={new_fnums}"
+    return True, "ok"
 
 def main():
     dry = "--dry-run" in sys.argv
