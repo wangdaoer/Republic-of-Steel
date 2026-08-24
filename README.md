@@ -109,14 +109,12 @@ steel-republic-project/
 
 ## 当前状态
 
-- Version：`SR-V1.4`
-- 阶段：四卷正文与全部240章首轮文学精修已完成，Canon与卷级台账已同步。
-- 正文规模：240章（第一卷120章、第二卷40章、第三卷40章、第四卷40章）。
-- 第一卷《废铁营》：001—120，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
-- 第二卷《守住北线》：001—040，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
-- 第三卷《第一座工厂》：001—040，`DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
-- 第四卷《星海拓荒》：001—040，`COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`。
-- 总体状态：`COMPLETE / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED`；全书结构验收通过，下一阶段为卷级独立回读、全书终稿复审与发布前校验。
+- 版本：远程 `main` @ `5769cc9`
+- 阶段：主线十二卷已完本，最后一章已完成作者验收并回写 `ACCEPTED / CANON`。
+- 正文规模：主线339章（第一卷120章、第二卷41章、第三卷41章、第四卷41章、第五卷25章、第六卷10章、第七卷9章、第八卷12章、第九卷10章、第十卷10章、第十一卷10章、第十二卷10章）。
+- 主线状态：`COMPLETE / ACCEPTED / CANON`
+- 系列终点：第十二卷第十章《不肯也是权》（SE 5102），明确记录“全系列完本”。
+- 补充篇：`novel/side-stories/` 下的苏烈星海外传为补充正典，不计入主线339章完本基线。
 - GitHub远程仓库：[wangdaoer/Republic-of-Steel](https://github.com/wangdaoer/Republic-of-Steel)，默认分支 `main`
 
 ### Canon入口
@@ -141,6 +139,14 @@ steel-republic-project/
 - [第二卷生产数据库](novel/volume02-north-line/README.md)
 - [第三卷生产数据库](novel/volume03-first-factory/README.md)
 - [第四卷生产数据库](novel/volume04-star-exploration/README.md)
+- [第五卷生产数据库](novel/volume05-responsibility-war/README.md)
+- [第六卷生产数据库](novel/volume06-co-governance-era/README.md)
+- [第七卷生产数据库](novel/volume07-the-ones-outside-the-light/README.md)
+- [第八卷生产数据库](novel/volume08-the-contract-under-the-light/README.md)
+- [第九卷生产数据库](novel/volume09-the-fire-from-afar/README.md)
+- [第十卷生产数据库](novel/volume10-the-lamp-speech/README.md)
+- [第十一卷生产数据库](novel/volume11-the-keepers-of-the-covenant/README.md)
+- [第十二卷生产数据库](novel/volume12-the-stele-of-the-good/README.md)
 
 ## 状态约定
 
