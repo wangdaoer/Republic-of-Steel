@@ -259,7 +259,7 @@
 |---|---|---|---|
 | F001 | 404为何能在27年后保持运行 | 后续揭示404特殊历史 | OPEN（ch001 ACCEPTED 2026-08-14 确立 canonical 首次出现：SE1 周衡列为待确认、SE3 重启，微弱运行信号延续） |
 | F002 | “创造者留下的世界” | 陈默线 | OPEN（ch001 ACCEPTED 确立 canonical 首次出现；陈默正式出场见 ch002 ACCEPTED；SE10 全局公开仍 OPEN） |
-| F003 | 404的最后任务 | 第四卷回收 | OPEN（ch001 ACCEPTED 确立 canonical 首次出现） |
+| F003 | 404的最后任务／拓荒者目的 | 第四卷回收 | CLOSED / ACCEPTED（2026-08-27；ch025、V4 ch039—040 回收） |
 
 ### 人物状态变化
 
@@ -285,7 +285,7 @@
 - 章节状态 → `ACCEPTED / CANON`；正文 v1.3 三项 PATCH 已落（夜班段意象压缩 / L174 主题讲解改具体物件 / 章末「三日」行动钩子）。
 - `canon/characters/404.md`：§三 第二阶段补 canonical 起源时刻——钢铁纪元 SE 3、北方旧工业区·第七码头维修区、由维修员周衡在报废清点任务中唤醒（与 ch001 连续性说明及全局 Canon 对齐）。
 - `canon/characters/zhou-heng.md`：基础信息补 canonical 维修编号 731（第七码头维修区），取自 ch001 正文。
-- `foreshadowing.md`：F001/F002/F003 标注「ch001 ACCEPTED 确立 canonical 首次出现」，各自状态维持（F001 OPEN / F002 OPEN / F003 REVIEW_REQUIRED）。
+- `foreshadowing.md`：F001/F002/F003 标注「ch001 ACCEPTED 确立 canonical 首次出现」；F003 已于 2026-08-27 按 ch025、V4 ch039—040 回写为 `CLOSED / ACCEPTED`。
 - 未改动 ch002（已 ACCEPTED）及后续章；「倒推最后维护者」钩子在 ch002 ACCEPTED 中已作为调查线落地。
 
 ## 下一章预告

@@ -1,6 +1,6 @@
 # 第四卷审稿与验收台账
 
-状态：COMPLETE / STRUCTURAL_REVIEW / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED
+状态：`ACCEPTED / CANON / MAINTENANCE`
 
 ## 卷级检查
 
@@ -35,7 +35,7 @@
 - 伏笔：PASS；V4-F001—V4-F012均完成回收或明确保留未知。
 - 章节交接：PASS；每章包含章节契约、正文、数据库更新、审稿状态和下一章预告。
 - 结局原则：PASS；钢铁共和国不是国家扩张，而是跨文明的可交接、可退出、可修复原则。
-- 文学精修：POLISH_PASS_1 / FINAL_REVIEW_REQUIRED；第一轮逐章精修已完成，卷级独立回读、重复意象与终稿节奏复核仍待执行。
+- 文学精修与卷级独立回读已完成作者验收；后续仅保留维护性质量债。原精修状态为历史过程记录。
 
 ## 已写章节审阅记录
 

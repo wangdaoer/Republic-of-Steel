@@ -1,6 +1,6 @@
 # 第二卷审稿与验收台账
 
-状态：DRAFT / REVIEW_LEDGER
+状态：ACCEPTED / CANON / MAINTENANCE
 
 ## 卷级检查
 
@@ -184,4 +184,4 @@ SE136—145的雾岭撤离篇完成：北线没有保住每一寸土地，却把
 
 ### 卷级结论
 
-第二卷001—040已完成第一轮文学精修，当前状态：DRAFT / POLISH_PASS_1 / FINAL_REVIEW_REQUIRED。卷级独立回读、格式校验与全书终稿审阅仍待执行。
+第二卷001—040已完成作者验收，当前状态：ACCEPTED / CANON；后续仅做维护性复审。原第一轮精修记录保留为历史过程记录。

@@ -2,7 +2,7 @@
 
 版本：`SR-VOL05-v0.1`
 
-状态：`DRAFT / VOLUME_CONTRACT`
+状态：`ACCEPTED / CANON / MAINTENANCE`
 
 ## 基本信息
 

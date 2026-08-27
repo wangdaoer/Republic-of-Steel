@@ -1,8 +1,12 @@
 # 第一卷审稿与验收台账
 
-状态：`DRAFT / REVIEW_LEDGER`
+状态：`ACCEPTED / CANON / MAINTENANCE`
 
 ## 卷级检查
+
+2026-08-27 维护性复审：主线 001—120 已完成作者验收；历史 `BLOCKED / REPLAN_REQUIRED` 仅作审计记录。F003 已按 ch025、V4 ch039—040 回收并回写为 `CLOSED / ACCEPTED`。
+
+本台账中早期批次的 `DRAFT`、`POLISH_PASS`、`FINAL_REVIEW_REQUIRED` 与旧待办均为历史快照；当前卷级状态以上述维护性复审记录及章节 `ACCEPTED / CANON` 标记为准。
 
 - [ ] Canon一致性
 - [ ] 全局时间线一致性
